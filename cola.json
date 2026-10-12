@@ -15,9 +15,11 @@
     "minuto_publicacion": 37,
     "max_intentos": 3,
     "version_web": {
-      "repositorio": "planetaoverland-pixel/finkalife-prueba",
+      "repositorio": "planetaoverland-pixel/finkalife-devlog",
+      "rama": "gh-pages",
       "archivo": "README.md",
-      "linea": "Versión actual:"
+      "linea": "Versión actual:",
+      "url_juego": "https://planetaoverland-pixel.github.io/finkalife-devlog/"
     },
     "nota": "Solo se publican entradas APROBADA. Si una entrada no tiene version_juego, no se comprueba la versión de la web (fase de concepto)."
   },
