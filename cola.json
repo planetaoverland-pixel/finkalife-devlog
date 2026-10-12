@@ -1,0 +1,14 @@
+{
+  "reglas": {
+    "cuenta": {"alias": "finkalife", "usuario": "playfinkalife", "ig_user_id": "28917590537879786"},
+    "zona_horaria": "Europe/Madrid",
+    "max_por_dia": 5,
+    "separacion_min_horas": 2,
+    "ventana": {"desde": "09:00", "hasta": "23:30"},
+    "minuto_publicacion": 37,
+    "max_intentos": 3,
+    "version_web": {"repositorio": "planetaoverland-pixel/finkalife-prueba", "archivo": "README.md", "linea": "Versión actual:"},
+    "nota": "Solo se publican entradas APROBADA. Si una entrada no tiene version_juego, no se comprueba la versión de la web (fase de concepto)."
+  },
+  "publicaciones": []
+}
