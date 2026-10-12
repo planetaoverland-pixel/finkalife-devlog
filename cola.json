@@ -54,13 +54,13 @@
         "finkalife_icono.jpg"
       ],
       "texto": "Mamy naszą stronę! 🍊🎉\n\nFinka Life ma już swój własny kącik w internecie, a do tego oficjalne logo: soczysta pomarańcza z kwiatem pomarańczy, prosto z naszej finki w Pego. Strona jest po polsku i po hiszpańsku, bo bardzo chcemy, żebyście byli z nami od samego początku.\n\nNa stronie możecie już zagrać w pierwszy prototyp, za darmo i prosto w przeglądarce, bez instalowania. Napiszcie nam, co chcielibyście zobaczyć w grze, czytamy wszystko!\n\n👉 ramsys.es/games/finkalife\n\nEN: Our website is live (in Polish and Spanish) with the official Finka Life logo, and you can already play the first prototype in your browser!\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
       "enlace": "",
       "idioma": "pl",
-      "aprobada_por": "",
+      "aprobada_por": "Christian, 12 oct 2026 21:02",
       "nota": "Vuelve a PENDIENTE el 12 oct 2026 20:58: el texto y la captura de la web decían que aún no se podía jugar (desfasado con la versión web 0.4.0). Se quita la captura y se corrige el texto."
     },
     {
@@ -77,13 +77,13 @@
         "04_wyslane.jpg"
       ],
       "texto": "Nowa wersja już na stronie! 🍊📦\n\nDziś dużo się u nas działo. Marta dostaje teraz zamówienia na telefon: od sąsiadów z Pego i Dénii, a nawet z Krakowa, Gdańska i Warszawy. Zbierasz owoce i pakujesz je do pudełka, przeciągając jeden po drugim. Jeśli zrobisz to szybko, klient zostawi napiwek 😉\n\nGra ma też już swoje menu startowe, a postępy zapisują się same, więc możesz wrócić na finkę, kiedy tylko chcesz.\n\nTo wciąż bardzo wczesny prototyp, ale możecie w niego zagrać za darmo w przeglądarce. Napiszcie nam, co myślicie! 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: New prototype update (Pre-alpha 0.4.0): orders from Poland and Spain, a packing mini-game and a start menu. Play free in your browser!\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
       "enlace": "",
       "idioma": "pl",
-      "aprobada_por": ""
+      "aprobada_por": "Christian, 12 oct 2026 21:02"
     }
   ]
 }
