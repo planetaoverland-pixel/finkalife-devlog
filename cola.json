@@ -1,14 +1,43 @@
 {
   "reglas": {
-    "cuenta": {"alias": "finkalife", "usuario": "playfinkalife", "ig_user_id": "28917590537879786"},
+    "cuenta": {
+      "alias": "finkalife",
+      "usuario": "playfinkalife",
+      "ig_user_id": "28917590537879786"
+    },
     "zona_horaria": "Europe/Madrid",
     "max_por_dia": 5,
     "separacion_min_horas": 2,
-    "ventana": {"desde": "09:00", "hasta": "23:30"},
+    "ventana": {
+      "desde": "09:00",
+      "hasta": "23:30"
+    },
     "minuto_publicacion": 37,
     "max_intentos": 3,
-    "version_web": {"repositorio": "planetaoverland-pixel/finkalife-prueba", "archivo": "README.md", "linea": "Versión actual:"},
+    "version_web": {
+      "repositorio": "planetaoverland-pixel/finkalife-prueba",
+      "archivo": "README.md",
+      "linea": "Versión actual:"
+    },
     "nota": "Solo se publican entradas APROBADA. Si una entrada no tiene version_juego, no se comprueba la versión de la web (fase de concepto)."
   },
-  "publicaciones": []
+  "publicaciones": [
+    {
+      "numero": 1,
+      "tipo": "material propio (arte de concepto)",
+      "tema": "Primer arte de concepto: la finca",
+      "fecha_hora": "2026-10-12T19:37:00+02:00",
+      "version_juego": "",
+      "carpeta": "001",
+      "imagenes": [
+        "finca_concept_art_01.jpg"
+      ],
+      "texto": "Os presentamos el primer arte de concepto de Finka Life 🍊\n\nAsí imaginamos la finca del juego: bancales de naranjos, limoneros, higueras y plataneras, la casita rosa con su parra y las montañas al fondo. Está inspirada en Finka La Figa, la finca real de Pego donde vivimos y trabajamos.\n\nEstamos empezando a crear el juego con muchísima ilusión: un juego cozy de vida en el campo, para móvil, en el que no se trata de tener la granja más grande, sino una vida que quieras vivir.\n\n¿Qué os gustaría hacer en la finca? Os leemos 👇\n\nEN: Our first concept art for Finka Life, a cozy farm-life game inspired by our real Mediterranean farm.\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #madewithgodot",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": ""
+    }
+  ]
 }
