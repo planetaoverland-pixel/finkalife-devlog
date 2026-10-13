@@ -90,6 +90,30 @@
       "aprobada_por": "Christian, 12 oct 2026 21:02",
       "titulo": "Pedidos, empaquetar y menú de inicio",
       "titulo_pl": "Zamówienia, pakowanie i menu startowe"
+    },
+    {
+      "numero": 4,
+      "tipo": "capturas del juego",
+      "tema": "Boby, Jaky y Michi y la casa por dentro",
+      "fecha_hora": "2026-10-13T19:37:00+02:00",
+      "version_juego": "Pre-alfa 0.9.0",
+      "carpeta": "004",
+      "imagenes": [
+        "01_koty.jpg",
+        "02_boby.jpg",
+        "03_dom.jpg",
+        "04_noc.jpg"
+      ],
+      "texto": "Mamy w grze nowych mieszkańców! 🐾\n\nBoby, Jaky i Michi to nasze prawdziwe koty z finki, a teraz biegają też po grze. Spacerują, wygrzewają się na słońcu, bawią się w zapasy, wspinają się na drzewa, a czasem chodzą krok w krok za Martą 😄 Każdego można pogłaskać i wyczesać, a w kąciku kotów trzeba pamiętać o misce i kuwecie.\n\nDo domu można już wejść, a wieczorem koty zwijają się w kłębek w nogach łóżka, dokładnie tak jak u nas ❤️\n\nTo wciąż wczesny prototyp, ale możecie w niego zagrać za darmo w przeglądarce. Który kot jest Waszym ulubionym? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Meet Boby, Jaky and Michi, our real farm cats, now in the game (Pre-alpha 0.9.0). And you can finally go inside the house!\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Boby, Jaky y Michi llegan al juego",
+      "titulo_pl": "Boby, Jaky i Michi w grze"
     }
   ]
 }
