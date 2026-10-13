@@ -278,6 +278,29 @@
    "aprobada_por": "Christian, 13 oct 2026 17:30",
    "titulo": "Zumo de naranja",
    "titulo_pl": "Sok pomarańczowy"
+  },
+  {
+   "numero": 12,
+   "tipo": "capturas del juego",
+   "tema": "El rastro de Jalón",
+   "fecha_hora": "2026-10-21T19:37:00+02:00",
+   "version_juego": "Pre-alfa 0.24.0",
+   "carpeta": "012",
+   "imagenes": [
+    "01_droga.jpg",
+    "02_stol.jpg",
+    "03_lupa.jpg"
+   ],
+   "texto": "Kto lubi grzebać w starociach? 🕰️🔍\n\nNiedaleko nas, w miasteczku Jalón, odbywa się pchli targ pełen starych rzeczy. Teraz Marta też może tam pojechać pikapem, drogą wśród winnic i migdałowców.\n\nNa targu czeka stół „wszystko po 5 €”, ale nie wszystko jest tyle samo warte! Trzeba przyjrzeć się każdej rzeczy z bliska: znak warsztatu na spodzie podnosi cenę, a obtłuczony brzeg ją obniża. Można też zapytać Lupę, asystenta w telefonie, ile mniej więcej coś jest warte. Kupuje się tylko jedną rzecz… i czasem trafia się prawdziwy skarb 👀\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jaki był Wasz najlepszy łup z pchlego targu? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Flea market day in Jalón! Everything costs 5 €, but not everything is worth the same. Look closely, ask your phone assistant and find the hidden gem (Pre-alpha 0.24.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "PENDIENTE",
+   "intentos": 0,
+   "error": "",
+   "publicado_en": "",
+   "enlace": "",
+   "idioma": "pl",
+   "aprobada_por": "",
+   "titulo": "El rastro de Jalón",
+   "titulo_pl": "Pchli targ w Jalón"
   }
  ]
 }
