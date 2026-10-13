@@ -348,6 +348,30 @@
       "aprobada_por": "Christian, 13 oct 2026 18:40",
       "titulo": "Josep y las frutas nuevas",
       "titulo_pl": "Josep i nowe owoce"
+    },
+    {
+      "numero": 15,
+      "tipo": "capturas del juego",
+      "tema": "Galletas de naranja por pasos",
+      "fecha_hora": "2026-10-24T19:37:00+02:00",
+      "version_juego": "Pre-alfa 0.27.0",
+      "carpeta": "015",
+      "imagenes": [
+        "01_huevos.jpg",
+        "02_wycinanie.jpg",
+        "03_piekarnik.jpg",
+        "04_medal.jpg"
+      ],
+      "texto": "Pieczemy ciasteczka pomarańczowe! 🍊🍪\n\nW naszej kuchni na fince pachnie teraz pomarańczą. W grze ciasteczka robi się w sześciu krótkich krokach: ścierasz skórkę pomarańczy, rozbijasz jajka dokładnie o brzeg miski, wyrabiasz ciasto na zmianę obiema rękami, wałkujesz je równo, wycinasz ciasteczka foremką i wyjmujesz je z pieca, gdy są złociste.\n\nZa każdy krok dostajesz medal 🥇 A Chris? Zjada dwa prosto z pieca, zanim zdążą ostygnąć 😄\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jakie ciasteczka pieczecie w domu? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Baking orange cookies in six quick steps: zest, crack the eggs, knead, roll, cut and bake until golden. A medal for every step! (Pre-alpha 0.27.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Galletas de naranja",
+      "titulo_pl": "Ciasteczka pomarańczowe"
     }
   ]
 }
