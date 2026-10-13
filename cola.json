@@ -487,6 +487,29 @@
       "aprobada_por": "",
       "titulo": "Tractor con remolque",
       "titulo_pl": "Traktor z przyczepą"
+    },
+    {
+      "numero": 21,
+      "tipo": "capturas del juego",
+      "tema": "Gallinero",
+      "fecha_hora": "2026-10-30T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.33.0",
+      "carpeta": "021",
+      "imagenes": [
+        "01_kurnik.jpg",
+        "02_jajka.jpg",
+        "03_opieka.jpg"
+      ],
+      "texto": "Na fince zamieszkały pierwsze zwierzęta! 🐔🦆\n\nW rogu finki stanął drewniany kurnik z wybiegiem. Mieszkają w nim kury, kaczki i gęsi, a każde zwierzę potrzebuje jedzenia, wody, czystości i odrobiny czułości. Paszę można kupić albo karmić je chlebem świętojańskim z naszych drzew 🌳\n\nO świcie zadbane zwierzęta znoszą jajka, a zbieranie ich to osobna minigra: trzeba wybierać wolne gniazda, bo kura potrafi dziobnąć 😄 Jajka trafiają do ciasteczek i do nowych klientów.\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Kury, kaczki czy gęsi: kogo wybieracie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Our first farm animals: hens, ducks and geese to care for, and a little egg-collecting minigame. (Pre-alpha 0.33.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Gallinero",
+      "titulo_pl": "Kurnik"
     }
   ]
 }
