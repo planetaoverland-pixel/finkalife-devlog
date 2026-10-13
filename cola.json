@@ -161,6 +161,29 @@
       "aprobada_por": "Christian, 13 oct 2026 12:55",
       "titulo": "Paquetes a Pego en la pickup",
       "titulo_pl": "Paczki pikapem do Pego"
+    },
+    {
+      "numero": 7,
+      "tipo": "capturas del juego",
+      "tema": "Mapa, excursión al Marjal y aves con prismáticos",
+      "fecha_hora": "2026-10-16T19:37:00+02:00",
+      "version_juego": "Pre-alfa 0.16.0",
+      "carpeta": "007",
+      "imagenes": [
+        "01_mapa.jpg",
+        "02_lornetka.jpg",
+        "03_zeszyt.jpg"
+      ],
+      "texto": "Wybraliśmy się na mokradła! 🦩🔭\n\nNiedaleko naszej finki leży Marjal de Pego-Oliva: park przyrody pełen słodkiej wody, trzcin i pól ryżowych, w którym mieszka mnóstwo ptaków. Musiał trafić do gry!\n\nTeraz na mapie wybierasz cel i jedziesz pikapem polną drogą. Na miejscu Marta wchodzi do czatowni z lornetką: rozglądasz się po niebie, trzcinach i wodzie, a każdy nowy ptak trafia do zeszytu. Jest ich 21 i wszystkie naprawdę żyją na Marjal, od łyski po modrzyka. Niektóre chowają się w trzcinach, a jeden jest legendarny i bardzo trudno go wypatrzyć 👀\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jakiego ptaka chcielibyście zobaczyć? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Near our farm lies the Marjal de Pego-Oliva wetland. Now you can go birdwatching there with binoculars and fill a notebook with 21 real local species (Pre-alpha 0.16.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "El Marjal y sus aves",
+      "titulo_pl": "Marjal i jego ptaki"
     }
   ]
 }
