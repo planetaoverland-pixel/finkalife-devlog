@@ -94,7 +94,7 @@
     {
       "numero": 4,
       "tipo": "capturas del juego",
-      "tema": "Boby, Jaky y Michi y la casa por dentro",
+      "tema": "Boby, Jaky y Michi (homenaje a Michi) y la casa por dentro",
       "fecha_hora": "2026-10-13T19:37:00+02:00",
       "version_juego": "Pre-alfa 0.9.0",
       "carpeta": "004",
@@ -104,14 +104,14 @@
         "03_dom.jpg",
         "04_noc.jpg"
       ],
-      "texto": "Mamy w grze nowych mieszkańców! 🐾\n\nBoby, Jaky i Michi to nasze prawdziwe koty z finki, a teraz biegają też po grze. Spacerują, wygrzewają się na słońcu, bawią się w zapasy, wspinają się na drzewa, a czasem chodzą krok w krok za Martą 😄 Każdego można pogłaskać i wyczesać, a w kąciku kotów trzeba pamiętać o misce i kuwecie.\n\nDo domu można już wejść, a wieczorem koty zwijają się w kłębek w nogach łóżka, dokładnie tak jak u nas ❤️\n\nTo wciąż wczesny prototyp, ale możecie w niego zagrać za darmo w przeglądarce. Który kot jest Waszym ulubionym? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Meet Boby, Jaky and Michi, our real farm cats, now in the game (Pre-alpha 0.9.0). And you can finally go inside the house!\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "texto": "Mamy w grze nowych mieszkańców! 🐾\n\nBoby, Jaky i Michi to koty z naszej finki. Boby i Jaky wciąż mieszkają z nami. Michi odszedł, ale w grze zostanie z nami na zawsze. To nasz mały hołd dla niego 🖤\n\nW grze cała trójka spaceruje, wygrzewa się na słońcu, bawi się w zapasy, wspina się na drzewa, a czasem chodzi krok w krok za Martą. Każdego można pogłaskać i wyczesać, a w kąciku kotów trzeba pamiętać o misce i kuwecie.\n\nDo domu można już wejść, a wieczorem koty zwijają się w kłębek w nogach łóżka, tak jak u nas ❤️\n\nTo wciąż wczesny prototyp, ale możecie w niego zagrać za darmo w przeglądarce.\n\n👉 ramsys.es/games/finkalife\n\nEN: Meet Boby, Jaky and Michi, our farm cats, now in the game (Pre-alpha 0.9.0). Michi is no longer with us; having him in the game is our little tribute to him. 🖤\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
       "enlace": "",
       "idioma": "pl",
-      "aprobada_por": "Christian, 13 oct 2026 08:30",
+      "aprobada_por": "",
       "titulo": "Boby, Jaky y Michi llegan al juego",
       "titulo_pl": "Boby, Jaky i Michi w grze"
     }
