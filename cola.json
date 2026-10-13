@@ -418,6 +418,29 @@
       "aprobada_por": "",
       "titulo": "Frutales valencianos",
       "titulo_pl": "Drzewa z Walencji"
+    },
+    {
+      "numero": 18,
+      "tipo": "capturas del juego",
+      "tema": "Gasolina, gasolinera y placas solares",
+      "fecha_hora": "2026-10-27T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.30.0",
+      "carpeta": "018",
+      "imagenes": [
+        "01_bez_benzyny.jpg",
+        "02_stacja.jpg",
+        "03_panele.jpg"
+      ],
+      "texto": "Pierwszy raz zabrakło nam benzyny w połowie drogi do Pego… i stąd ten pomysł! ⛽\n\nPikap ma teraz bak, który powoli się opróżnia, gdy wciskacie gaz. W Pego jest stacja benzynowa, gdzie można zatankować do pełna albo kupić kanister na zapas. A jeśli benzyna skończy się na drodze, zawsze można zadzwonić do Ximo – przyjedzie z kanistrem 😄\n\nNa dachu domu pojawiły się też panele słoneczne. W dzień ładują akumulator, który w przyszłości przyda się do pojazdów elektrycznych ☀️\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Zdarzyło się Wam kiedyś zostać bez paliwa? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Fuel now runs out on the road: fill up in Pego, carry a jerrycan, or call Ximo. Solar panels on the roof too! (Pre-alpha 0.30.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Gasolina y placas solares",
+      "titulo_pl": "Benzyna i panele słoneczne"
     }
   ]
 }
