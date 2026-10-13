@@ -377,7 +377,7 @@
       "numero": 16,
       "tipo": "capturas del juego",
       "tema": "Leña de la poda y estufa",
-      "fecha_hora": "2026-10-25T19:37:00+02:00",
+      "fecha_hora": "2026-10-25T19:37:00+01:00",
       "version_juego": "Pre-alfa 0.28.0",
       "carpeta": "016",
       "imagenes": [
@@ -395,6 +395,29 @@
       "aprobada_por": "",
       "titulo": "Leña y estufa",
       "titulo_pl": "Drewno i piec"
+    },
+    {
+      "numero": 17,
+      "tipo": "capturas del juego",
+      "tema": "Frutales valencianos",
+      "fecha_hora": "2026-10-26T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.29.0",
+      "carpeta": "017",
+      "imagenes": [
+        "01_sad.jpg",
+        "02_sadzonki.jpg",
+        "03_migdaly.jpg"
+      ],
+      "texto": "W drodze zobaczyliśmy kwitnące migdałowce… i od razu wiedzieliśmy, że muszą trafić do gry! 🌸\n\nNa fince można teraz posadzić drzewa, które naprawdę rosną w regionie Walencji: migdałowiec, drzewo oliwne, granatowiec, czereśnię, brzoskwinię, morelę, śliwę, orzech włoski, pigwę i szarańczyn (chleb świętojański). Dwa rzadkie drzewa, jujuba i palma daktylowa, pojawią się później w specjalny sposób 🌴\n\nKażde drzewo ma swoich klientów, a jeśli zmienicie zdanie, możecie wykopać drzewo i posadzić inne.\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Które drzewo posadzilibyście jako pierwsze? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Almond, olive, pomegranate, cherry and more Valencian fruit trees are now in the game! (Pre-alpha 0.29.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Frutales valencianos",
+      "titulo_pl": "Drzewa z Walencji"
     }
   ]
 }
