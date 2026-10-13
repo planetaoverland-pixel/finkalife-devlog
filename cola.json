@@ -441,6 +441,29 @@
       "aprobada_por": "",
       "titulo": "Gasolina y placas solares",
       "titulo_pl": "Benzyna i panele słoneczne"
+    },
+    {
+      "numero": 19,
+      "tipo": "capturas del juego",
+      "tema": "Garaje y vehículos",
+      "fecha_hora": "2026-10-28T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.31.0",
+      "carpeta": "019",
+      "imagenes": [
+        "01_garaz.jpg",
+        "02_sklep.jpg",
+        "03_rower.jpg"
+      ],
+      "texto": "Nasz garaż na fince w końcu się zapełnia! 🚲🛵\n\nDo pikapa dołączył rower miejski, a w Pego otworzyliśmy sklep z pojazdami: rower elektryczny, mały skuter miejski, klasyczny skuter w stylu włoskim i stary dobry motocykl 125. Każdy jeździ inaczej: rower męczy, ale nic nie pali, rower elektryczny ładuje się z paneli słonecznych, a motocykl jest najszybszy na górskich zakrętach 😄\n\nPojazd wybieracie na mapie przed wyjazdem. Tylko pikap zabiera skrzynki z owocami, więc na skuterze jedzie się po prostu na przejażdżkę ☀️\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Którym pojazdem pojechalibyście do Pego? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A garage full of rides: bike, e-bike, two scooters and a classic 125 motorbike, each with its own feel. (Pre-alpha 0.31.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Garaje y vehículos",
+      "titulo_pl": "Garaż i pojazdy"
     }
   ]
 }
