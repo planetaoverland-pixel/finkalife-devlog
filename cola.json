@@ -114,6 +114,30 @@
       "aprobada_por": "Christian, 13 oct 2026 08:40",
       "titulo": "Boby, Jaky y Michi llegan al juego",
       "titulo_pl": "Boby, Jaky i Michi w grze"
+    },
+    {
+      "numero": 5,
+      "tipo": "capturas del juego",
+      "tema": "Chris en la finca (con Michi), higuera y mermelada, plantar árboles",
+      "fecha_hora": "2026-10-14T19:37:00+02:00",
+      "version_juego": "Pre-alfa 0.11.0",
+      "carpeta": "005",
+      "imagenes": [
+        "01_chris.jpg",
+        "02_figi.jpg",
+        "03_sadzenie.jpg",
+        "04_drzewa.jpg"
+      ],
+      "texto": "Na fince robi się coraz bardziej rodzinnie! 🍊🌱\n\nChris chodzi już po grze: rano i po południu pracuje przy drzewach, a w porze obiadu i wieczorem siedzi w domu. Wystarczy go dotknąć, żeby Marta chwilę z nim pogadała. A krok w krok za nim chodzi Michi, dokładnie tak jak kiedyś u nas 🖤\n\nMamy też nasze drzewo figowe. Figi zbieramy tylko na dżem: w kuchni z sześciu fig powstaje słoik domowego dżemu figowego, na który czekają już klienci z Pego i z Poznania.\n\nI najważniejsze: można już sadzić własne drzewa! Pomarańcze, mandarynki, cytryny, figi, nieszpułki i awokado rosną dzień po dniu, aż zaczną owocować.\n\nGra jest wciąż we wczesnej fazie, ale możecie w nią zagrać za darmo w przeglądarce. Jakie drzewo posadzilibyście pierwsze? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Chris now walks around the farm (with Michi always at his heels), we have a fig tree for homemade jam, and you can plant your own fruit trees (Pre-alpha 0.11.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Chris, la higuera y plantar árboles",
+      "titulo_pl": "Chris, drzewo figowe i sadzenie drzew"
     }
   ]
 }
