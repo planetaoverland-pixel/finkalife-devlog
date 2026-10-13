@@ -138,6 +138,29 @@
       "aprobada_por": "Christian, 13 oct 2026 09:35",
       "titulo": "Chris, la higuera y plantar árboles",
       "titulo_pl": "Chris, drzewo figowe i sadzenie drzew"
+    },
+    {
+      "numero": 6,
+      "tipo": "capturas del juego",
+      "tema": "Días de camión: Marta lleva los paquetes a Pego en la pickup (asfalto y badenes)",
+      "fecha_hora": "2026-10-15T19:37:00+02:00",
+      "version_juego": "Pre-alfa 0.14.0",
+      "carpeta": "006",
+      "imagenes": [
+        "01_kurier.jpg",
+        "02_droga.jpg",
+        "03_pego.jpg"
+      ],
+      "texto": "Ruszamy w drogę! 🚚🍊\n\nCzasem kurier pisze do Marty: „Dziś jadę ciężarówką i nie wjadę na finkę”. Tak bywa naprawdę: droga do naszej finki jest wąska i duża ciężarówka po prostu się nie zmieści. Wtedy pakujemy paczki na pikapa i wieziemy je sami do Pego.\n\nW grze wygląda to właśnie tak: prowadzisz pikapa dwoma przyciskami, gazem i hamulcem, po krętej asfaltowej drodze przez wzgórza i gaje pomarańczowe. Uważajcie na progi zwalniające! Jeśli przejedziecie je za szybko, paczki podskoczą i mogą wypaść. Nic nie przepada, Marta wszystko pozbiera, ale klient może być trochę mniej zadowolony 😉\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Ile paczek dowieziecie w idealnym stanie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Some days the courier can't make it up our narrow farm road, so Marta drives the parcels to Pego herself. Mind the speed bumps! (Pre-alpha 0.14.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Paquetes a Pego en la pickup",
+      "titulo_pl": "Paczki pikapem do Pego"
     }
   ]
 }
