@@ -372,6 +372,29 @@
       "aprobada_por": "Christian, 13 oct 2026 19:20",
       "titulo": "Galletas de naranja",
       "titulo_pl": "Ciasteczka pomarańczowe"
+    },
+    {
+      "numero": 16,
+      "tipo": "capturas del juego",
+      "tema": "Leña de la poda y estufa",
+      "fecha_hora": "2026-10-25T19:37:00+02:00",
+      "version_juego": "Pre-alfa 0.28.0",
+      "carpeta": "016",
+      "imagenes": [
+        "01_pila.jpg",
+        "02_siekiera.jpg",
+        "03_piec.jpg"
+      ],
+      "texto": "Drewno na zimę prosto z naszych drzew! 🪵🔥\n\nKiedy przycinamy drzewa na fince, grube gałęzie nie idą na marne: to drewno do pieca. W grze najpierw piłujesz gałęzie na kozłach (w tę i z powrotem, dokładnie po znaku), a potem rąbiesz klocki siekierą, celując w pęknięcie. Z dwóch dobrych uderzeń są cztery kawałki 💪\n\nA wieczorem… rozpalasz w piecu, w domu robi się ciepło, a Marta i Chris siadają przy ogniu ❤️\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Macie w domu piec na drewno? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Firewood from our own pruning: saw the thick branches, split the logs with an axe and light the wood stove at night. (Pre-alpha 0.28.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Leña y estufa",
+      "titulo_pl": "Drewno i piec"
     }
   ]
 }
