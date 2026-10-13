@@ -464,6 +464,29 @@
       "aprobada_por": "",
       "titulo": "Garaje y vehículos",
       "titulo_pl": "Garaż i pojazdy"
+    },
+    {
+      "numero": 20,
+      "tipo": "capturas del juego",
+      "tema": "Tractor con remolque",
+      "fecha_hora": "2026-10-29T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.32.0",
+      "carpeta": "020",
+      "imagenes": [
+        "01_zbior.jpg",
+        "02_przyczepa.jpg",
+        "03_traktor.jpg"
+      ],
+      "texto": "Mamy traktor! 🚜 Marzyliśmy o nim od pierwszego dnia na fince.\n\nNa fince traktor jedzie między rzędami drzew, a za nim przyczepa na skrzynki. Kiedy drzewo mija przyczepę, wystarczy dotknąć jego strony i owoce lądują w skrzynkach. Jeden przejazd to zbiór z wielu drzew naraz 🍊\n\nTraktorem można też pojechać do Pego: jedzie powoli, ale przyczepa ma swoją fizykę, więc na wybojach trzeba uważać na skrzynki 😅\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jeździliście kiedyś traktorem? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A tractor with a trailer: harvest a whole row of trees in one pass, or drive it slowly to town. (Pre-alpha 0.32.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Tractor con remolque",
+      "titulo_pl": "Traktor z przyczepą"
     }
   ]
 }
