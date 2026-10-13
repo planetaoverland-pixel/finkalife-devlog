@@ -231,6 +231,30 @@
    "aprobada_por": "Christian, 13 oct 2026 16:30",
    "titulo": "Pícnic en el Mirador de Michi",
    "titulo_pl": "Piknik na Punkcie widokowym Michiego"
+  },
+  {
+   "numero": 10,
+   "tipo": "capturas del juego",
+   "tema": "Cuidado del campo: poda, malas hierbas y ecoparque",
+   "fecha_hora": "2026-10-19T19:37:00+02:00",
+   "version_juego": "Pre-alfa 0.22.0",
+   "carpeta": "010",
+   "imagenes": [
+    "01_przycinanie.jpg",
+    "02_chwasty.jpg",
+    "03_kosa.jpg",
+    "04_ekopark.jpg"
+   ],
+   "texto": "Na fince zawsze jest coś do zrobienia! ✂️🌿\n\nDodaliśmy do gry prace, które u nas naprawdę wracają przez cały rok. Drzewa trzeba przycinać: przesuwasz palcem po suchych gałęziach i wilkach, a dobre gałęzie z owocami zostają. Gałęzie lądują na stosie, a potem wieziemy je pikapem do ekoparku i wyładowujemy do właściwego kontenera.\n\nMiędzy drzewami rosną też chwasty, które zabierają im wodę. Na początku Marta wyrywa je ręcznie, potem może kupić sierp, a w końcu kosę spalinową 💪 A zepsute owoce trafiają do kompostownika i zamieniają się w kompost, po którym drzewa dają więcej owoców.\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Która praca w ogrodzie najbardziej Was relaksuje? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Farm chores are in: prune the trees, take the branches to the recycling centre, compost the bad fruit and clear the weeds by hand, sickle or brush cutter (Pre-alpha 0.22.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "PENDIENTE",
+   "intentos": 0,
+   "error": "",
+   "publicado_en": "",
+   "enlace": "",
+   "idioma": "pl",
+   "aprobada_por": "",
+   "titulo": "Cuidado del campo",
+   "titulo_pl": "Dbanie o pole"
   }
  ]
 }
