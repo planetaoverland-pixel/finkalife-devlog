@@ -510,6 +510,29 @@
       "aprobada_por": "",
       "titulo": "Gallinero",
       "titulo_pl": "Kurnik"
+    },
+    {
+      "numero": 22,
+      "tipo": "capturas del juego",
+      "tema": "Mercadillo de Pego",
+      "fecha_hora": "2026-10-31T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.34.0",
+      "carpeta": "022",
+      "imagenes": [
+        "01_targ.jpg",
+        "02_klient.jpg",
+        "03_kasa.jpg"
+      ],
+      "texto": "Co tydzień w Pego jest targ… i teraz Marta ma tam swój stragan! 🍊🧺\n\nNa straganie lądują owoce z finki, dżem figowy, ciasteczka i jajka z kurnika. Sąsiedzi podchodzą po kolei i mówią, czego potrzebują, a my pakujemy wszystko do papierowej torby. Szybka obsługa to napiwek, a pomyłkę klient od razu zauważy 😄\n\nPrzetwory są warte więcej niż same owoce, więc warto coś upiec albo ugotować przed targiem 🍪\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Co kupilibyście na naszym straganie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Market day in Pego: Marta runs her own stall and serves the neighbours. (Pre-alpha 0.34.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Mercadillo de Pego",
+      "titulo_pl": "Targ w Pego"
     }
   ]
 }
