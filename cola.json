@@ -533,6 +533,29 @@
       "aprobada_por": "",
       "titulo": "Mercadillo de Pego",
       "titulo_pl": "Targ w Pego"
+    },
+    {
+      "numero": 23,
+      "tipo": "capturas del juego",
+      "tema": "La sierra y su fauna",
+      "fecha_hora": "2026-11-01T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.35.0",
+      "carpeta": "023",
+      "imagenes": [
+        "01_lornetka.jpg",
+        "02_zeszyt.jpg",
+        "03_szlak.jpg"
+      ],
+      "texto": "Za fincą zaczynają się góry… i właśnie tam zabraliśmy dziś lornetkę! 🏔️🔭\n\nW grze pojawił się nowy szlak w górach, wśród sosen, rozmarynu i skał. Przez lornetkę można wypatrywać zwierząt, które naprawdę tu żyją: lisów, dzików, borsuków, żenet, koziorożców, puchaczy i orłów 🦅\n\nKażde zwierzę trafia do zeszytu z ciekawostką. Najrzadsza jest sarna: jej pierwsze zdjęcie w całej prowincji Alicante zrobiono dopiero w 2019 roku! 🦌\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Które zwierzę chcielibyście zobaczyć jako pierwsze? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A new mountain trail with binoculars: spot 16 real animals of the Alicante sierras and fill your notebook. (Pre-alpha 0.35.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "La sierra",
+      "titulo_pl": "Góry"
     }
   ]
 }
