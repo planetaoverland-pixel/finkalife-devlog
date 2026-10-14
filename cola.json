@@ -556,6 +556,29 @@
       "aprobada_por": "",
       "titulo": "La sierra",
       "titulo_pl": "Góry"
+    },
+    {
+      "numero": 24,
+      "tipo": "capturas del juego",
+      "tema": "Plantas aromáticas",
+      "fecha_hora": "2026-11-02T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.36.0",
+      "carpeta": "024",
+      "imagenes": [
+        "01_zbocze.jpg",
+        "02_zeszyt.jpg",
+        "03_napar.jpg"
+      ],
+      "texto": "Góry wokół finki pachną rozmarynem i tymiankiem… więc zabraliśmy koszyk! 🌿\n\nW grze można teraz zbierać zioła na górskim zboczu: rozmaryn, tymianek, lawendę, rumianek i walencki tymianek, który rośnie tylko tutaj. Ucinamy tylko gałązkę, bez wyrywania, żeby krzaczek odrósł 🌱\n\nKażda roślina trafia do zeszytu, a z ziół Marta parzy w domu ciepły napar. Najrzadszą szałwię z gór Mariola można tylko oglądać ☕\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jaki napar pijecie najchętniej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Gather wild Mediterranean herbs in the sierra, fill your plant notebook and brew a herbal tea at home. (Pre-alpha 0.36.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Plantas aromáticas",
+      "titulo_pl": "Zioła"
     }
   ]
 }
