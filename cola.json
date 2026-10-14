@@ -602,6 +602,29 @@
       "aprobada_por": "",
       "titulo": "Almazara",
       "titulo_pl": "Tłocznia"
+    },
+    {
+      "numero": 26,
+      "tipo": "capturas del juego",
+      "tema": "Cerezas de montaña",
+      "fecha_hora": "2026-11-04T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.38.0",
+      "carpeta": "026",
+      "imagenes": [
+        "01_wiadomosc.jpg",
+        "02_gory.jpg",
+        "03_czeresnie.jpg"
+      ],
+      "texto": "Czereśnie w górach już dojrzały! 🍒😍\n\nXimo napisał do Marty, że jego kuzyn ma taras z czereśniami w górach. W grze można teraz wsiąść w pojazd, pojechać w góry i przez trzy dni zbierać czereśnie prosto z drzewa ⛰️\n\nZbieramy tylko ciemnoczerwone pary: jasne jeszcze nie są dojrzałe, a nadziobane zostawiamy ptakom 🐦 Czereśnie trafiają do domu, a słodki dzień w górach dodaje Marcie sił ❤️\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Lubicie zbierać owoce prosto z drzewa? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Mountain cherry season: Ximo's cousin invites Marta to pick ripe cherries for three days. (Pre-alpha 0.38.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Cerezas de montaña",
+      "titulo_pl": "Górskie czereśnie"
     }
   ]
 }
