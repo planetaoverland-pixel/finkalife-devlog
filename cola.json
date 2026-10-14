@@ -21,7 +21,8 @@
       "linea": "Versión actual:",
       "url_juego": "https://planetaoverland-pixel.github.io/finkalife-devlog/"
     },
-    "nota": "Solo se publican entradas APROBADA. Si una entrada no tiene version_juego, no se comprueba la versión de la web (fase de concepto). Cada entrada lleva «titulo» (pie de foto en español para la web) y «titulo_pl» (en polaco); la web (plugin Finka Life Game 1.5.0+) enseña sola las fotos de los diarios PUBLICADOS."
+    "nota": "Solo se publican entradas APROBADA. Si una entrada no tiene version_juego, no se comprueba la versión de la web (fase de concepto). Cada entrada lleva «titulo» (pie de foto en español para la web) y «titulo_pl» (en polaco); la web (plugin Finka Life Game 1.5.0+) enseña sola las fotos de los diarios PUBLICADOS.",
+    "modo_dinamico": "Desde el 14 oct 2026 (decisión de Christian): el diario va al ritmo del juego. Cada versión con cambios visibles se resume en un carrusel (hasta 10 imágenes) en el siguiente hueco libre; si un día hay muchas novedades se hacen más resúmenes (hasta max_por_dia). Si se acumulan publicaciones sin salir o una novedad lleva más de un día esperando, se fusionan en un resumen nuevo (las fusionadas quedan en estado FUSIONADA y no se publican). Nada sale sin estado APROBADA."
   },
   "publicaciones": [
     {
@@ -152,7 +153,7 @@
         "03_pego.jpg"
       ],
       "texto": "Ruszamy w drogę! 🚚🍊\n\nCzasem kurier pisze do Marty: „Dziś jadę ciężarówką i nie wjadę na finkę”. Tak bywa naprawdę: droga do naszej finki jest wąska i duża ciężarówka po prostu się nie zmieści. Wtedy pakujemy paczki na pikapa i wieziemy je sami do Pego.\n\nW grze wygląda to właśnie tak: prowadzisz pikapa dwoma przyciskami, gazem i hamulcem, po krętej asfaltowej drodze przez wzgórza i gaje pomarańczowe. Uważajcie na progi zwalniające! Jeśli przejedziecie je za szybko, paczki podskoczą i mogą wypaść. Nic nie przepada, Marta wszystko pozbiera, ale klient może być trochę mniej zadowolony 😉\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Ile paczek dowieziecie w idealnym stanie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Some days the courier can't make it up our narrow farm road, so Marta drives the parcels to Pego herself. Mind the speed bumps! (Pre-alpha 0.14.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -160,7 +161,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 12:55",
       "titulo": "Paquetes a Pego en la pickup",
-      "titulo_pl": "Paczki pikapem do Pego"
+      "titulo_pl": "Paczki pikapem do Pego",
+      "fusionada_en": 35
     },
     {
       "numero": 7,
@@ -175,7 +177,7 @@
         "03_zeszyt.jpg"
       ],
       "texto": "Wybraliśmy się na mokradła! 🦩🔭\n\nNiedaleko naszej finki leży Marjal de Pego-Oliva: park przyrody pełen słodkiej wody, trzcin i pól ryżowych, w którym mieszka mnóstwo ptaków. Musiał trafić do gry!\n\nTeraz na mapie wybierasz cel i jedziesz pikapem polną drogą. Na miejscu Marta wchodzi do czatowni z lornetką: rozglądasz się po niebie, trzcinach i wodzie, a każdy nowy ptak trafia do zeszytu. Jest ich 21 i wszystkie naprawdę żyją na Marjal, od łyski po modrzyka. Niektóre chowają się w trzcinach, a jeden jest legendarny i bardzo trudno go wypatrzyć 👀\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jakiego ptaka chcielibyście zobaczyć? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Near our farm lies the Marjal de Pego-Oliva wetland. Now you can go birdwatching there with binoculars and fill a notebook with 21 real local species (Pre-alpha 0.16.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -183,7 +185,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 14:30",
       "titulo": "El Marjal y sus aves",
-      "titulo_pl": "Marjal i jego ptaki"
+      "titulo_pl": "Marjal i jego ptaki",
+      "fusionada_en": 31
     },
     {
       "numero": 8,
@@ -199,7 +202,7 @@
         "04_zeszyt.jpg"
       ],
       "texto": "Jedziemy nad morze! 🌊🐚\n\nMorze jest niedaleko naszej finki, więc plaża musiała trafić do gry!\n\nNa mapie wybierasz plażę i jedziesz pikapem nadmorską drogą wśród palm. Na brzegu fale przychodzą i odchodzą, zostawiając muszelki, ślimaki morskie i szkiełka wygładzone przez morze. Trzeba je zebrać, zanim woda wróci! A kiedy coś błyszczy w mokrym piasku, warto pokopać… 👀\n\nW zeszycie plaży czeka 13 skarbów, od sercówki po oko świętej Łucji, a jeden z nich jest legendarny.\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. A Wy, co zbieracie na plaży? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: The beach is here! Collect shells and sea glass before the waves come back and fill a notebook with 13 treasures (Pre-alpha 0.20.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -207,7 +210,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 15:50",
       "titulo": "La playa y sus tesoros",
-      "titulo_pl": "Plaża i jej skarby"
+      "titulo_pl": "Plaża i jej skarby",
+      "fusionada_en": 31
     },
     {
       "numero": 9,
@@ -222,7 +226,7 @@
         "03_widoki.jpg"
       ],
       "texto": "Piknik z widokiem! 🧺🌄\n\nNa mapie pojawił się Punkt widokowy Michiego, nazwany tak na cześć naszego kota Michiego 🖤 Prowadzi tam górska droga wśród sosen i rozmarynu, a na górze czeka drewniany stolik w cieniu.\n\nNajpierw rozkładasz piknik: obrus, kanapki, pomarańcze, termos i ciasteczka. Marta i Chris siadają do jedzenia, a potem wyciągasz telefon i fotografujesz okolicę: miasteczko, gaje pomarańczowe, mokradła i morze. Na niebie i na morzu co jakiś czas coś się pojawia, a jeden widok jest legendarny 👀\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Gdzie Wy najchętniej urządzacie piknik? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A picnic with a view at Michi's Lookout, named after our beloved cat Michi 🖤 Set the table, then photograph the valley for your album (Pre-alpha 0.21.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -230,7 +234,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 16:30",
       "titulo": "Pícnic en el Mirador de Michi",
-      "titulo_pl": "Piknik na Punkcie widokowym Michiego"
+      "titulo_pl": "Piknik na Punkcie widokowym Michiego",
+      "fusionada_en": 31
     },
     {
       "numero": 10,
@@ -246,7 +251,7 @@
         "04_ekopark.jpg"
       ],
       "texto": "Na fince zawsze jest coś do zrobienia! ✂️🌿\n\nDodaliśmy do gry prace, które u nas naprawdę wracają przez cały rok. Drzewa trzeba przycinać: przesuwasz palcem po suchych gałęziach i wilkach, a dobre gałęzie z owocami zostają. Gałęzie lądują na stosie, a potem wieziemy je pikapem do ekoparku i wyładowujemy do właściwego kontenera.\n\nMiędzy drzewami rosną też chwasty, które zabierają im wodę. Na początku Marta wyrywa je ręcznie, potem może kupić sierp, a w końcu kosę spalinową 💪 A zepsute owoce trafiają do kompostownika i zamieniają się w kompost, po którym drzewa dają więcej owoców.\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Która praca w ogrodzie najbardziej Was relaksuje? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Farm chores are in: prune the trees, take the branches to the recycling centre, compost the bad fruit and clear the weeds by hand, sickle or brush cutter (Pre-alpha 0.22.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -254,7 +259,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 17:00",
       "titulo": "Cuidado del campo",
-      "titulo_pl": "Dbanie o pole"
+      "titulo_pl": "Dbanie o pole",
+      "fusionada_en": 33
     },
     {
       "numero": 11,
@@ -269,7 +275,7 @@
         "03_szklanka.jpg"
       ],
       "texto": "Świeży sok z naszych pomarańczy! 🍊🥤\n\nU nas w kuchni stoi wyciskarka z dźwignią i rano nie ma nic lepszego niż szklanka soku prosto z drzewa. Więc musiała trafić do gry!\n\nNajpierw kroisz: pomarańcze podskakują w powietrzu, a ty przecinasz je ruchem palca. Im bliżej środka, tym więcej soku (i uwaga na cytryny 🍋). Potem stawiasz szklankę pod wyciskarką, kładziesz połówkę na stożku i opuszczasz dźwignię. Powoli, bo pryska! Gotowy sok trafia do lodówki, a Marta może go wypić, żeby nabrać sił.\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. A Wy, pijecie sok rano? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Fresh orange juice! Slice the oranges as they fly through the air, then squeeze them with a lever press, slowly so it doesn't splash (Pre-alpha 0.23.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -277,7 +283,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 17:30",
       "titulo": "Zumo de naranja",
-      "titulo_pl": "Sok pomarańczowy"
+      "titulo_pl": "Sok pomarańczowy",
+      "fusionada_en": 32
     },
     {
       "numero": 12,
@@ -292,7 +299,7 @@
         "03_lupa.jpg"
       ],
       "texto": "Kto lubi grzebać w starociach? 🕰️🔍\n\nNiedaleko nas, w miasteczku Jalón, odbywa się pchli targ pełen starych rzeczy. Teraz Marta też może tam pojechać pikapem, drogą wśród winnic i migdałowców.\n\nNa targu czeka stół „wszystko po 5 €”, ale nie wszystko jest tyle samo warte! Trzeba przyjrzeć się każdej rzeczy z bliska: znak warsztatu na spodzie podnosi cenę, a obtłuczony brzeg ją obniża. Można też zapytać Lupę, asystenta w telefonie, ile mniej więcej coś jest warte. Kupuje się tylko jedną rzecz… i czasem trafia się prawdziwy skarb 👀\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jaki był Wasz najlepszy łup z pchlego targu? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Flea market day in Jalón! Everything costs 5 €, but not everything is worth the same. Look closely, ask your phone assistant and find the hidden gem (Pre-alpha 0.24.0).\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -300,7 +307,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 17:50",
       "titulo": "El rastro de Jalón",
-      "titulo_pl": "Pchli targ w Jalón"
+      "titulo_pl": "Pchli targ w Jalón",
+      "fusionada_en": 31
     },
     {
       "numero": 13,
@@ -316,7 +324,7 @@
         "04_medal.jpg"
       ],
       "texto": "Domowy dżem figowy, krok po kroku! 🍯💜\n\nFigi z naszej finki nie nadają się do sprzedaży na świeżo, więc robimy z nich dżem. A w grze robi się go teraz w sześciu krótkich krokach, każdy z innym ruchem palca: myjesz figi, kroisz je wzdłuż linii, odważasz cukier, mieszasz w dobrym tempie, wyłączasz ogień dokładnie w odpowiednim momencie i napełniasz słoiki do kreski.\n\nZa każdy krok dostajesz złoty, srebrny albo brązowy medal 🥇 A jeśli coś pójdzie nie tak, nic się nie stało: dżem i tak wychodzi pyszny.\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jaki dżem lubicie najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Homemade fig jam in six quick steps: wash, slice, weigh the sugar, stir, turn off the heat at the right moment and fill the jars. Earn a medal at every step! (Pre-alpha 0.25.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -324,7 +332,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 18:05",
       "titulo": "Mermelada de higo",
-      "titulo_pl": "Dżem figowy"
+      "titulo_pl": "Dżem figowy",
+      "fusionada_en": 32
     },
     {
       "numero": 14,
@@ -339,7 +348,7 @@
         "03_telefon.jpg"
       ],
       "texto": "Poznajcie Josepa! 💚\n\nTo nasz przyjaciel, który naprawdę sadzi pistacje w Hiszpanii, a teraz ma też swoją postać w grze: z okularami, koszulą i wszystkim 😄 Jego ulubione powiedzonko? „¡Haber plantao pistachos!”, czyli „Trzeba było sadzić pistacje!”.\n\nW grze Josep sprzedaje sadzonki pistacji przez telefon, kupuje nasze pistacje po dobrej cenie, a czasem wpada na finkę z torebką pistacji w prezencie.\n\nNa fince można też posadzić nowe drzewa: kaki, pitaję (smoczy owoc), kiwi i mango 🥭🥝\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jaki owoc posadzilibyście jako pierwszy? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Meet Josep, our pistachio-farming friend, now in the game! Plus new fruit trees: persimmon, dragon fruit, kiwi and mango. (Pre-alpha 0.26.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -347,7 +356,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 18:40",
       "titulo": "Josep y las frutas nuevas",
-      "titulo_pl": "Josep i nowe owoce"
+      "titulo_pl": "Josep i nowe owoce",
+      "fusionada_en": 33
     },
     {
       "numero": 15,
@@ -363,7 +373,7 @@
         "04_medal.jpg"
       ],
       "texto": "Pieczemy ciasteczka pomarańczowe! 🍊🍪\n\nW naszej kuchni na fince pachnie teraz pomarańczą. W grze ciasteczka robi się w sześciu krótkich krokach: ścierasz skórkę pomarańczy, rozbijasz jajka dokładnie o brzeg miski, wyrabiasz ciasto na zmianę obiema rękami, wałkujesz je równo, wycinasz ciasteczka foremką i wyjmujesz je z pieca, gdy są złociste.\n\nZa każdy krok dostajesz medal 🥇 A Chris? Zjada dwa prosto z pieca, zanim zdążą ostygnąć 😄\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jakie ciasteczka pieczecie w domu? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Baking orange cookies in six quick steps: zest, crack the eggs, knead, roll, cut and bake until golden. A medal for every step! (Pre-alpha 0.27.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -371,7 +381,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 13 oct 2026 19:20",
       "titulo": "Galletas de naranja",
-      "titulo_pl": "Ciasteczka pomarańczowe"
+      "titulo_pl": "Ciasteczka pomarańczowe",
+      "fusionada_en": 32
     },
     {
       "numero": 16,
@@ -386,7 +397,7 @@
         "03_piec.jpg"
       ],
       "texto": "Drewno na zimę prosto z naszych drzew! 🪵🔥\n\nKiedy przycinamy drzewa na fince, grube gałęzie nie idą na marne: to drewno do pieca. W grze najpierw piłujesz gałęzie na kozłach (w tę i z powrotem, dokładnie po znaku), a potem rąbiesz klocki siekierą, celując w pęknięcie. Z dwóch dobrych uderzeń są cztery kawałki 💪\n\nA wieczorem… rozpalasz w piecu, w domu robi się ciepło, a Marta i Chris siadają przy ogniu ❤️\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Macie w domu piec na drewno? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Firewood from our own pruning: saw the thick branches, split the logs with an axe and light the wood stove at night. (Pre-alpha 0.28.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -394,7 +405,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Leña y estufa",
-      "titulo_pl": "Drewno i piec"
+      "titulo_pl": "Drewno i piec",
+      "fusionada_en": 33
     },
     {
       "numero": 17,
@@ -409,7 +421,7 @@
         "03_migdaly.jpg"
       ],
       "texto": "W drodze zobaczyliśmy kwitnące migdałowce… i od razu wiedzieliśmy, że muszą trafić do gry! 🌸\n\nNa fince można teraz posadzić drzewa, które naprawdę rosną w regionie Walencji: migdałowiec, drzewo oliwne, granatowiec, czereśnię, brzoskwinię, morelę, śliwę, orzech włoski, pigwę i szarańczyn (chleb świętojański). Dwa rzadkie drzewa, jujuba i palma daktylowa, pojawią się później w specjalny sposób 🌴\n\nKażde drzewo ma swoich klientów, a jeśli zmienicie zdanie, możecie wykopać drzewo i posadzić inne.\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Które drzewo posadzilibyście jako pierwsze? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Almond, olive, pomegranate, cherry and more Valencian fruit trees are now in the game! (Pre-alpha 0.29.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -417,7 +429,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Frutales valencianos",
-      "titulo_pl": "Drzewa z Walencji"
+      "titulo_pl": "Drzewa z Walencji",
+      "fusionada_en": 33
     },
     {
       "numero": 18,
@@ -432,7 +445,7 @@
         "03_panele.jpg"
       ],
       "texto": "Pierwszy raz zabrakło nam benzyny w połowie drogi do Pego… i stąd ten pomysł! ⛽\n\nPikap ma teraz bak, który powoli się opróżnia, gdy wciskacie gaz. W Pego jest stacja benzynowa, gdzie można zatankować do pełna albo kupić kanister na zapas. A jeśli benzyna skończy się na drodze, zawsze można zadzwonić do Ximo – przyjedzie z kanistrem 😄\n\nNa dachu domu pojawiły się też panele słoneczne. W dzień ładują akumulator, który w przyszłości przyda się do pojazdów elektrycznych ☀️\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Zdarzyło się Wam kiedyś zostać bez paliwa? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Fuel now runs out on the road: fill up in Pego, carry a jerrycan, or call Ximo. Solar panels on the roof too! (Pre-alpha 0.30.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -440,7 +453,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Gasolina y placas solares",
-      "titulo_pl": "Benzyna i panele słoneczne"
+      "titulo_pl": "Benzyna i panele słoneczne",
+      "fusionada_en": 35
     },
     {
       "numero": 19,
@@ -455,7 +469,7 @@
         "03_rower.jpg"
       ],
       "texto": "Nasz garaż na fince w końcu się zapełnia! 🚲🛵\n\nDo pikapa dołączył rower miejski, a w Pego otworzyliśmy sklep z pojazdami: rower elektryczny, mały skuter miejski, klasyczny skuter w stylu włoskim i stary dobry motocykl 125. Każdy jeździ inaczej: rower męczy, ale nic nie pali, rower elektryczny ładuje się z paneli słonecznych, a motocykl jest najszybszy na górskich zakrętach 😄\n\nPojazd wybieracie na mapie przed wyjazdem. Tylko pikap zabiera skrzynki z owocami, więc na skuterze jedzie się po prostu na przejażdżkę ☀️\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Którym pojazdem pojechalibyście do Pego? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A garage full of rides: bike, e-bike, two scooters and a classic 125 motorbike, each with its own feel. (Pre-alpha 0.31.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -463,7 +477,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Garaje y vehículos",
-      "titulo_pl": "Garaż i pojazdy"
+      "titulo_pl": "Garaż i pojazdy",
+      "fusionada_en": 35
     },
     {
       "numero": 20,
@@ -478,7 +493,7 @@
         "03_traktor.jpg"
       ],
       "texto": "Mamy traktor! 🚜 Marzyliśmy o nim od pierwszego dnia na fince.\n\nNa fince traktor jedzie między rzędami drzew, a za nim przyczepa na skrzynki. Kiedy drzewo mija przyczepę, wystarczy dotknąć jego strony i owoce lądują w skrzynkach. Jeden przejazd to zbiór z wielu drzew naraz 🍊\n\nTraktorem można też pojechać do Pego: jedzie powoli, ale przyczepa ma swoją fizykę, więc na wybojach trzeba uważać na skrzynki 😅\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jeździliście kiedyś traktorem? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A tractor with a trailer: harvest a whole row of trees in one pass, or drive it slowly to town. (Pre-alpha 0.32.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -486,7 +501,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Tractor con remolque",
-      "titulo_pl": "Traktor z przyczepą"
+      "titulo_pl": "Traktor z przyczepą",
+      "fusionada_en": 35
     },
     {
       "numero": 21,
@@ -501,7 +517,7 @@
         "03_opieka.jpg"
       ],
       "texto": "Na fince zamieszkały pierwsze zwierzęta! 🐔🦆\n\nW rogu finki stanął drewniany kurnik z wybiegiem. Mieszkają w nim kury, kaczki i gęsi, a każde zwierzę potrzebuje jedzenia, wody, czystości i odrobiny czułości. Paszę można kupić albo karmić je chlebem świętojańskim z naszych drzew 🌳\n\nO świcie zadbane zwierzęta znoszą jajka, a zbieranie ich to osobna minigra: trzeba wybierać wolne gniazda, bo kura potrafi dziobnąć 😄 Jajka trafiają do ciasteczek i do nowych klientów.\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Kury, kaczki czy gęsi: kogo wybieracie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Our first farm animals: hens, ducks and geese to care for, and a little egg-collecting minigame. (Pre-alpha 0.33.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -509,7 +525,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Gallinero",
-      "titulo_pl": "Kurnik"
+      "titulo_pl": "Kurnik",
+      "fusionada_en": 34
     },
     {
       "numero": 22,
@@ -524,7 +541,7 @@
         "03_kasa.jpg"
       ],
       "texto": "Co tydzień w Pego jest targ… i teraz Marta ma tam swój stragan! 🍊🧺\n\nNa straganie lądują owoce z finki, dżem figowy, ciasteczka i jajka z kurnika. Sąsiedzi podchodzą po kolei i mówią, czego potrzebują, a my pakujemy wszystko do papierowej torby. Szybka obsługa to napiwek, a pomyłkę klient od razu zauważy 😄\n\nPrzetwory są warte więcej niż same owoce, więc warto coś upiec albo ugotować przed targiem 🍪\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Co kupilibyście na naszym straganie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Market day in Pego: Marta runs her own stall and serves the neighbours. (Pre-alpha 0.34.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -532,7 +549,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Mercadillo de Pego",
-      "titulo_pl": "Targ w Pego"
+      "titulo_pl": "Targ w Pego",
+      "fusionada_en": 34
     },
     {
       "numero": 23,
@@ -547,7 +565,7 @@
         "03_szlak.jpg"
       ],
       "texto": "Za fincą zaczynają się góry… i właśnie tam zabraliśmy dziś lornetkę! 🏔️🔭\n\nW grze pojawił się nowy szlak w górach, wśród sosen, rozmarynu i skał. Przez lornetkę można wypatrywać zwierząt, które naprawdę tu żyją: lisów, dzików, borsuków, żenet, koziorożców, puchaczy i orłów 🦅\n\nKażde zwierzę trafia do zeszytu z ciekawostką. Najrzadsza jest sarna: jej pierwsze zdjęcie w całej prowincji Alicante zrobiono dopiero w 2019 roku! 🦌\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Które zwierzę chcielibyście zobaczyć jako pierwsze? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A new mountain trail with binoculars: spot 16 real animals of the Alicante sierras and fill your notebook. (Pre-alpha 0.35.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -555,7 +573,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "La sierra",
-      "titulo_pl": "Góry"
+      "titulo_pl": "Góry",
+      "fusionada_en": 31
     },
     {
       "numero": 24,
@@ -570,7 +589,7 @@
         "03_napar.jpg"
       ],
       "texto": "Góry wokół finki pachną rozmarynem i tymiankiem… więc zabraliśmy koszyk! 🌿\n\nW grze można teraz zbierać zioła na górskim zboczu: rozmaryn, tymianek, lawendę, rumianek i walencki tymianek, który rośnie tylko tutaj. Ucinamy tylko gałązkę, bez wyrywania, żeby krzaczek odrósł 🌱\n\nKażda roślina trafia do zeszytu, a z ziół Marta parzy w domu ciepły napar. Najrzadszą szałwię z gór Mariola można tylko oglądać ☕\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jaki napar pijecie najchętniej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Gather wild Mediterranean herbs in the sierra, fill your plant notebook and brew a herbal tea at home. (Pre-alpha 0.36.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -578,7 +597,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Plantas aromáticas",
-      "titulo_pl": "Zioła"
+      "titulo_pl": "Zioła",
+      "fusionada_en": 32
     },
     {
       "numero": 25,
@@ -593,7 +613,7 @@
         "03_butelki.jpg"
       ],
       "texto": "Nasze oliwki zamieniły się w oliwę! 🫒✨\n\nW grze można teraz zawieźć oliwki do starej tłoczni w Pego i zrobić oliwę tak jak dawniej: kamień miele oliwki, pastę układa się na matach, prasa powoli ją wyciska, a na końcu oliwa oddziela się od wody i trafia do szklanych butelek 🍶\n\nKażdy krok to mała minigra z medalem, a z ziół z gór Marta marynuje jeszcze oliwki, jak robi się to w naszej okolicy 🌿\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Widzieliście kiedyś, jak powstaje oliwa? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Traditional olive oil at the old village mill: grind, stack, press, decant and bottle. (Pre-alpha 0.37.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -601,7 +621,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Almazara",
-      "titulo_pl": "Tłocznia"
+      "titulo_pl": "Tłocznia",
+      "fusionada_en": 32
     },
     {
       "numero": 26,
@@ -616,7 +637,7 @@
         "03_czeresnie.jpg"
       ],
       "texto": "Czereśnie w górach już dojrzały! 🍒😍\n\nXimo napisał do Marty, że jego kuzyn ma taras z czereśniami w górach. W grze można teraz wsiąść w pojazd, pojechać w góry i przez trzy dni zbierać czereśnie prosto z drzewa ⛰️\n\nZbieramy tylko ciemnoczerwone pary: jasne jeszcze nie są dojrzałe, a nadziobane zostawiamy ptakom 🐦 Czereśnie trafiają do domu, a słodki dzień w górach dodaje Marcie sił ❤️\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Lubicie zbierać owoce prosto z drzewa? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Mountain cherry season: Ximo's cousin invites Marta to pick ripe cherries for three days. (Pre-alpha 0.38.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -624,7 +645,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian, 14 oct 2026 08:50",
       "titulo": "Cerezas de montaña",
-      "titulo_pl": "Górskie czereśnie"
+      "titulo_pl": "Górskie czereśnie",
+      "fusionada_en": 31
     },
     {
       "numero": 27,
@@ -639,7 +661,7 @@
         "03_sklep.jpg"
       ],
       "texto": "W Finka Life każdy znajdzie coś dla siebie przy stole! 🥗💚\n\nW menu gry można teraz wybrać jedzenie: wszystko, wegetariańskie albo wegańskie. Z opcją wegetariańską Chris robi swoją fideuę z warzywami zamiast krewetek, a w wegańskiej nie ma kurnika, a ciasteczka pomarańczowe pieczemy bez jajek 🍊\n\nChcieliśmy, żeby każdy mógł grać tak, jak żyje na co dzień. Wy wybieracie, my gotujemy ❤️\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Jaka jest wasza ulubiona potrawa warzywna? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: New food option in the menu: play with everything, vegetarian or vegan. (Pre-alpha 0.39.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -647,7 +669,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian y Marta, 14 oct 2026",
       "titulo": "Opción de comida",
-      "titulo_pl": "Wybór jedzenia"
+      "titulo_pl": "Wybór jedzenia",
+      "fusionada_en": 32
     },
     {
       "numero": 28,
@@ -662,7 +685,7 @@
         "03_traktor.jpg"
       ],
       "texto": "Nasza finka rośnie razem z Wami! 🚜🐔\n\nNa fince stoi teraz plac pod kurnik: najpierw trzeba go zbudować, a później można go powiększyć, żeby zmieściło się więcej kur, kaczek i gęsi 🥚\n\nA traktor ma teraz trzy wersje: mały czerwony na początek, średni niebieski i duży zielony. Każdy kolejny zbiera owoce z większej liczby drzew za jednym przejazdem, ale trzeba na niego trochę odłożyć 💶\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Który traktor podoba Wam się najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Build and expand the chicken coop, and upgrade your tractor from small red to big green. (Pre-alpha 0.40.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -670,7 +693,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian y Marta, 14 oct 2026",
       "titulo": "Gallinero y tractores",
-      "titulo_pl": "Kurnik i traktory"
+      "titulo_pl": "Kurnik i traktory",
+      "fusionada_en": 34
     },
     {
       "numero": 29,
@@ -685,7 +709,7 @@
         "03_dom.jpg"
       ],
       "texto": "Nasza finka dostała nowe kolory! 🎨🍊\n\nZaczęliśmy wielką zmianę grafiki. Na pierwszym zdjęciu widać, jak wyglądała finka do tej pory, a na drugim, jak wygląda teraz: trawa z kępkami i polnymi kwiatkami, ścieżka z czerwonej ziemi, jak tutaj w Pego, i drzewa pełne owoców z miękkim cieniem 🌳\n\nNasz bielony dom ma teraz drewniane drzwi, zielone okiennice, dachówkę arabską i doniczkę z bugenwillą, tak jak domy w naszej okolicy 🏡\n\nTo dopiero pierwszy krok: potem przyjdą postacie, pojazdy i menu. To wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Które zdjęcie podoba Wam się bardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Our farm got a brand new pixel art look: before and after. (Pre-alpha 0.41.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -693,7 +717,8 @@
       "idioma": "pl",
       "aprobada_por": "Christian y Marta, 14 oct 2026",
       "titulo": "Arte nuevo de la finca",
-      "titulo_pl": "Nowa grafika finki"
+      "titulo_pl": "Nowa grafika finki",
+      "fusionada_en": 33
     },
     {
       "numero": 30,
@@ -709,7 +734,7 @@
         "04_powrot.jpg"
       ],
       "texto": "Jazda po finkowych drogach jest teraz dużo fajniejsza! 🛻💨\n\nNa drogach pojawiły się wyboje i pagórki, a motocykl i rower stają na tylnym kole, kiedy mocno dodasz gazu. Uwaga: jak przesadzisz, możesz przewrócić się do tyłu! 🏍️🚲\n\nNasz pomarańczowy pikap jedzie teraz wyżej, jak ten prawdziwy, a skrzynki z owocami jadą w środku, za drewnianymi burtami 🍊\n\nI nowość: po każdej wycieczce wracamy na finkę za kierownicą. Kto woli nie prowadzić, może w menu wybrać pominięcie trasy. Gracie w przeglądarce za darmo. Jak Wam idzie jazda? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Bumpier roads, wheelies and the drive back home. (Pre-alpha 0.43.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "PENDIENTE",
+      "estado": "FUSIONADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -717,7 +742,184 @@
       "idioma": "pl",
       "aprobada_por": "",
       "titulo": "Conducir más divertido",
-      "titulo_pl": "Fajniejsza jazda"
+      "titulo_pl": "Fajniejsza jazda",
+      "fusionada_en": 35
+    },
+    {
+      "numero": 31,
+      "tipo": "resumen (carrusel)",
+      "tema": "Excursiones: Marjal, playa, mirador, rastro y sierra",
+      "fecha_hora": "2026-10-14T16:37:00+02:00",
+      "version_juego": "Pre-alfa 0.38.0",
+      "carpeta": "031",
+      "imagenes": [
+        "01_mapa.jpg",
+        "02_lornetka.jpg",
+        "03_brzeg.jpg",
+        "04_skarb.jpg",
+        "05_piknik.jpg",
+        "06_widoki.jpg",
+        "07_stol.jpg",
+        "08_lornetka.jpg",
+        "09_szlak.jpg",
+        "10_czeresnie.jpg"
+      ],
+      "texto": "Ruszamy na wycieczki po okolicy Pego! 🗺️☀️\n\nW ostatnich dniach w grze pojawiło się mnóstwo miejsc do odwiedzenia. Na mapie Marta wybiera cel i jedzie: na mokradła Marjal obserwować ptaki przez lornetkę, na plażę szukać muszelek i szkiełek wyrzuconych przez fale, na punkt widokowy na piknik i zdjęcia krajobrazu albo na pchli targ w Jalón polować na skarby 🐦🐚\n\nSą też góry: dzikie zwierzęta do wypatrzenia na szlaku i czereśnie zbierane prosto z drzewa 🍒\n\nKażde miejsce ma swój zeszyt do uzupełnienia, z ciekawostkami o prawdziwej przyrodzie naszej okolicy. Gracie za darmo w przeglądarce 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Trips around Pego: birdwatching, beach treasures, a picnic viewpoint, a flea market and the mountains. (Pre-alpha 0.38.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "fusiona": [
+        7,
+        8,
+        9,
+        12,
+        23,
+        26
+      ],
+      "titulo": "Excursiones: Marjal, playa, mirador, rastro y sierra"
+    },
+    {
+      "numero": 32,
+      "tipo": "resumen (carrusel)",
+      "tema": "Cocina: zumo, mermelada, galletas, infusiones, almazara y opción vegana",
+      "fecha_hora": "2026-10-14T18:37:00+02:00",
+      "version_juego": "Pre-alfa 0.39.0",
+      "carpeta": "032",
+      "imagenes": [
+        "01_krojenie.jpg",
+        "02_wyciskarka.jpg",
+        "03_mieszanie.jpg",
+        "04_medal.jpg",
+        "05_wycinanie.jpg",
+        "06_piekarnik.jpg",
+        "07_zbocze.jpg",
+        "08_napar.jpg",
+        "09_prasa.jpg",
+        "10_menu.jpg"
+      ],
+      "texto": "W kuchni Marty pachnie pomarańczami! 🍊🍪\n\nWszystko, co rośnie na fince, można teraz przerobić krok po kroku: świeży sok z wyciskarki z dźwignią, dżem z fig, pomarańczowe ciasteczka z piekarnika i napary z ziół zebranych w górach 🌿\n\nJest też tłocznia oliwy w dawnym stylu: mielenie kamieniem, maty, prasa i butelki oliwy z naszych oliwek 🫒\n\nZa każdy krok dostajecie medal, a w menu można wybrać kuchnię zwykłą, wegetariańską albo wegańską 🌱\n\nCo ugotowalibyście najpierw? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Marta's kitchen: orange juice, fig jam, orange cookies, herbal infusions, old-style olive oil and a vegan option. (Pre-alpha 0.39.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "fusiona": [
+        11,
+        13,
+        15,
+        24,
+        25,
+        27
+      ],
+      "titulo": "Cocina: zumo, mermelada, galletas, infusiones, almazara y opción vegana"
+    },
+    {
+      "numero": 33,
+      "tipo": "resumen (carrusel)",
+      "tema": "El campo: poda, malas hierbas, leña, frutales valencianos y arte nuevo",
+      "fecha_hora": "2026-10-14T20:37:00+02:00",
+      "version_juego": "Pre-alfa 0.41.0",
+      "carpeta": "033",
+      "imagenes": [
+        "01_przycinanie.jpg",
+        "02_chwasty.jpg",
+        "03_ekopark.jpg",
+        "04_pila.jpg",
+        "05_piec.jpg",
+        "06_sad.jpg",
+        "07_josep.jpg",
+        "08_owoce.jpg",
+        "09_przed.jpg",
+        "10_po.jpg"
+      ],
+      "texto": "Na fince zawsze jest co robić! 🌳✂️\n\nDrzewa trzeba przycinać, wyrywać chwasty i wozić gałęzie do punktu recyklingu. Grubsze gałęzie idą na drewno: piłujemy, rąbiemy siekierą, a wieczorem w domu grzeje piec 🔥\n\nPosadziliśmy też drzewa typowe dla Walencji: migdałowce, oliwki, chleb świętojański, granaty, czereśnie… a nasz przyjaciel Josep sprzedaje sadzonki pistacji 🌰\n\nI najładniejsza zmiana: finka dostała nową grafikę! Na zdjęciach zobaczycie, jak było, a jak jest teraz 🏡 Które podoba Wam się bardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Pruning, weeding, firewood, Valencian fruit trees and a brand new look for the farm. (Pre-alpha 0.41.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "fusiona": [
+        10,
+        14,
+        16,
+        17,
+        29
+      ],
+      "titulo": "El campo: poda, malas hierbas, leña, frutales valencianos y arte nuevo"
+    },
+    {
+      "numero": 34,
+      "tipo": "resumen (carrusel)",
+      "tema": "Gallinero con nombres y mercadillo de Pego",
+      "fecha_hora": "2026-10-14T22:37:00+02:00",
+      "version_juego": "Pre-alfa 0.45.0",
+      "carpeta": "034",
+      "imagenes": [
+        "01_plac.jpg",
+        "02_kurnik.jpg",
+        "03_opieka.jpg",
+        "04_jajka.jpg",
+        "05_imiona.jpg",
+        "06_targ.jpg",
+        "07_klient.jpg",
+        "08_kasa.jpg"
+      ],
+      "texto": "Na fince zamieszkały kury, kaczki i gęsi! 🐔🦆\n\nNajpierw trzeba zbudować kurnik, a potem dbać o zwierzęta: karmić, dawać wodę, sprzątać i przytulać. Zadbane zwierzaki znoszą jajka, które zbieramy z gniazd (uważajcie na dziobanie! 😄)\n\nKażde zwierzę ma swoje imię: Pepita, Turuleta, Cuac, Gertrudis… a Wy możecie nadać im własne 💛\n\nJajka, owoce, dżemy i ciasteczka sprzedajemy co tydzień na targu w Pego, obsługując sąsiadów przy straganie 🧺\n\nJak nazwalibyście swoją kurę? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A coop with hens, ducks and geese (each with a name you choose) and a weekly market stall in Pego. (Pre-alpha 0.45.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "fusiona": [
+        21,
+        22,
+        28
+      ],
+      "titulo": "Gallinero con nombres y mercadillo de Pego"
+    },
+    {
+      "numero": 35,
+      "tipo": "resumen (carrusel)",
+      "tema": "Vehículos en pixel art, conducción y taller",
+      "fecha_hora": "2026-10-15T10:37:00+02:00",
+      "version_juego": "Pre-alfa 0.46.0",
+      "carpeta": "035",
+      "imagenes": [
+        "01_garaz.jpg",
+        "02_skuter.jpg",
+        "03_motocykl.jpg",
+        "04_gory.jpg",
+        "05_powrot.jpg",
+        "06_warsztat.jpg",
+        "07_stacja.jpg",
+        "08_panele.jpg"
+      ],
+      "texto": "Nasz garaż jest pełny! 🛻🏍️🚜\n\nWszystkie pojazdy dostały nową grafikę: rower z wiklinowym koszykiem, rower elektryczny, skuter miejski, klasyczny włoski skuter, motocykl 125 i traktor w trzech kolorach, coraz większy 🚲\n\nJazda jest teraz dużo fajniejsza: wyboje, pagórki, jazda na tylnym kole (uważajcie, można się przewrócić!) i powrót na finkę za kierownicą 😄\n\nPikap Marty jedzie wyżej, a w warsztacie w Pego ulepszamy silnik, zawieszenie, przyczepność i koła. Paliwo tankujemy na stacji, a prąd dają panele słoneczne na dachu ☀️\n\nKtórym pojazdem pojechalibyście na plażę? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: All our vehicles in new pixel art, bumpy roads, wheelies, the drive home and a workshop for upgrades. (Pre-alpha 0.46.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "fusiona": [
+        6,
+        18,
+        19,
+        20,
+        30
+      ],
+      "titulo": "Vehículos en pixel art, conducción y taller"
     }
   ]
 }
