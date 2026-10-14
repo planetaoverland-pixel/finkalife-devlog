@@ -991,6 +991,30 @@
       "aprobada_por": "",
       "titulo": "Una noche muy pixelada",
       "titulo_pl": "Bardzo pikselowa noc"
+    },
+    {
+      "numero": 39,
+      "tipo": "resumen (carrusel)",
+      "tema": "Libro de recetas, frutales nuevos con catálogo y pájaros desde la terraza (0.53)",
+      "fecha_hora": "2026-10-15T18:37:00+02:00",
+      "version_juego": "Pre-alfa 0.53.0",
+      "carpeta": "039",
+      "imagenes": [
+        "01_przepisy.jpg",
+        "02_drzewa.jpg",
+        "03_bananowiec.jpg",
+        "04_ptaki.jpg"
+      ],
+      "texto": "Nowości prosto z kuchni i z tarasu! 📖🐦\n\nKuchnia Marty jest teraz prawdziwą książką z przepisami: przewracasz kartki, widzisz, czego ci brakuje, i gotujesz sok, dżem figowy, napar z ziół, marynowane oliwki albo ciasteczka 🍊\n\nNa fince można posadzić pięć nowych drzew: bananowiec, czerymoję, chruścinę, kumkwat i limekwat. W katalogu każde drzewo ma swoją kartę: kiedy owocuje w Marina Alta, czy jest częste, rzadkie czy legendarne, i ciekawostkę 🌳\n\nA z tarasu Marta obserwuje przez lornetkę 17 ptaków z finki: od wróbla i kosa po wilgę i słowika, którego prawie nie da się zobaczyć 🔭 Nazwy są po hiszpańsku, po walencku i po łacinie.\n\nKtóry ptak ucieszyłby Was najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A recipe-book kitchen, five new fruit trees with a tree catalogue, and birdwatching from the terrace with 17 farm birds. (Pre-alpha 0.53.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Recetas, árboles y pájaros",
+      "titulo_pl": "Przepisy, drzewa i ptaki"
     }
   ]
 }
