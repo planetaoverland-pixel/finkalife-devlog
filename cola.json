@@ -920,6 +920,29 @@
         30
       ],
       "titulo": "Vehículos en pixel art, conducción y taller"
+    },
+    {
+      "numero": 36,
+      "tipo": "resumen (carrusel)",
+      "tema": "Conducción con reto (hoyos y caídas) y Marta, Chris y gatos en pixel art",
+      "fecha_hora": "2026-10-15T12:37:00+02:00",
+      "version_juego": "Pre-alfa 0.47.0",
+      "carpeta": "036",
+      "imagenes": [
+        "01_rower.jpg",
+        "02_znak.jpg",
+        "03_upadek.jpg",
+        "04_marta_chris.jpg"
+      ],
+      "texto": "Jazda w Finka Life jest teraz prawdziwym wyzwaniem! 🏍️💥\n\nTestowaliśmy z Martą pojazdy i powiedzieliśmy sobie szczerze: trzymanie gazu do samego końca było za łatwe. Więc to zmieniliśmy! Na drogach są teraz prawdziwe dziury, oznaczone żółtym znakiem. Trzeba zwolnić, bo inaczej skrzynki z owocami wylatują z pikapa 🍊\n\nNa motocyklu, skuterze i rowerze trzeba pilnować gazu: jak przesadzisz, przednie koło idzie w górę i Marta ląduje na plecach 😅 Spokojnie, otrzepuje się i jedzie dalej.\n\nA na fince Marta, Chris i nasze koty dostali nową grafikę, z animacją chodzenia 🐈‍⬛ Spróbujecie przejechać bez upadku? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Driving is a real challenge now: potholes with warning signs, wheelies that can throw you off, and new pixel art for Marta, Chris and our cats. (Pre-alpha 0.47.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Conducir es un reto"
     }
   ]
 }
