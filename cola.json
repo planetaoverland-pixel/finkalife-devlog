@@ -694,6 +694,30 @@
       "aprobada_por": "Christian y Marta, 14 oct 2026",
       "titulo": "Arte nuevo de la finca",
       "titulo_pl": "Nowa grafika finki"
+    },
+    {
+      "numero": 30,
+      "tipo": "capturas del juego",
+      "tema": "Conducción: baches, caballito y viaje de vuelta",
+      "fecha_hora": "2026-10-20T18:37:00+02:00",
+      "version_juego": "Pre-alfa 0.43.0",
+      "carpeta": "030",
+      "imagenes": [
+        "01_gory.jpg",
+        "02_motocykl.jpg",
+        "03_rower.jpg",
+        "04_powrot.jpg"
+      ],
+      "texto": "Jazda po finkowych drogach jest teraz dużo fajniejsza! 🛻💨\n\nNa drogach pojawiły się wyboje i pagórki, a motocykl i rower stają na tylnym kole, kiedy mocno dodasz gazu. Uwaga: jak przesadzisz, możesz przewrócić się do tyłu! 🏍️🚲\n\nNasz pomarańczowy pikap jedzie teraz wyżej, jak ten prawdziwy, a skrzynki z owocami jadą w środku, za drewnianymi burtami 🍊\n\nI nowość: po każdej wycieczce wracamy na finkę za kierownicą. Kto woli nie prowadzić, może w menu wybrać pominięcie trasy. Gracie w przeglądarce za darmo. Jak Wam idzie jazda? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Bumpier roads, wheelies and the drive back home. (Pre-alpha 0.43.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Conducir más divertido",
+      "titulo_pl": "Fajniejsza jazda"
     }
   ]
 }
