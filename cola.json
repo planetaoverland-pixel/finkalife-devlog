@@ -967,6 +967,30 @@
       "aprobada_por": "Christian (14 oct 2026, 20:45)",
       "titulo": "La finca, la casa y las visitas en pixel art",
       "titulo_pl": "Finka, dom i goście w pixel arcie"
+    },
+    {
+      "numero": 38,
+      "tipo": "resumen (carrusel)",
+      "tema": "Pixel art en todo el juego (0.49–0.50): interfaz, viajes, cuaderno de fauna, mercadillo y mapa",
+      "fecha_hora": "2026-10-15T16:37:00+02:00",
+      "version_juego": "Pre-alfa 0.50.0",
+      "carpeta": "038",
+      "imagenes": [
+        "01_marjal.jpg",
+        "02_ptaki.jpg",
+        "03_targ.jpg",
+        "04_mapa.jpg"
+      ],
+      "texto": "Ta noc była bardzo pikselowa! 🌙🎨\n\nNarysowaliśmy na nowo prawie całą grę w pixel arcie: przyciski i okienka wyglądają teraz jak drewno i papier, a droga nad Marjal ma tło z trzciną, wodą i liliami wodnymi 🌾\n\nW zeszycie Marty jest 37 zwierząt narysowanych od nowa: łyski, czaple, flamingi, a w górach lis, jeż… i bardzo rzadka sarna 🦊 Targ w Pego ma białe domy z balkonami, a mapa okolicy wygląda jak namalowana.\n\nKtóre zwierzę chcielibyście spotkać jako pierwsze? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A very pixelated night: new pixel art for the interface, the trips, Marta's nature notebook (37 animals), the Pego market and the map. (Pre-alpha 0.50.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Una noche muy pixelada",
+      "titulo_pl": "Bardzo pikselowa noc"
     }
   ]
 }
