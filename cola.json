@@ -579,6 +579,29 @@
       "aprobada_por": "",
       "titulo": "Plantas aromáticas",
       "titulo_pl": "Zioła"
+    },
+    {
+      "numero": 25,
+      "tipo": "capturas del juego",
+      "tema": "Almazara",
+      "fecha_hora": "2026-11-03T19:37:00+01:00",
+      "version_juego": "Pre-alfa 0.37.0",
+      "carpeta": "025",
+      "imagenes": [
+        "01_maty.jpg",
+        "02_prasa.jpg",
+        "03_butelki.jpg"
+      ],
+      "texto": "Nasze oliwki zamieniły się w oliwę! 🫒✨\n\nW grze można teraz zawieźć oliwki do starej tłoczni w Pego i zrobić oliwę tak jak dawniej: kamień miele oliwki, pastę układa się na matach, prasa powoli ją wyciska, a na końcu oliwa oddziela się od wody i trafia do szklanych butelek 🍶\n\nKażdy krok to mała minigra z medalem, a z ziół z gór Marta marynuje jeszcze oliwki, jak robi się to w naszej okolicy 🌿\n\nTo wciąż wczesny prototyp, ale możecie zagrać za darmo w przeglądarce. Widzieliście kiedyś, jak powstaje oliwa? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Traditional olive oil at the old village mill: grind, stack, press, decant and bottle. (Pre-alpha 0.37.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Almazara",
+      "titulo_pl": "Tłocznia"
     }
   ]
 }
