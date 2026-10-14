@@ -943,6 +943,30 @@
       "idioma": "pl",
       "aprobada_por": "Christian (14 oct 2026, 19:05)",
       "titulo": "Conducir es un reto"
+    },
+    {
+      "numero": 37,
+      "tipo": "resumen (carrusel)",
+      "tema": "Gallinero, aves, leñero, casa por dentro, árbol de Recoger y visitas en pixel art",
+      "fecha_hora": "2026-10-15T14:37:00+02:00",
+      "version_juego": "Pre-alfa 0.48.0",
+      "carpeta": "037",
+      "imagenes": [
+        "01_kurnik.jpg",
+        "02_dom.jpg",
+        "03_figi.jpg",
+        "04_goscie.jpg"
+      ],
+      "texto": "Na fince robi się coraz bardziej przytulnie! 🏡🐔\n\nKurnik ma teraz nowe, pikselowe kury, kaczki i gęsi, a obok stoją drewutnia, kompostownik i pierwsze gałęzie po przycinaniu drzew. Zajrzeliśmy też do środka domu: kolorowa narzuta na łóżku, kafelki na podłodze, piecyk na drewno i kuchnia z niebieskimi kafelkami 💙\n\nWielkie drzewo w minigrze zbierania owoców też dostało nowe liście, a goście, którzy odwiedzają Martę na fince, mają nowe ubrania 👋\n\nKtóry kąt finki podoba Wam się najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: The coop, the woodshed, the house interior, the big fruit tree and our visitors now have new pixel art. (Pre-alpha 0.48.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "La finca, la casa y las visitas en pixel art",
+      "titulo_pl": "Finka, dom i goście w pixel arcie"
     }
   ]
 }
