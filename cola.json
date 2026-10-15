@@ -1391,6 +1391,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 55,
+      "carpeta": "055",
+      "fecha_hora": "2026-10-19T18:37:00+02:00",
+      "version_juego": "Pre-alfa 0.68.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Pistas en todos los minijuegos",
+      "titulo_pl": "Podpowiedzi we wszystkich minigrach",
+      "tema": "Pista animada en el resto de minijuegos (0.68)",
+      "imagenes": [
+        "01_czeresnie.jpg",
+        "02_drewno.jpg",
+        "03_lornetka.jpg",
+        "04_plaza.jpg"
+      ],
+      "texto": "Mały pomocnik jest już w każdej minigrze! 👆🌿\n\nPalec na ekranie podpowiada teraz także przy zbieraniu czereśni, rąbaniu drewna, podglądaniu ptaków przez lornetkę, szukaniu skarbów na plaży, pikniku, targu i wielu innych zajęciach na fince. Pojawia się na początku i wtedy, gdy ktoś się zatrzyma i nie wie, co dalej – a gdy gracie, sam się chowa. Nie zdradza też rozwiązań: kto ma sokole oko, nadal wygrywa 😉\n\nKtóra minigra jest Waszą ulubioną? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: The little finger guide now helps in every minigame on the finca. (Pre-alpha 0.68.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
