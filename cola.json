@@ -1192,6 +1192,55 @@
       "titulo": "Recolocar y motos",
       "titulo_pl": "Ustaw i motocykle",
       "aprobada": "2026-10-15 (Chris)"
+    },
+    {
+      "numero": 47,
+      "tipo": "resumen (carrusel)",
+      "tema": "Semillero de exóticos (0.61)",
+      "fecha_hora": "2026-10-17T14:37:00+02:00",
+      "version_juego": "Pre-alfa 0.61.0",
+      "carpeta": "047",
+      "imagenes": [
+        "01_rozsadnik.jpg",
+        "02_wykielkowalo.jpg",
+        "03_sadzenie.jpg"
+      ],
+      "texto": "Egzotycznych drzew nie da się już kupić – trzeba je wyhodować! 🌱🥭\n\nNa tarasie Marty stoi teraz rozsadnik z czterema glinianymi doniczkami. Pestka mango, nasiona papai, daktyl z targu w Pego, odrost bananowca od sąsiada Ximo albo sadzonka pitai od Justyny… Podlewasz codziennie i czekasz, czy wykiełkuje 🤞\n\nNie zawsze się udaje – zupełnie jak w prawdziwym życiu na fince 😅\n\nA wy, próbowaliście kiedyś wyhodować awokado z pestki? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Exotic trees can't be bought anymore: sprout them from seeds, pits and cuttings on Marta's terrace. (Pre-alpha 0.61.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Semillero",
+      "titulo_pl": "Rozsadnik",
+      "aprobada": ""
+    },
+    {
+      "numero": 48,
+      "tipo": "resumen (carrusel)",
+      "tema": "Desayuno y ayudantes (0.61)",
+      "fecha_hora": "2026-10-17T16:37:00+02:00",
+      "version_juego": "Pre-alfa 0.61.0",
+      "carpeta": "048",
+      "imagenes": [
+        "01_kawiarka.jpg",
+        "02_na_ogniu.jpg",
+        "03_sniadanie.jpg",
+        "04_pomocnicy.jpg"
+      ],
+      "texto": "Dzień dobry z finki! ☕🥐\n\nMarta zaczyna teraz dzień od śniadania: nalewa wodę do kawiarki aż do zaworu, sypie kawę, czeka, aż zabulgocze, i opieka grzankę albo rogalik. Każdego dnia inne menu – czasem grzanka z pomidorem i oliwą, a czasem „torrada amb oli i sucre”, jak u babci 😋\n\nA na fince pomagają bliscy: Chris czasem nakarmi koty albo wyczyści kuwetę, wujek Jacek przygotuje nawóz, a Justyna zbierze skrzynkę pomarańczy. O wszystkim dowiesz się z tabletu 📱\n\nCo jecie dziś na śniadanie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Breakfast with a moka pot and a new menu every day, plus family helping out on the farm now and then. (Pre-alpha 0.61.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Desayuno y ayudantes",
+      "titulo_pl": "Śniadanie i pomocnicy",
+      "aprobada": ""
     }
   ]
 }
