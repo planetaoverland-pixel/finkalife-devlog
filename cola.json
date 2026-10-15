@@ -1073,7 +1073,7 @@
       "tipo": "resumen (carrusel)",
       "tema": "Árboles con la forma real de cada especie (0.56)",
       "fecha_hora": "2026-10-16T14:37:00+02:00",
-      "version_juego": "Pre-alfa 0.56.0",
+      "version_juego": "Pre-alfa 0.56.1",
       "carpeta": "042",
       "imagenes": [
         "01_drzewa.jpg",
@@ -1081,8 +1081,8 @@
         "03_czeresnie.jpg",
         "04_katalog.jpg"
       ],
-      "texto": "Nasze drzewa w końcu wyglądają jak prawdziwe! 🌳✨\n\nKażde drzewo owocowe na fince ma teraz swój własny kształt, podpatrzony w prawdziwych sadach Marina Alta: oliwka ma grube, powykręcane pnie i srebrzyste liście, granatowiec rośnie z kilku cienkich pni, a migdałowiec ma szeroką, niską koronę 🫒\n\nŻadne dwa drzewa nie są takie same – każde ma inaczej ułożone gałęzie. A owoce wiszą tam, gdzie powinny: cytryny pionowo, a granaty koroną w dół 🍋\n\nNowość w katalogu: papaja! Na razie czeka na specjalną okazję, żeby pojawić się na fince 🌴\n\nKtóre drzewo podoba Wam się najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Every fruit tree now has its own real shape and three branch variants, and fruit hangs the right way. (Pre-alpha 0.56.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "APROBADA",
+      "texto": "Nasze drzewa w końcu wyglądają jak prawdziwe! 🌳✨\n\nKażde drzewo owocowe na fince ma teraz swój własny kształt, podpatrzony w prawdziwych sadach Marina Alta: oliwka ma grube, powykręcane pnie i srebrzyste liście, granatowiec rośnie z kilku cienkich pni, a migdałowiec ma szeroką, niską koronę 🫒\n\nŻadne dwa drzewa nie są takie same – każde ma inaczej ułożone gałęzie. A owoce wiszą tam, gdzie powinny: cytryny pionowo, a granaty koroną w dół 🍋\n\nNowość w katalogu: papaja! Na razie czeka na specjalną okazję, żeby pojawić się na fince 🌴\n\nKtóre drzewo podoba Wam się najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Every fruit tree now has its own real shape and three branch variants, and fruit hangs the right way. (Pre-alpha 0.56.1)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -1090,8 +1090,7 @@
       "idioma": "pl",
       "aprobada_por": "",
       "titulo": "Árboles de verdad",
-      "titulo_pl": "Prawdziwe drzewa",
-      "aprobada": "2026-10-15 10:50 (Chris)"
+      "titulo_pl": "Prawdziwe drzewa"
     }
   ]
 }
