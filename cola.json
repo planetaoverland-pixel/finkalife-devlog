@@ -1132,7 +1132,7 @@
         "04_gotowe.jpg"
       ],
       "texto": "Pakowanie zamówień jest teraz prawdziwym wyzwaniem! 📦🍊\n\nPo lewej stoją od razu wszystkie skrzynki z owocami z zamówienia, a obok kartka: ile czego trzeba. Trzeba policzyć i przeciągnąć do pudełka właściwą liczbę. Za dużo? Wyciągasz owoc z powrotem. Jeśli coś się nie zgadza, gra poprosi, żeby sprawdzić 😅\n\nNa koniec zaklejamy pudełko taśmą – a ono lekko się kołysze, więc trzeba trzymać rękę prosto! Im prościej, tym lepszy medal 🥇\n\nIle razy pomylilibyście się przy pierwszym zamówieniu? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Packing orders is now a real challenge: count the fruit, fix your mistakes and tape the wobbly box as straight as you can. (Pre-alpha 0.58.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -1140,7 +1140,8 @@
       "idioma": "pl",
       "aprobada_por": "",
       "titulo": "Empaquetar",
-      "titulo_pl": "Pakowanie"
+      "titulo_pl": "Pakowanie",
+      "aprobada": "2026-10-15 14:05 (Chris)"
     }
   ]
 }
