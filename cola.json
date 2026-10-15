@@ -1366,6 +1366,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 54,
+      "carpeta": "054",
+      "fecha_hora": "2026-10-19T10:37:00+02:00",
+      "version_juego": "Pre-alfa 0.67.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Muebles nuevos y pistas",
+      "titulo_pl": "Nowe meble i podpowiedzi",
+      "tema": "Tienda de muebles fase 2 y pistas animadas (0.67)",
+      "imagenes": [
+        "01_salon.jpg",
+        "02_sklep_meblowy.jpg",
+        "03_podpowiedz_sok.jpg",
+        "04_podpowiedz_ciastka.jpg"
+      ],
+      "texto": "Nowe meble w domu na fince! 🛋️🌿\n\nW sklepie meblowym w Pego są już prawdziwe nowe modele, a nie tylko inne kolory: skórzana kanapa chesterfield albo wiklinowa z poduszkami w paski, kolorowy kilim albo okrągły dywan z esparto, a do tego monstera albo mała oliwka w doniczce 🫒 Marta urządza salon po swojemu!\n\nA w minigrach pojawił się mały pomocnik: palec na ekranie pokazuje, gdzie dotknąć i w którą stronę przeciągnąć – przy soku, ciastkach, chlebie, kakao, śniadaniu i w tłoczni oliwy 👆 Dzięki temu od razu wiadomo, co robić.\n\nKtórą kanapę wybralibyście do swojego salonu? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: New furniture models in the Pego shop and a little finger guide in every minigame. (Pre-alpha 0.67.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
