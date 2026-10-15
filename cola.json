@@ -1341,6 +1341,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 53,
+      "carpeta": "053",
+      "fecha_hora": "2026-10-18T16:37:00+02:00",
+      "version_juego": "Pre-alfa 0.66.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "El colmenar de Vicente",
+      "titulo_pl": "Pasieka Vicente",
+      "tema": "Colmenar y embotar la miel (0.66)",
+      "imagenes": [
+        "01_podkurzanie.jpg",
+        "02_ramka.jpg",
+        "03_sloiki.jpg",
+        "04_miod.jpg"
+      ],
+      "texto": "Bzzz! 🐝 Jedziemy w góry do pasieki Vicente!\n\nMiód wybieramy tak jak dawniej: najpierw trochę dymu z podkurzacza, żeby pszczoły się uspokoiły, potem dłuto, ramka do góry i delikatne zmiatanie pszczół – Vicente mówi, że to jego dziewczyny 😄 Wybieramy tylko ramki z dojrzałym, zasklepionym miodem.\n\nPotem w magazynie kręcimy miodarką, cedzimy, zbieramy pianę i napełniamy słoiki do kreski 🍯 Do domu wracamy z miodem z kwiatu pomarańczy, rozmarynu albo tymianku – idealnym do kakao Marty!\n\nJaki miód lubicie najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Visit Vicente's apiary in the mountains: smoke the hive, brush the bees, uncap the frames and jar your own honey. (Pre-alpha 0.66.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
