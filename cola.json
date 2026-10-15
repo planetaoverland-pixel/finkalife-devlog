@@ -1241,6 +1241,31 @@
       "titulo": "Desayuno y ayudantes",
       "titulo_pl": "Śniadanie i pomocnicy",
       "aprobada": "2026-10-15 (Chris)"
+    },
+    {
+      "numero": 49,
+      "tipo": "resumen (carrusel)",
+      "tema": "Personalización: casa rosa, pintura, taller y muebles (0.62)",
+      "fecha_hora": "2026-10-17T18:37:00+02:00",
+      "version_juego": "Pre-alfa 0.62.0",
+      "carpeta": "049",
+      "imagenes": [
+        "01_rozowy_dom.jpg",
+        "02_lakiernia.jpg",
+        "03_meble.jpg",
+        "04_wnetrze.jpg"
+      ],
+      "texto": "Różowy dom na fince? Czemu nie! 🏡💗\n\nDom Marty ma teraz kolor gumy balonowej. A jeśli chcecie inny, w sklepie żelaznym w Pego kupicie farbę: biel wapienną, żółć piaskową, błękit indygo, miętę albo terakotę – i sami pomalujecie ściany 🎨\n\nW Pego otworzyła się też lakiernia (różowy pikap? bardzo proszę!) i sklep meblowy, gdzie zmienicie sofę, dywan albo meble kuchenne 🛋️\n\nJaki kolor wybralibyście dla swojego domu? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Paint your farmhouse, your pickup and your furniture: new paint shop and furniture store in Pego. (Pre-alpha 0.62.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Personalización",
+      "titulo_pl": "Personalizacja",
+      "aprobada": ""
     }
   ]
 }
