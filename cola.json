@@ -1182,7 +1182,7 @@
         "04_w_drodze.jpg"
       ],
       "texto": "Koniec z zablokowanymi pojazdami! 🛵🔧\n\nCzasem pojazd utknął w dziwnym miejscu albo koło wpadło pod drogę. Teraz wystarczy przycisk „Ustaw”: pikap, skuter czy motocykl spada delikatnie w tym samym miejscu, z całym ładunkiem, i można jechać dalej 😅\n\nPoprawiliśmy też zawieszenie motocykli i skuterów – przednie koło trzyma się widelca i nic już nie odstaje.\n\nCzym wolelibyście jeździć po Pego: motocyklem czy skuterem? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Stuck? Just press “Ustaw” and your vehicle drops back on the road, cargo and all. Plus smoother motorbike suspension. (Pre-alpha 0.60.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -1191,7 +1191,7 @@
       "aprobada_por": "",
       "titulo": "Recolocar y motos",
       "titulo_pl": "Ustaw i motocykle",
-      "aprobada": ""
+      "aprobada": "2026-10-15 (Chris)"
     }
   ]
 }
