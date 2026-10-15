@@ -1416,6 +1416,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 56,
+      "carpeta": "056",
+      "fecha_hora": "2026-10-20T12:37:00+02:00",
+      "version_juego": "Pre-alfa 0.69.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Suelo nuevo, mover muebles, fideuá y aceitunas",
+      "titulo_pl": "Nowa podłoga, meble, fideua i oliwki",
+      "tema": "Suelo hidráulico, mover muebles, fideuá de Chris y sacos de aceitunas (0.69)",
+      "imagenes": [
+        "01_nowa_podloga.jpg",
+        "02_przestawianie.jpg",
+        "03_fideua.jpg",
+        "04_worki_oliwek.jpg"
+      ],
+      "texto": "Przemeblowanie na fince! 🏡🛋️\n\nW sklepie meblowym w Pego są teraz kafle cementowe na podłogę, takie jak w starych domach w okolicy: z niebieską gwiazdą, z czerwoną rozetą albo czarno-biała szachownica. A w domu jest nowy przycisk „Przestaw meble”: sofę, dywan i roślinę stawiacie tam, gdzie chcecie.\n\nW kuchni czeka nowy przepis: fideua Chrisa 🥘 Podsmażanie, czosnek, pomidor i papryka, przypiekanie makaronu i bulion – aż makaron stanie na sztorc. Z aioli obok!\n\nA oliwki jadą do tłoczni w workach na pace. Uważajcie na wyboje 😉\n\nCo ugotowalibyście najpierw? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: New tile floors, rearrangeable furniture, Chris's fideuà recipe and olive sacks on the way to the mill. (Pre-alpha 0.69.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
