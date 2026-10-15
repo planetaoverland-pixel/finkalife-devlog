@@ -1107,7 +1107,7 @@
         "04_ekwipunek.jpg"
       ],
       "texto": "Marta ma teraz swój tablet! 📱🍊\n\nZamiast wielu przycisków na ekranie jest jeden: tablet. W środku są zamówienia, wiadomości, mapa, zeszyty, pomysły i ustawienia, a ekwipunek jest ułożony w kategoriach: owoce, kuchnia, pole i inne 🧺\n\nKiedy coś się dzieje na fince, na górze ekranu pojawia się powiadomienie jak w telefonie: nowa wiadomość od Ximo, nowe zamówienie albo przyjazd wujka Jacka. Wszystko czeka potem w „Nowościach”, a jednym przyciskiem oznaczysz wszystko jako przeczytane ✅\n\nDzięki temu na ekranie widać więcej finki 🌳\n\nCo jeszcze chcielibyście mieć w tablecie Marty? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Marta's tablet is here: orders, messages, inventory by category, map and settings in one place, plus phone-style notifications. (Pre-alpha 0.57.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
-      "estado": "PENDIENTE",
+      "estado": "APROBADA",
       "intentos": 0,
       "error": "",
       "publicado_en": "",
@@ -1115,7 +1115,8 @@
       "idioma": "pl",
       "aprobada_por": "",
       "titulo": "La tablet de Marta",
-      "titulo_pl": "Tablet Marty"
+      "titulo_pl": "Tablet Marty",
+      "aprobada": "2026-10-15 13:00 (Chris)"
     }
   ]
 }
