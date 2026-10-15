@@ -1015,6 +1015,30 @@
       "aprobada_por": "",
       "titulo": "Recetas, árboles y pájaros",
       "titulo_pl": "Przepisy, drzewa i ptaki"
+    },
+    {
+      "numero": 40,
+      "tipo": "resumen (carrusel)",
+      "tema": "Formas en las nubes, alambique de aceites esenciales y ciervo blanco (0.54)",
+      "fecha_hora": "2026-10-16T10:37:00+02:00",
+      "version_juego": "Pre-alfa 0.54.0",
+      "carpeta": "040",
+      "imagenes": [
+        "01_chmury.jpg",
+        "02_zeszyt.jpg",
+        "03_alembik.jpg",
+        "04_olejki.jpg"
+      ],
+      "texto": "Na tarasie Marty można teraz szukać kształtów w chmurach! ☁️🐳\n\nChmury powoli płyną nad górami, a co jakiś czas któraś zamienia się w owieczkę, rybkę, serce, wieloryba albo smoka. Trzeba jej dotknąć, zanim się rozpłynie! Najrzadsza to chmurowy jeleń… Kto go zobaczy, ten podobno spotka kiedyś białego jelenia z gór 🦌\n\nW kuchni stanął miedziany alembik: z lawendy, rozmarynu, tymianku albo szałwii robimy olejki eteryczne, a z ziół i naszej oliwy – oliwę z ziołami 🌿\n\nJaki kształt w chmurach widzieliście ostatnio? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Spot shapes in the clouds from the terrace, distil essential oils in a copper still, and look out for the legendary white deer. (Pre-alpha 0.54.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Nubes y alambique",
+      "titulo_pl": "Chmury i alembik"
     }
   ]
 }
