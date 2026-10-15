@@ -1316,6 +1316,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 52,
+      "carpeta": "052",
+      "fecha_hora": "2026-10-18T14:37:00+02:00",
+      "version_juego": "Pre-alfa 0.65.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Cerámica 2.1 y Vicente",
+      "titulo_pl": "Ceramika 2.1 i Vicente",
+      "tema": "Cerámica 2.1 y Vicente el apicultor (0.65)",
+      "imagenes": [
+        "01_podpowiedz.jpg",
+        "02_botijo.jpg",
+        "03_kubek.jpg",
+        "04_vicente.jpg"
+      ],
+      "texto": "Wasze uwagi zamieniamy w zmiany – ceramika u Michaliny jest jeszcze lepsza! 🏺💛\n\nTeraz mały palec na ekranie pokazuje, gdzie ścisnąć glinę i w którą stronę ją prowadzić 👆 Jeśli kubek wyjdzie krzywy jak ogórek, wystarczy „Od nowa” i ugniatamy glinę jeszcze raz. Botijo ma wreszcie swój prawdziwy kształt: brzuszek, okrągłe ucho na górze, otwór i dziobek 🙌\n\nDo malowania naczynie pojawia się duże na środku, z cienkim pędzlem – można narysować prawdziwe wzorki 🎨\n\nI poznajcie Vicente, naszego pszczelarza z gór! Pisze na tablet i czasem przywozi słoik miodu 🐝🍯\n\nCo narysowalibyście na swoim botijo? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Pottery got better: finger hints, a redo button, a real botijo shape and fine-brush painting. Plus meet Vicente, our beekeeper. (Pre-alpha 0.65.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
