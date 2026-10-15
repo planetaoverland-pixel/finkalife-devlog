@@ -1291,6 +1291,31 @@
       "titulo": "Michalina",
       "titulo_pl": "Michalina",
       "aprobada": "2026-10-15 (Chris)"
+    },
+    {
+      "numero": 51,
+      "carpeta": "051",
+      "fecha_hora": "2026-10-18T12:37:00+02:00",
+      "version_juego": "Pre-alfa 0.64.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Cerámica 2.0",
+      "titulo_pl": "Ceramika 2.0",
+      "tema": "Cerámica 2.0 con Michalina (0.64)",
+      "imagenes": [
+        "01_botijo.jpg",
+        "02_kubek_z_uchem.jpg",
+        "03_piec.jpg",
+        "04_gotowe.jpg"
+      ],
+      "texto": "Glina, koło i pędzel – ceramika u Michaliny jest teraz dużo ciekawsza! 🏺✨\n\nZaczynamy od bezkształtnej bryły gliny, która chwieje się na kole. Palcem ją ściskamy, żeby urosła, albo poszerzamy – nie musi być idealnie, przecież to rękodzieło, ale im równiej, tym lepiej 🙌\n\nDo kubka doklejamy ucho, a botijo składamy jak dawniej: otwór do nalewania, dziobek i ucho na górze. Potem malujemy naczynie jak w Paincie 🎨 – ręcznie malowane są warte więcej. Na koniec piec: trzeba go wyłączyć, gdy zegnie się stożek, zanim naczynie pęknie! 🔥\n\nCo byście namalowali na swoim kubku? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Pottery 2.0 with Michalina: shape the clay with your finger, add handles, build a traditional botijo, paint it and fire it in the kiln. (Pre-alpha 0.64.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
