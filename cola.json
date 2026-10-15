@@ -1039,6 +1039,30 @@
       "aprobada_por": "",
       "titulo": "Nubes y alambique",
       "titulo_pl": "Chmury i alembik"
+    },
+    {
+      "numero": 41,
+      "tipo": "resumen (carrusel)",
+      "tema": "Varear con red, pan de la finca y botellas frágiles (0.55)",
+      "fecha_hora": "2026-10-16T12:37:00+02:00",
+      "version_juego": "Pre-alfa 0.55.0",
+      "carpeta": "041",
+      "imagenes": [
+        "01_oliwki.jpg",
+        "02_chleb.jpg",
+        "03_przepis.jpg",
+        "04_butelki.jpg"
+      ],
+      "texto": "Zbieramy oliwki jak dawniej! 🫒🧺\n\nDrzewa oliwne, migdałowce i szarańczyny teraz się otrząsa: przesuwasz palcem po gałęziach i dojrzałe owoce spadają do siatki. Jak potrząśniesz za mocno, spadną też zielone, a to, co poleci poza siatkę, przepada 😅\n\nOliwa z tłoczni w górach wraca pikapem na pace. Ostrożnie na wybojach, bo butelki, które wypadną, się tłuką! 🛻\n\nA w książce z przepisami jest nowa strona: chleb z finki. Zagnieść, poczekać, aż wyrośnie, naciąć i upiec na złoto 🍞\n\nWolicie chleb z oliwą czy z dżemem? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Harvest olives with a pole and net, bake farm bread, and drive the fragile oil bottles home from the mountains. (Pre-alpha 0.55.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Aceitunas, pan y botellas",
+      "titulo_pl": "Oliwki, chleb i butelki"
     }
   ]
 }
