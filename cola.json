@@ -1117,6 +1117,30 @@
       "titulo": "La tablet de Marta",
       "titulo_pl": "Tablet Marty",
       "aprobada": "2026-10-15 13:00 (Chris)"
+    },
+    {
+      "numero": 44,
+      "tipo": "resumen (carrusel)",
+      "tema": "Empaquetar con errores y precinto (0.58)",
+      "fecha_hora": "2026-10-16T18:37:00+02:00",
+      "version_juego": "Pre-alfa 0.58.0",
+      "carpeta": "044",
+      "imagenes": [
+        "01_skrzynki.jpg",
+        "02_pomylka.jpg",
+        "03_tasma.jpg",
+        "04_gotowe.jpg"
+      ],
+      "texto": "Pakowanie zamówień jest teraz prawdziwym wyzwaniem! 📦🍊\n\nPo lewej stoją od razu wszystkie skrzynki z owocami z zamówienia, a obok kartka: ile czego trzeba. Trzeba policzyć i przeciągnąć do pudełka właściwą liczbę. Za dużo? Wyciągasz owoc z powrotem. Jeśli coś się nie zgadza, gra poprosi, żeby sprawdzić 😅\n\nNa koniec zaklejamy pudełko taśmą – a ono lekko się kołysze, więc trzeba trzymać rękę prosto! Im prościej, tym lepszy medal 🥇\n\nIle razy pomylilibyście się przy pierwszym zamówieniu? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Packing orders is now a real challenge: count the fruit, fix your mistakes and tape the wobbly box as straight as you can. (Pre-alpha 0.58.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Empaquetar",
+      "titulo_pl": "Pakowanie"
     }
   ]
 }
