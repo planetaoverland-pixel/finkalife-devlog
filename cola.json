@@ -1142,6 +1142,31 @@
       "titulo": "Empaquetar",
       "titulo_pl": "Pakowanie",
       "aprobada": "2026-10-15 14:05 (Chris)"
+    },
+    {
+      "numero": 45,
+      "tipo": "resumen (carrusel)",
+      "tema": "Exprimidor de palanca, higos y gatos redibujados (0.59)",
+      "fecha_hora": "2026-10-17T10:37:00+02:00",
+      "version_juego": "Pre-alfa 0.59.0",
+      "carpeta": "045",
+      "imagenes": [
+        "01_wyciskarka.jpg",
+        "02_figi.jpg",
+        "03_koty.jpg",
+        "04_koty_slonce.jpg"
+      ],
+      "texto": "Nowe rysunki w kuchni i w ogrodzie! 🍊🐈‍⬛\n\nWyciskarka do soku ma teraz żelazną dźwignię z czarną gumową rączką, jak te stare, prawdziwe – chwytasz i powoli naciskasz, a połówka pomarańczy znika pod dzwonem. Figi do dżemu mają wreszcie kształt figi, a po przekrojeniu widać czerwony miąższ z pesteczkami 😋\n\nA nasze koty, Boby, Jaky i Michi, siedzą teraz smuklej, a kiedy wylegują się na słońcu albo śpią zwinięte w kłębek, mają więcej ciałka 😺\n\nKtóry z naszych kotów jest waszym ulubieńcem? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: New pixel art: an iron lever juicer, figs that finally look like figs and cuter cats. (Pre-alpha 0.59.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "intentos": 0,
+      "error": "",
+      "publicado_en": "",
+      "enlace": "",
+      "idioma": "pl",
+      "aprobada_por": "",
+      "titulo": "Exprimidor, higos y gatos",
+      "titulo_pl": "Wyciskarka, figi i koty",
+      "aprobada": ""
     }
   ]
 }
