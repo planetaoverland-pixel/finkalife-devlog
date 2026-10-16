@@ -1441,6 +1441,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 57,
+      "carpeta": "057",
+      "fecha_hora": "2026-10-20T14:37:00+02:00",
+      "version_juego": "Pre-alfa 0.70.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Azulejos de la cocina",
+      "titulo_pl": "Kafle w kuchni",
+      "tema": "Editor del frontal de azulejos de la cocina (0.70)",
+      "imagenes": [
+        "01_rozety.jpg",
+        "02_wlasny_wzor.jpg",
+        "03_kuchnia.jpg",
+        "04_gotowanie.jpg"
+      ],
+      "texto": "Nowe kafle w kuchni Marty! 🏺💙\n\nW sklepie żelaznym w Pego są teraz pudełka kafli inspirowanych starymi walenckimi kuchniami: niebieska gwiazda, kwiat z czterech płatków, „mocadoret” w dwóch kolorach i ćwiartka rozety. Ścianę nad blatem układacie sami, kafel po kaflu – a kolejne dotknięcie obraca kafel.\n\nNasz ulubiony trik: cztery obrócone kafle tworzą razem większy wzór, na przykład całą rozetę 🌼 Na górze można dodać bordiurę w fale albo w liście.\n\nA Wasz wzór widać potem w tle przy każdym gotowaniu 🍳\n\nJaki wzór ułożylibyście najpierw? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Design your own kitchen tile wall with original Valencian-inspired tiles – four rotated tiles make a bigger pattern. (Pre-alpha 0.70.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
