@@ -1491,6 +1491,55 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 59,
+      "carpeta": "059",
+      "fecha_hora": "2026-10-20T18:37:00+02:00",
+      "titulo": "Cuatro ruinas nuevas",
+      "titulo_pl": "Cztery nowe ruiny",
+      "tema": "Riurau, molino, corral y cava de nieve; Museu del camp con 32 aperos (0.73)",
+      "imagenes": [
+        "01_riurau.jpg",
+        "02_mlyn.jpg",
+        "03_studnia.jpg",
+        "04_muzeum.jpg"
+      ],
+      "texto": "Cztery nowe ruiny do odkrycia! 🏚️✨\n\nW okolicy czekają kolejne opuszczone miejsca: stary riurau, w którym suszono rodzynki, młyn nad ciemnym wąwozem, zagroda pasterza przy pasiece i studnia śnieżna wysoko w górach.\n\nW riurau trzcinę odgarniacie szybkim ruchem palca, w młynie i w zagrodzie przekładacie kamienie (ten duży jest naprawdę ciężki 😅), a w ciemności szukacie latarką klucza i skrzyni.\n\nMuseu del camp ma już 32 dawne narzędzia z walenckiej wsi – od dzwonka pasterskiego po kierat.\n\nKtóre miejsce zwiedzilibyście najpierw? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Four new ruins to explore — a raisin-drying riurau, an old mill, a shepherd's pen and a snow well — and 32 old farm tools to collect. (Pre-alpha 0.73.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "version_juego": "Pre-alfa 0.73.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
+    },
+    {
+      "numero": 60,
+      "carpeta": "060",
+      "fecha_hora": "2026-10-20T20:37:00+02:00",
+      "titulo": "Mi personaje",
+      "titulo_pl": "Moja postać",
+      "tema": "Editor de personaje básico (0.73)",
+      "imagenes": [
+        "01_moja_postac.jpg",
+        "02_kolory.jpg",
+        "03_na_fince.jpg"
+      ],
+      "texto": "Teraz możecie stworzyć własną postać! 🎨👒\n\nW ustawieniach tabletu jest nowa opcja „Moja postać”. Nadajcie jej imię i wybierzcie kolor skóry, włosów, oczu, koszulki, spodni i kapelusza – od razu widać ją na fince.\n\nTo dopiero pierwszy krok. Marzymy, żeby każdy mógł kiedyś mieć w grze swoją własną finkę 🌿\n\nJaką postać byście stworzyli? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Create your own character: pick a name and colours for skin, hair, eyes, shirt, trousers and hat. (Pre-alpha 0.73.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "version_juego": "Pre-alfa 0.73.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
