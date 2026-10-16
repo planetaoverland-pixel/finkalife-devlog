@@ -1665,6 +1665,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 66,
+      "carpeta": "066",
+      "fecha_hora": "2026-10-22T10:37:00+02:00",
+      "version_juego": "Pre-alfa 0.80.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Mapa de Pego y horno",
+      "titulo_pl": "Pego z lotu ptaka",
+      "tema": "Mapa de Pego desde el aire con sus sitios y el horno del pueblo (0.80)",
+      "imagenes": [
+        "01_pego_z_gory.jpg",
+        "02_piekarnia.jpg",
+        "03_coca.jpg",
+        "04_podwieczorek.jpg"
+      ],
+      "texto": "Pego z lotu ptaka! 🗺️🥐\n\nKiedy Marta przyjeżdża do miasteczka, widzi teraz Pego z góry: plac z targiem, kościół, sklepy i warsztaty. Wystarczy dotknąć miejsca na mapie, żeby tam wejść.\n\nOtworzyła się też piekarnia z lokalnymi słodkościami: coca de llanda, anyżowe obwarzanki i pastissety z batatą. Idealne na podwieczorek na fince ☕\n\nKtóra słodkość kusi was najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Explore Pego from above: tap the places on the town map, and try the new bakery's local sweets. (Pre-alpha 0.80.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
