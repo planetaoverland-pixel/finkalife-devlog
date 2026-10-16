@@ -1615,6 +1615,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 64,
+      "carpeta": "064",
+      "fecha_hora": "2026-10-21T16:37:00+02:00",
+      "version_juego": "Pre-alfa 0.77.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Bisutería de Marta",
+      "titulo_pl": "Biżuteria Marty",
+      "tema": "Taller de bisutería: comprar, desmontar, diseñar y vender pulseras y collares (0.77)",
+      "imagenes": [
+        "01_rozbieranie.jpg",
+        "02_bransoletka.jpg",
+        "03_naszyjnik.jpg",
+        "04_gotowe.jpg"
+      ],
+      "texto": "Koraliki, koraliki! 💎🌈\n\nMarta w prawdziwym życiu kupuje na targach i pchlich targach bransoletki z kolorowych koralików, rozbiera je i robi z nich własną biżuterię. Teraz możecie robić to samo w grze!\n\nKupujecie bransoletki i naszyjniki na stoisku, przecinacie supełek, rozkładacie koraliki do pudełeczek według kolorów i nawlekacie własne wzory. Ozdoby z powtarzającym się albo symetrycznym motywem są warte więcej, a sprzedacie je na targu w Pego albo w sklepie internetowym Marty 🛍️\n\nJaki wzór byście nawlekli? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Buy bead bracelets at the flea market, take them apart and string your own bracelets and necklaces to sell. (Pre-alpha 0.77.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
