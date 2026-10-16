@@ -1540,6 +1540,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 61,
+      "carpeta": "061",
+      "fecha_hora": "2026-10-21T10:37:00+02:00",
+      "version_juego": "Pre-alfa 0.74.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Descansar: pelar naranjas y dibujar",
+      "titulo_pl": "Chwila odpoczynku",
+      "tema": "Asientos, pelar naranja en espiral y cuaderno de dibujo (0.74)",
+      "imagenes": [
+        "01_odpoczynek.jpg",
+        "02_spirala.jpg",
+        "03_czastki.jpg",
+        "04_szkicownik.jpg"
+      ],
+      "texto": "Chwila odpoczynku na fince 🍊🎨\n\nPrzy drzwiach domu stoi teraz krzesło z sitowia, a na polu odwrócona skrzynka na owoce. Siadacie na chwilę i… obieracie pomarańczę! Jeśli uda się jednym ruchem, skórka wychodzi w całości, w spiralę – tak jak robili nasi dziadkowie.\n\nA może wolicie rysować? W nowym szkicowniku są ołówek, węgiel, akwarela i kredka, a swoje prace możecie udostępnić z imieniem autora 😊\n\nJak obieracie pomarańcze: w spiralę czy kawałkami? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Take a break on the farm: peel an orange in one spiral, eat it slice by slice, or draw in the new sketchbook and share your art. (Pre-alpha 0.74.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
