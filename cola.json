@@ -1565,6 +1565,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 62,
+      "carpeta": "062",
+      "fecha_hora": "2026-10-21T12:37:00+02:00",
+      "version_juego": "Pre-alfa 0.75.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Decorar la finca",
+      "titulo_pl": "Dekorowanie finki",
+      "tema": "Fachada y finca decorables con aperos y cosas del rastro; banquitos y cajas (0.75)",
+      "imagenes": [
+        "01_fasada.jpg",
+        "02_wieszanie.jpg",
+        "03_laweczki.jpg",
+        "04_finka.jpg"
+      ],
+      "texto": "Nasza finka nabiera charakteru! 🧡🏡\n\nWszystko, co znajdziecie w ruinach i na pchlim targu, możecie teraz powiesić na ścianie domu: podkowę na szczęście, odświętne chomąto, dzwonek pasterski, stary obraz… A koszyki, dzbany i botijo stawiacie przed drzwiami.\n\nNa polu można też postawić skrzynki na owoce i drewniane ławeczki, żeby usiąść na chwilę i obrać pomarańczę 🍊\n\nCo powiesilibyście na swojej ścianie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Decorate your farmhouse with the old tools and treasures you find, and place benches and fruit crates around the farm to sit and rest. (Pre-alpha 0.75.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
