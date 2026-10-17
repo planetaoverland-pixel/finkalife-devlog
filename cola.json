@@ -1690,6 +1690,31 @@
       "error": "",
       "enlace": "",
       "publicado_en": ""
+    },
+    {
+      "numero": 67,
+      "carpeta": "067",
+      "fecha_hora": "2026-10-22T12:37:00+02:00",
+      "version_juego": "Pre-alfa 0.82.0",
+      "idioma": "pl",
+      "tipo": "resumen (carrusel)",
+      "titulo": "Día y noche en la finca",
+      "titulo_pl": "Dzień i noc na fince",
+      "tema": "«Luz y vida» encendida para todos (0.82)",
+      "imagenes": [
+        "01_swit.jpg",
+        "02_zachod.jpg",
+        "03_noc.jpg",
+        "04_dom_noca.jpg"
+      ],
+      "texto": "Dzień i noc na naszej fince! 🌅🌙\n\nOd dziś światło na fince zmienia się razem z godziną. Rano różowy świt, wieczorem miodowy zachód słońca, a nocą wszystko robi się niebieskie i ciche. A kiedy Marta wraca do domu, czeka na nią ciepłe światło lampy.\n\nRobiliśmy to tak, żeby wieczorne zbieranie pomarańczy miało ten sam klimat co u nas w Pego 🍊\n\nO której porze dnia najbardziej lubicie grać? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Day and night have arrived: the light on the farm now changes with the time, from pink dawns to blue nights. (Pre-alpha 0.82.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+      "estado": "PENDIENTE",
+      "aprobada": "",
+      "aprobada_por": "",
+      "intentos": 0,
+      "error": "",
+      "enlace": "",
+      "publicado_en": ""
     }
   ]
 }
