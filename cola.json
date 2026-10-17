@@ -1787,6 +1787,30 @@
    "error": "",
    "enlace": "",
    "publicado_en": ""
+  },
+  {
+   "numero": 71,
+   "carpeta": "071",
+   "fecha_hora": "2026-10-23T10:37:00+02:00",
+   "version_juego": "Pre-alfa 0.86.0",
+   "idioma": "pl",
+   "tipo": "resumen (carrusel)",
+   "titulo": "Marta y Chris con aspecto nuevo y gatos animados",
+   "titulo_pl": "Nowa odsłona Finki",
+   "tema": "Estilo nuevo de Marta y Chris (Chris vaquero), andar de 4 pasos con braceo y gatos animados (0.86)",
+   "imagenes": [
+    "01_nowy_wyglad.jpg",
+    "02_kowboj.jpg",
+    "03_koty.jpg"
+   ],
+   "texto": "Nowa odsłona Finki! ✨🍊\n\nMarta i Chris dostali nowy, dużo bardziej szczegółowy wygląd. Chris jest teraz prawdziwym kowbojem: skórzany kapelusz, koszula w kratę i wysokie buty 🤠\n\nNauczyli się też porządnie chodzić — machają rękami i stawiają prawdziwe kroki. A Boby, Jaky i Michi mają nowe ruchy: myją łapki, bawią się i od czasu do czasu przeciągają się przez sen 🐾\n\nKtóry kot jest waszym ulubieńcem? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Marta and Chris got a brand-new, more detailed look (Chris is a cowboy now!), a real walk cycle, and the cats have new animations. (Pre-alpha 0.86.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "APROBADA",
+   "aprobada": "2026-10-17T20:26:00+02:00",
+   "aprobada_por": "Chris",
+   "intentos": 0,
+   "error": "",
+   "enlace": "",
+   "publicado_en": ""
   }
  ]
 }
