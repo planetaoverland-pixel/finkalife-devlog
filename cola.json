@@ -1739,6 +1739,30 @@
    "error": "",
    "enlace": "",
    "publicado_en": ""
+  },
+  {
+   "numero": 69,
+   "carpeta": "069",
+   "fecha_hora": "2026-10-22T16:37:00+02:00",
+   "version_juego": "Pre-alfa 0.84.0",
+   "idioma": "pl",
+   "tipo": "resumen (carrusel)",
+   "titulo": "Modo historia",
+   "titulo_pl": "Tryb fabularny",
+   "tema": "Primera semana guiada con botón «Modo historia» (0.84)",
+   "imagenes": [
+    "01_ekran_startowy.jpg",
+    "02_tryb_fabularny.jpg",
+    "03_dzien3_pego.jpg"
+   ],
+   "texto": "Zaczynamy od początku! 📖🍊\n\nDodaliśmy Tryb fabularny. Zaczynasz pierwszy dzień na fince, a Chris i sąsiedzi każdego dnia pokazują ci coś nowego: najpierw pomarańcze i zamówienia, potem odpoczynek na tarasie, wycieczkę do Pego, kuchnię… Po tygodniu finka jest cała twoja.\n\nKto woli mieć wszystko od razu, może wybrać Wolną grę 😉\n\nGracie krok po kroku czy wszystko naraz? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: New Story mode: start from day one and discover the farm little by little, with Chris and the neighbours showing you something new every day. (Pre-alpha 0.84.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "PENDIENTE",
+   "aprobada": "",
+   "aprobada_por": "",
+   "intentos": 0,
+   "error": "",
+   "enlace": "",
+   "publicado_en": ""
   }
  ]
 }
