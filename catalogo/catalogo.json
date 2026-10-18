@@ -103,7 +103,7 @@
    },
    "precio": 0,
    "icono": "iconos/veh_pickup.png",
-   "prueba": true
+   "prueba": false
   },
   {
    "clase": "vehiculo",
@@ -115,7 +115,7 @@
    },
    "precio": 0,
    "icono": "iconos/veh_camper.png",
-   "prueba": true
+   "prueba": false
   },
   {
    "clase": "vehiculo",
@@ -127,7 +127,7 @@
    },
    "precio": 0,
    "icono": "iconos/veh_bici.png",
-   "prueba": true
+   "prueba": false
   },
   {
    "clase": "vehiculo",
@@ -187,7 +187,7 @@
    },
    "precio": 0,
    "icono": "iconos/veh_caballo.png",
-   "prueba": true
+   "prueba": false
   },
   {
    "clase": "objeto",
