@@ -1874,6 +1874,25 @@
    "texto": "Na fince trzeba też odpocząć! 🍊😴\n\nPraca na polu naprawdę męczy Martę, a kiedy długo nic nie je, robi się głodna. Wtedy chodzi wolniej i w końcu mówi: „Dziś już nie dam rady”. Pomaga odpoczynek, drzemka na kanapie albo dojrzały owoc prosto z drzewa 🍊\n\nA Chris się o nią troszczy: przynosi jej mandarynkę albo sok i mówi, żeby trochę odpoczęła. Jeśli Marta zaśnie ze zmęczenia na fince, Chris zaniesie ją do łóżka ❤️\n\nW menu możecie wybrać tempo gry: spokojne, normalne albo wymagające.\n\nJak odpoczywacie po pracy w ogrodzie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Pre-alpha 0.90.0: farm work makes Marta tired and hungry, ripe fruit can be eaten, Chris looks after her, and you can choose the game pace.\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
    "estado": "APROBADA",
    "aprobada": "Chris, 18 oct 2026 10:36"
+  },
+  {
+   "numero": 75,
+   "carpeta": "075",
+   "fecha_hora": "2026-10-18T22:37:00+02:00",
+   "version_juego": "Pre-alfa 0.95.1",
+   "idioma": "pl",
+   "tipo": "resumen (carrusel)",
+   "titulo": "El caballo: a paso, trote o galope",
+   "titulo_pl": "Koń: stępem, kłusem albo galopem",
+   "tema": "0.95: el caballo en los viajes y el código para conseguirlo",
+   "imagenes": [
+    "01_kod.jpg",
+    "02_wio.jpg",
+    "03_galop.jpg",
+    "04_klus.jpg"
+   ],
+   "texto": "Na fince pojawił się koń! 🐴🍊\n\nW grze można już jeździć konno po drogach wokół Pego. Wybierasz tempo: stęp, kłus albo galop, a kopyta stukają w rytm jazdy. Kiedy trzeba się zatrzymać, wystarczy „Prr!” 😄\n\nKonia nie kupicie w sklepie: odblokowuje się go kodem w menu „Kody”. Kody będziemy rozdawać na transmisjach i w naszych mediach, więc bądźcie czujni! 👀\n\nStęp, kłus czy galop: jak wolicie jeździć? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Horse riding is here: walk, trot or gallop along the roads around Pego. The horse is unlocked with a code. (Pre-alpha 0.95.1)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "PENDIENTE"
   }
  ]
 }
