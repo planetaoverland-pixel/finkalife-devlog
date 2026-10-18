@@ -1914,6 +1914,25 @@
    "texto": "Joga na fince… a właściwie w Pego! 🧘‍♀️🍊\n\nW miasteczku otworzyła się sala jogi i to Marta prowadzi zajęcia. Uczniowie powtarzają jej pozycje: Górę, Drzewo, Wojownika i Boginię. Ale nie zawsze im wychodzi! Twoim zadaniem jest zauważyć, co jest źle, i to poprawić 👀\n\nPotem wszyscy razem oddychają: wdech, wydech, w spokojnym rytmie 🌿 Na koniec medal i Koiny za zajęcia.\n\nJaką pozycję jogi lubicie najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Marta now teaches yoga in Pego: spot your students' mistakes, fix their poses and breathe together. (Pre-alpha 0.96.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
    "estado": "APROBADA",
    "aprobada": "Chris, 18 oct 2026 22:08"
+  },
+  {
+   "numero": 77,
+   "carpeta": "077",
+   "fecha_hora": "2026-10-19T14:37:00+02:00",
+   "version_juego": "Pre-alfa 0.97.0",
+   "idioma": "pl",
+   "tipo": "resumen (carrusel)",
+   "titulo": "Setas con Jan y Monika",
+   "titulo_pl": "Grzybobranie z Janem i Moniką",
+   "tema": "0.97.0: setas en el bosque de la umbría con Jan y Monika",
+   "imagenes": [
+    "01_las.jpg",
+    "02_karta.jpg",
+    "03_zbieranie.jpg",
+    "04_koszyk.jpg"
+   ],
+   "texto": "Idziemy na grzyby! 🍄🍂\n\nW grze pojawił się las w cieniu, a tam czekają na Martę Jan i Monika z koszykiem. Odgarniasz liście palcem, szukasz grzybów i oglądasz każdy z bliska: rydza, kanię, gąskę… Im większy okaz, tym rzadszy! 🧺\n\nMałe zostawiamy, żeby urosły, a trujące tylko fotografujemy do kolekcji. W prawdziwym życiu nigdy nie jedz grzyba, którego nie obejrzał ekspert 🙏\n\nJakie grzyby zbieracie najczęściej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Mushroom picking in the shady forest with Marta's brother Jan and his wife Monika: brush away the leaves, leave the small ones to grow and only photograph the toxic ones. (Pre-alpha 0.97.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "PENDIENTE"
   }
  ]
 }
