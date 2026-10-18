@@ -1855,6 +1855,24 @@
    "texto": "Nowe rysunki na fince! 🎨🔥\n\nKażdy przedmiot ma teraz swój własny rysunek: naszyjnik, bransoletki, ciasteczka, jajka, oliwa, miód, zioła i ponad sto innych rzeczy 🍯\n\nW domu piec na drewno ma prawdziwy ogień, który rozlewa ciepłe światło po podłodze, a z nowego komina na dachu leci dym. Drewno rąbiemy nową siekierą na pieńku, a w rozsadniku każda roślinka kiełkuje po swojemu 🌱\n\nKtóry rysunek podoba Wam się najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Pre-alpha 0.89.0: over a hundred new item icons, a crackling wood stove with a smoking chimney, new firewood chopping and sprouts in the seed tray.\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
    "estado": "APROBADA",
    "aprobada": "Chris, 18 oct 2026 08:30"
+  },
+  {
+   "numero": 74,
+   "carpeta": "074",
+   "fecha_hora": "2026-10-23T16:37:00+02:00",
+   "version_juego": "Pre-alfa 0.90.0",
+   "idioma": "pl",
+   "tipo": "resumen (carrusel)",
+   "titulo": "Bienestar que cuenta y Chris cuida de Marta",
+   "tema": "0.90.0: cansancio, hambre, comer fruta, ritmo y Chris cuida de Marta",
+   "imagenes": [
+    "01_chris_przynosi.jpg",
+    "02_juz_nie_moge.jpg",
+    "03_chris_zanosi.jpg",
+    "04_tempo.jpg"
+   ],
+   "texto": "Na fince trzeba też odpocząć! 🍊😴\n\nPraca na polu naprawdę męczy Martę, a kiedy długo nic nie je, robi się głodna. Wtedy chodzi wolniej i w końcu mówi: „Dziś już nie dam rady”. Pomaga odpoczynek, drzemka na kanapie albo dojrzały owoc prosto z drzewa 🍊\n\nA Chris się o nią troszczy: przynosi jej mandarynkę albo sok i mówi, żeby trochę odpoczęła. Jeśli Marta zaśnie ze zmęczenia na fince, Chris zaniesie ją do łóżka ❤️\n\nW menu możecie wybrać tempo gry: spokojne, normalne albo wymagające.\n\nJak odpoczywacie po pracy w ogrodzie? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Pre-alpha 0.90.0: farm work makes Marta tired and hungry, ripe fruit can be eaten, Chris looks after her, and you can choose the game pace.\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "PENDIENTE"
   }
  ]
 }
