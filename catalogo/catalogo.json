@@ -1,0 +1,1789 @@
+{
+ "_nota": "Catálogo para el selector de códigos (generado por herramientas/exportar_catalogo.py). «prueba»: se puede regalar como prueba temporal.",
+ "version": "0.94.0",
+ "categorias": [
+  {
+   "id": "koins",
+   "nombre": {
+    "es": "Koins",
+    "pl": "Koiny"
+   }
+  },
+  {
+   "id": "vehiculos",
+   "nombre": {
+    "es": "Vehículos",
+    "pl": "Pojazdy"
+   }
+  },
+  {
+   "id": "fruta",
+   "nombre": {
+    "es": "Fruta",
+    "pl": "Owoce"
+   }
+  },
+  {
+   "id": "verduras",
+   "nombre": {
+    "es": "Verduras y hortalizas",
+    "pl": "Warzywa"
+   }
+  },
+  {
+   "id": "plantas",
+   "nombre": {
+    "es": "Flores y plantas",
+    "pl": "Kwiaty i rośliny"
+   }
+  },
+  {
+   "id": "cocina",
+   "nombre": {
+    "es": "Cocina y conservas",
+    "pl": "Kuchnia i przetwory"
+   }
+  },
+  {
+   "id": "granja",
+   "nombre": {
+    "es": "Granja",
+    "pl": "Zagroda"
+   }
+  },
+  {
+   "id": "mar",
+   "nombre": {
+    "es": "Mar y playa",
+    "pl": "Morze i plaża"
+   }
+  },
+  {
+   "id": "azulejos",
+   "nombre": {
+    "es": "Azulejos y cerámica",
+    "pl": "Kafle i ceramika"
+   }
+  },
+  {
+   "id": "herramientas",
+   "nombre": {
+    "es": "Herramientas y materiales",
+    "pl": "Narzędzia i materiały"
+   }
+  },
+  {
+   "id": "otros",
+   "nombre": {
+    "es": "Otros",
+    "pl": "Inne"
+   }
+  }
+ ],
+ "cosas": [
+  {
+   "clase": "koins",
+   "id": "koins",
+   "categoria": "koins",
+   "nombre": {
+    "es": "Koins",
+    "pl": "Koiny"
+   },
+   "precio": 1,
+   "icono": "iconos/koin.png",
+   "prueba": false
+  },
+  {
+   "clase": "vehiculo",
+   "id": "pickup",
+   "categoria": "vehiculos",
+   "nombre": {
+    "es": "La pickup de Marta",
+    "pl": "Pikap Marty"
+   },
+   "precio": 0,
+   "icono": "iconos/veh_pickup.png",
+   "prueba": true
+  },
+  {
+   "clase": "vehiculo",
+   "id": "camper",
+   "categoria": "vehiculos",
+   "nombre": {
+    "es": "La camper de Chris",
+    "pl": "Kamper Chrisa"
+   },
+   "precio": 0,
+   "icono": "iconos/veh_camper.png",
+   "prueba": true
+  },
+  {
+   "clase": "vehiculo",
+   "id": "bici",
+   "categoria": "vehiculos",
+   "nombre": {
+    "es": "Bici de paseo",
+    "pl": "Rower miejski"
+   },
+   "precio": 0,
+   "icono": "iconos/veh_bici.png",
+   "prueba": true
+  },
+  {
+   "clase": "vehiculo",
+   "id": "bici_electrica",
+   "categoria": "vehiculos",
+   "nombre": {
+    "es": "Bici eléctrica",
+    "pl": "Rower elektryczny"
+   },
+   "precio": 250,
+   "icono": "iconos/veh_bici_electrica.png",
+   "prueba": true
+  },
+  {
+   "clase": "vehiculo",
+   "id": "scooter_urbano",
+   "categoria": "vehiculos",
+   "nombre": {
+    "es": "Scooter pequeño de ciudad",
+    "pl": "Mały skuter miejski"
+   },
+   "precio": 450,
+   "icono": "iconos/veh_scooter_urbano.png",
+   "prueba": true
+  },
+  {
+   "clase": "vehiculo",
+   "id": "scooter_clasico",
+   "categoria": "vehiculos",
+   "nombre": {
+    "es": "Scooter clásico de estilo italiano",
+    "pl": "Klasyczny skuter w stylu włoskim"
+   },
+   "precio": 750,
+   "icono": "iconos/veh_scooter_clasico.png",
+   "prueba": true
+  },
+  {
+   "clase": "vehiculo",
+   "id": "moto_125",
+   "categoria": "vehiculos",
+   "nombre": {
+    "es": "Moto clásica de 125",
+    "pl": "Klasyczny motocykl 125"
+   },
+   "precio": 1100,
+   "icono": "iconos/veh_moto_125.png",
+   "prueba": true
+  },
+  {
+   "clase": "objeto",
+   "id": "aceite",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Aceite de oliva",
+    "pl": "Oliwa z oliwek"
+   },
+   "precio": 16,
+   "icono": "iconos/obj_aceite.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "aceite_hierbas",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Aceite de hierbas",
+    "pl": "Oliwa z ziołami"
+   },
+   "precio": 22,
+   "icono": "iconos/obj_aceite_hierbas.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "aceituna",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Aceituna",
+    "pl": "Oliwka"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_aceituna.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "aguacate",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Aguacate",
+    "pl": "Awokado"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_aguacate.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "ajos",
+   "categoria": "verduras",
+   "nombre": {
+    "es": "Ajos",
+    "pl": "Czosnek"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_ajos.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "albaricoque",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Albaricoque",
+    "pl": "Morela"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_albaricoque.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "algarroba",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Algarroba",
+    "pl": "Strąk karobu"
+   },
+   "precio": 1,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "almendra",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Almendra",
+    "pl": "Migdał"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_almendra.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "almendra_pelada",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Almendra pelada",
+    "pl": "Obrany migdał"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_almendra_pelada.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azufaifa",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Azufaifa",
+    "pl": "Jujuba"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_azufaifa.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_burro_collera",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «Burro con collera»",
+    "pl": "Kafel „Osiołek w chomącie”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_burro_collera.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_cenefa_hojas",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Caja de azulejos «Cenefa de hojas»",
+    "pl": "Pudełko kafli „Bordiura w liście”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_cenefa_hojas.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_cenefa_ola",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Caja de azulejos «Cenefa de ola»",
+    "pl": "Pudełko kafli „Bordiura w fale”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_cenefa_ola.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_esquina_cuarto",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Caja de azulejos «Cuarto de rosetón»",
+    "pl": "Pudełko kafli „Ćwiartka rozety”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_esquina_cuarto.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_estrella8",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Caja de azulejos «Estrella de ocho»",
+    "pl": "Pudełko kafli „Ośmioramienna gwiazda”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_estrella8.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_flor4_azul",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Caja de azulejos «Flor de cuatro»",
+    "pl": "Pudełko kafli „Kwiat z czterech płatków”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_flor4_azul.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_granada",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «Granada abierta»",
+    "pl": "Kafel „Otwarty granat”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_granada.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_jarrita",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «Jarrita»",
+    "pl": "Kafel „Dzbanuszek”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_jarrita.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_limon",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «Limonero»",
+    "pl": "Kafel „Gałązka cytryny”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_limon.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_mocadoret_azul",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Caja de azulejos «Mocadoret azul»",
+    "pl": "Pudełko kafli „Niebieski mocadoret”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_mocadoret_azul.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_mocadoret_verde",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Caja de azulejos «Mocadoret verde»",
+    "pl": "Pudełko kafli „Zielony mocadoret”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_mocadoret_verde.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_naranjo_flor",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «Azahar»",
+    "pl": "Kafel „Kwiat pomarańczy”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_naranjo_flor.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_oficio_llaurador",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «El labrador»",
+    "pl": "Kafel „Rolnik”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_oficio_llaurador.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_oficio_pastor",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «El pastor»",
+    "pl": "Kafel „Pasterz”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_oficio_pastor.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_pajarito",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «Pajarito»",
+    "pl": "Kafel „Ptaszek”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_pajarito.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_pez",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «Pescado»",
+    "pl": "Kafel „Ryba”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_pez.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_rombos",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Caja de azulejos «Punta de diamante»",
+    "pl": "Pudełko kafli „Diamentowy szlif”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_rombos.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_socarrat_estrella",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «Socarrat de la estrella»",
+    "pl": "Kafel „Socarrat z gwiazdą”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_socarrat_estrella.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_socarrat_pajaro",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «Socarrat del ave»",
+    "pl": "Kafel „Socarrat z ptakiem”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_socarrat_pajaro.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "azulejo_sol_ruina",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Azulejo «El sol del mas»",
+    "pl": "Kafel „Słońce z masu”"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_azulejo_sol_ruina.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "banco",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Banquito de madera",
+    "pl": "Drewniana ławeczka"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_banco.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_ambar",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita ámbar",
+    "pl": "Koralik bursztynowy"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_ambar.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_azabache",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita azabache",
+    "pl": "Koralik gagatowy"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_azabache.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_cobalto",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita azul cobalto",
+    "pl": "Koralik kobaltowy"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_cobalto.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_coral",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita coral",
+    "pl": "Koralik koralowy"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_coral.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_dorado",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita dorado",
+    "pl": "Koralik złoty"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_dorado.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_madera",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita de madera",
+    "pl": "Koralik drewniany"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_madera.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_nacar",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita nácar",
+    "pl": "Koralik perłowy"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_nacar.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_oliva",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita verde oliva",
+    "pl": "Koralik oliwkowy"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_oliva.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_rosa",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita rosa",
+    "pl": "Koralik różowy"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_rosa.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bolita_turquesa",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bolita turquesa",
+    "pl": "Koralik turkusowy"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bolita_turquesa.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "botijo_ceramica",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Botijo",
+    "pl": "Botijo"
+   },
+   "precio": 14,
+   "icono": "iconos/obj_botijo_ceramica.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "botijo_ceramica_pintada",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Botijo pintado a mano",
+    "pl": "Botijo malowane ręcznie"
+   },
+   "precio": 24,
+   "icono": "iconos/obj_botijo_ceramica_pintada.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "cacao",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Sobre de cacao",
+    "pl": "Saszetka kakao"
+   },
+   "precio": 3,
+   "icono": "iconos/obj_cacao.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "cera",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Cera de abeja",
+    "pl": "Wosk pszczeli"
+   },
+   "precio": 3,
+   "icono": "iconos/obj_cera.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "cereza",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Cereza",
+    "pl": "Czereśnia"
+   },
+   "precio": 1,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "chirimoya",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Chirimoya",
+    "pl": "Czerymoja"
+   },
+   "precio": 2,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "chuches_gato",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Chuches para gatos",
+    "pl": "Przysmaki dla kotów"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_chuches_gato.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "ciruela",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Ciruela",
+    "pl": "Śliwka"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_ciruela.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "coca_llanda",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Coca de llanda",
+    "pl": "Coca de llanda"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_coca_llanda.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "collar_bolitas",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Collar de bolitas",
+    "pl": "Naszyjnik z koralików"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_collar_bolitas.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "collar_marta",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Collar de Marta",
+    "pl": "Naszyjnik Marty"
+   },
+   "precio": 8,
+   "icono": "iconos/obj_collar_marta.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "collar_marta_diseno",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Collar de diseño de Marta",
+    "pl": "Wzorzysty naszyjnik Marty"
+   },
+   "precio": 12,
+   "icono": "iconos/obj_collar_marta_diseno.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "datil",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Dátil",
+    "pl": "Daktyl"
+   },
+   "precio": 2,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "desbrozadora",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Desbrozadora",
+    "pl": "Kosa spalinowa"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_desbrozadora.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "esencia_espliego",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Aceite esencial de espliego",
+    "pl": "Olejek lawendowy"
+   },
+   "precio": 8,
+   "icono": "iconos/obj_esencia_espliego.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "esencia_romero",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Aceite esencial de romero",
+    "pl": "Olejek rozmarynowy"
+   },
+   "precio": 8,
+   "icono": "iconos/obj_esencia_romero.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "esencia_salvia",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Aceite esencial de salvia",
+    "pl": "Olejek szałwiowy"
+   },
+   "precio": 9,
+   "icono": "iconos/obj_esencia_salvia.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "esencia_tomillo",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Aceite esencial de tomillo",
+    "pl": "Olejek tymiankowy"
+   },
+   "precio": 8,
+   "icono": "iconos/obj_esencia_tomillo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "espliego",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Espliego",
+    "pl": "Lawenda szerokolistna"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_espliego.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "esqueje_pitaya",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Esqueje de pitaya",
+    "pl": "Sadzonka pitai"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_esqueje_pitaya.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "fideos",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Fideos",
+    "pl": "Makaron"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_fideos.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "fideua",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Fideuá de Chris",
+    "pl": "Fideua Chrisa"
+   },
+   "precio": 3,
+   "icono": "iconos/obj_fideua.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "galleta",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Galleta de naranja",
+    "pl": "Ciasteczko pomarańczowe"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_galleta.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "gambas",
+   "categoria": "mar",
+   "nombre": {
+    "es": "Gambas",
+    "pl": "Krewetki"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_gambas.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "granada",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Granada",
+    "pl": "Granat"
+   },
+   "precio": 2,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "harina",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Harina",
+    "pl": "Mąka"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_harina.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "hidrolato",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Agua floral (hidrolato)",
+    "pl": "Hydrolat"
+   },
+   "precio": 3,
+   "icono": "iconos/obj_hidrolato.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "higo",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Higo",
+    "pl": "Figa"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "hijuelo_topocho",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Hijuelo de topocho",
+    "pl": "Odrost bananowca"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_hijuelo_topocho.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "hoz",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Hoz",
+    "pl": "Sierp"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_hoz.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "huevo",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Huevo",
+    "pl": "Jajko"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_huevo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "huevo_oca",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Huevo de oca",
+    "pl": "Jajko gęsie"
+   },
+   "precio": 10,
+   "icono": "iconos/obj_huevo_oca.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "huevo_pato",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Huevo de pato",
+    "pl": "Jajko kacze"
+   },
+   "precio": 5,
+   "icono": "iconos/obj_huevo_pato.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "huevos",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Huevos",
+    "pl": "Jajka"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_huevos.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "jarron_ceramica",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Jarrón de cerámica",
+    "pl": "Wazon ceramiczny"
+   },
+   "precio": 16,
+   "icono": "iconos/obj_jarron_ceramica.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "jarron_ceramica_pintada",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Jarrón pintado a mano",
+    "pl": "Wazon malowany ręcznie"
+   },
+   "precio": 26,
+   "icono": "iconos/obj_jarron_ceramica_pintada.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "kaki",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Kaki",
+    "pl": "Kaki"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_kaki.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "kiwi",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Kiwi",
+    "pl": "Kiwi"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_kiwi.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "kumquat",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Kumquat",
+    "pl": "Kumkwat"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_kumquat.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "leche",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Brik de leche",
+    "pl": "Karton mleka"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_leche.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "levadura",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Levadura",
+    "pl": "Drożdże"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_levadura.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "limequat",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Limequat",
+    "pl": "Limekwat"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_limequat.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "limon",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Limón",
+    "pl": "Cytryna"
+   },
+   "precio": 1,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "madrono",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Madroño",
+    "pl": "Owoc chruściny"
+   },
+   "precio": 1,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mandarina",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Mandarina",
+    "pl": "Mandarynka"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_mandarina.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mango",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Mango",
+    "pl": "Mango"
+   },
+   "precio": 2,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "manojo_esparto",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Manojo de esparto",
+    "pl": "Pęczek esparto"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_manojo_esparto.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "manzanilla",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Manzanilla",
+    "pl": "Rumianek"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_manzanilla.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "melocoton",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Melocotón",
+    "pl": "Brzoskwinia"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_melocoton.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "membrillo",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Membrillo",
+    "pl": "Pigwa"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_membrillo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mermelada_higo",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Mermelada de higo",
+    "pl": "Dżem figowy"
+   },
+   "precio": 6,
+   "icono": "iconos/obj_mermelada_higo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "miel",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Tarro de miel",
+    "pl": "Słoik miodu"
+   },
+   "precio": 4,
+   "icono": "iconos/obj_miel.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "miel_sierra",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Miel de la sierra",
+    "pl": "Miód górski"
+   },
+   "precio": 5,
+   "icono": "iconos/obj_miel_sierra.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "naranja",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Naranja",
+    "pl": "Pomarańcza"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_naranja.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "nispero",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Níspero",
+    "pl": "Nieszpułka"
+   },
+   "precio": 1,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "nuez",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Nuez",
+    "pl": "Orzech"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_nuez.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "olivas_alinadas",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Olivas aliñadas",
+    "pl": "Oliwki marynowane"
+   },
+   "precio": 4,
+   "icono": "iconos/obj_olivas_alinadas.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pan",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Pan de la finca",
+    "pl": "Chleb z finki"
+   },
+   "precio": 3,
+   "icono": "iconos/obj_pan.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "papaya",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Papaya",
+    "pl": "Papaja"
+   },
+   "precio": 4,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pastisset",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Pastisset de boniato",
+    "pl": "Pastisset z batatem"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_pastisset.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pebrella",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Pebrella",
+    "pl": "Tymianek walencki"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_pebrella.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pintura_albero",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Pintura amarillo albero",
+    "pl": "Farba: żółć piaskowa"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_pintura_albero.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pintura_anyil",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Pintura azul añil",
+    "pl": "Farba: błękit indygo"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_pintura_anyil.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pintura_cal",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Pintura blanco de cal",
+    "pl": "Farba: biel wapienna"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_pintura_cal.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pintura_menta",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Pintura verde menta",
+    "pl": "Farba: miętowa zieleń"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_pintura_menta.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pintura_rosa_chicle",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Pintura rosa chicle",
+    "pl": "Farba: gumowy róż"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_pintura_rosa_chicle.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pintura_terracota",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Pintura terracota",
+    "pl": "Farba: terakota"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_pintura_terracota.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pistacho",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Pistacho",
+    "pl": "Pistacja"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_pistacho.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pitaya",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Pitaya",
+    "pl": "Pitaja"
+   },
+   "precio": 2,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "placa_solar",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Ampliación de placas solares (2 placas)",
+    "pl": "Rozbudowa paneli słonecznych (2 panele)"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_placa_solar.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_datil",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de palmera datilera",
+    "pl": "Sadzonka palmy daktylowej"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_planton_datil.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_mango",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de mango",
+    "pl": "Sadzonka mango"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_planton_mango.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_papaya",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de papaya",
+    "pl": "Sadzonka papai"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_planton_papaya.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_pistacho",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de pistachero",
+    "pl": "Sadzonka pistacji"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_planton_pistacho.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_pitaya",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de pitaya",
+    "pl": "Sadzonka pitai"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_planton_pitaya.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_platano",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de topocho",
+    "pl": "Sadzonka bananowca"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_planton_platano.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "platano",
+   "categoria": "fruta",
+   "nombre": {
+    "es": "Plátano topocho",
+    "pl": "Banan topocho"
+   },
+   "precio": 2,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pleita",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Pleita de esparto",
+    "pl": "Plecionka z esparto"
+   },
+   "precio": 6,
+   "icono": "iconos/obj_pleita.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pulsera_bolitas",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Pulsera de bolitas",
+    "pl": "Bransoletka z koralików"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_pulsera_bolitas.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pulsera_marta",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Pulsera de Marta",
+    "pl": "Bransoletka Marty"
+   },
+   "precio": 4,
+   "icono": "iconos/obj_pulsera_marta.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "pulsera_marta_diseno",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Pulsera de diseño de Marta",
+    "pl": "Wzorzysta bransoletka Marty"
+   },
+   "precio": 6,
+   "icono": "iconos/obj_pulsera_marta_diseno.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "rabogato",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Rabogato",
+    "pl": "Sideritis"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_rabogato.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "romero",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Romero",
+    "pl": "Rozmaryn"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_romero.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "rotllo",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Rotllo de anís",
+    "pl": "Anyżowy obwarzanek"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_rotllo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "salvia",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Salvia",
+    "pl": "Szałwia"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_salvia.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "taza_ceramica",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Taza de cerámica",
+    "pl": "Kubek ceramiczny"
+   },
+   "precio": 8,
+   "icono": "iconos/obj_taza_ceramica.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "taza_ceramica_pintada",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Taza pintada a mano",
+    "pl": "Kubek malowany ręcznie"
+   },
+   "precio": 14,
+   "icono": "iconos/obj_taza_ceramica_pintada.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "tazon_ceramica",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Tazón de cerámica",
+    "pl": "Miska ceramiczna"
+   },
+   "precio": 10,
+   "icono": "iconos/obj_tazon_ceramica.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "tazon_ceramica_pintada",
+   "categoria": "azulejos",
+   "nombre": {
+    "es": "Tazón pintado a mano",
+    "pl": "Miska malowana ręcznie"
+   },
+   "precio": 17,
+   "icono": "iconos/obj_tazon_ceramica_pintada.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "te_roca",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Té de roca",
+    "pl": "Herbata skalna"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_te_roca.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "tomillo",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Tomillo",
+    "pl": "Tymianek"
+   },
+   "precio": 1,
+   "icono": "iconos/obj_tomillo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "verduras",
+   "categoria": "verduras",
+   "nombre": {
+    "es": "Verduras",
+    "pl": "Warzywa"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_verduras.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "zumo",
+   "categoria": "cocina",
+   "nombre": {
+    "es": "Zumo de naranja",
+    "pl": "Sok pomarańczowy"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_zumo.png",
+   "prueba": false
+  }
+ ]
+}
