@@ -1894,6 +1894,25 @@
    "texto": "Na fince pojawił się koń! 🐴🍊\n\nW grze można już jeździć konno po drogach wokół Pego. Wybierasz tempo: stęp, kłus albo galop, a kopyta stukają w rytm jazdy. Kiedy trzeba się zatrzymać, wystarczy „Prr!” 😄\n\nKonia nie kupicie w sklepie: odblokowuje się go kodem w menu „Kody”. Kody będziemy rozdawać na transmisjach i w naszych mediach, więc bądźcie czujni! 👀\n\nStęp, kłus czy galop: jak wolicie jeździć? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Horse riding is here: walk, trot or gallop along the roads around Pego. The horse is unlocked with a code. (Pre-alpha 0.95.1)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
    "estado": "APROBADA",
    "aprobada": "Chris, 18 oct 2026 21:15"
+  },
+  {
+   "numero": 76,
+   "carpeta": "076",
+   "fecha_hora": "2026-10-19T12:37:00+02:00",
+   "version_juego": "Pre-alfa 0.96.0",
+   "idioma": "pl",
+   "tipo": "resumen (carrusel)",
+   "titulo": "Clase de yoga en Pego",
+   "titulo_pl": "Zajęcia jogi w Pego",
+   "tema": "0.96.0: clase de yoga con Marta, corregir posturas y respirar",
+   "imagenes": [
+    "01_sala_jogi.jpg",
+    "02_oddech.jpg",
+    "03_bogini.jpg",
+    "04_mapa_pego.jpg"
+   ],
+   "texto": "Joga na fince… a właściwie w Pego! 🧘‍♀️🍊\n\nW miasteczku otworzyła się sala jogi i to Marta prowadzi zajęcia. Uczniowie powtarzają jej pozycje: Górę, Drzewo, Wojownika i Boginię. Ale nie zawsze im wychodzi! Twoim zadaniem jest zauważyć, co jest źle, i to poprawić 👀\n\nPotem wszyscy razem oddychają: wdech, wydech, w spokojnym rytmie 🌿 Na koniec medal i Koiny za zajęcia.\n\nJaką pozycję jogi lubicie najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Marta now teaches yoga in Pego: spot your students' mistakes, fix their poses and breathe together. (Pre-alpha 0.96.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "PENDIENTE"
   }
  ]
 }
