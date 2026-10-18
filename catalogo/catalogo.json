@@ -1,6 +1,6 @@
 {
  "_nota": "Catálogo para el selector de códigos (generado por herramientas/exportar_catalogo.py). «prueba»: se puede regalar como prueba temporal.",
- "version": "0.94.0",
+ "version": "0.96.0",
  "categorias": [
   {
    "id": "koins",
@@ -175,6 +175,18 @@
    },
    "precio": 1100,
    "icono": "iconos/veh_moto_125.png",
+   "prueba": true
+  },
+  {
+   "clase": "vehiculo",
+   "id": "caballo",
+   "categoria": "vehiculos",
+   "nombre": {
+    "es": "Caballo",
+    "pl": "Koń"
+   },
+   "precio": 0,
+   "icono": "iconos/veh_caballo.png",
    "prueba": true
   },
   {
