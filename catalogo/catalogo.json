@@ -1,6 +1,6 @@
 {
  "_nota": "Catálogo para el selector de códigos (generado por herramientas/exportar_catalogo.py). «prueba»: se puede regalar como prueba temporal.",
- "version": "0.96.0",
+ "version": "0.97.0",
  "categorias": [
   {
    "id": "koins",
@@ -1699,6 +1699,78 @@
    },
    "precio": 2,
    "icono": "iconos/obj_salvia.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "seta_fredolic",
+   "categoria": "verduras",
+   "nombre": {
+    "es": "fredolic",
+    "pl": "gąska"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_seta_fredolic.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "seta_llenega",
+   "categoria": "verduras",
+   "nombre": {
+    "es": "llenega",
+    "pl": "wodnicha"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_seta_llenega.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "seta_parasol",
+   "categoria": "verduras",
+   "nombre": {
+    "es": "parasol",
+    "pl": "kania"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_seta_parasol.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "seta_pie_azul",
+   "categoria": "verduras",
+   "nombre": {
+    "es": "pie azul",
+    "pl": "gąsówka"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_seta_pie_azul.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "seta_platera",
+   "categoria": "verduras",
+   "nombre": {
+    "es": "platera",
+    "pl": "lejkówka"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_seta_platera.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "seta_rovellon",
+   "categoria": "verduras",
+   "nombre": {
+    "es": "rovellón",
+    "pl": "rydz"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_seta_rovellon.png",
    "prueba": false
   },
   {
