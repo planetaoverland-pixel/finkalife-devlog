@@ -1836,6 +1836,24 @@
    "error": "",
    "enlace": "",
    "publicado_en": ""
+  },
+  {
+   "numero": 73,
+   "carpeta": "073",
+   "fecha_hora": "2026-10-23T14:37:00+02:00",
+   "version_juego": "Pre-alfa 0.89.0",
+   "idioma": "pl",
+   "tipo": "resumen (carrusel)",
+   "titulo": "Iconos propios, estufa con fuego, leña nueva y semillero",
+   "tema": "0.89.0: arte nuevo integrado",
+   "imagenes": [
+    "01_ikony.jpg",
+    "02_piec.jpg",
+    "03_drewno.jpg",
+    "04_rozsadnik.jpg"
+   ],
+   "texto": "Nowe rysunki na fince! 🎨🔥\n\nKażdy przedmiot ma teraz swój własny rysunek: naszyjnik, bransoletki, ciasteczka, jajka, oliwa, miód, zioła i ponad sto innych rzeczy 🍯\n\nW domu piec na drewno ma prawdziwy ogień, który rozlewa ciepłe światło po podłodze, a z nowego komina na dachu leci dym. Drewno rąbiemy nową siekierą na pieńku, a w rozsadniku każda roślinka kiełkuje po swojemu 🌱\n\nKtóry rysunek podoba Wam się najbardziej? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Pre-alpha 0.89.0: over a hundred new item icons, a crackling wood stove with a smoking chimney, new firewood chopping and sprouts in the seed tray.\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "PENDIENTE"
   }
  ]
 }
