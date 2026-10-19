@@ -1,6 +1,6 @@
 {
  "_nota": "Catálogo para el selector de códigos (generado por herramientas/exportar_catalogo.py). «prueba»: se puede regalar como prueba temporal.",
- "version": "0.97.0",
+ "version": "0.108.0",
  "categorias": [
   {
    "id": "koins",
@@ -70,6 +70,13 @@
    "nombre": {
     "es": "Herramientas y materiales",
     "pl": "Narzędzia i materiały"
+   }
+  },
+  {
+   "id": "muebles",
+   "nombre": {
+    "es": "Muebles",
+    "pl": "Meble"
    }
   },
   {
@@ -683,6 +690,30 @@
   },
   {
    "clase": "objeto",
+   "id": "bote_barniz",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bote de barniz",
+    "pl": "Puszka lakieru"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bote_barniz.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "bote_pintura_mueble",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Bote de pintura para muebles",
+    "pl": "Puszka farby do mebli"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_bote_pintura_mueble.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
    "id": "botijo_ceramica",
    "categoria": "azulejos",
    "nombre": {
@@ -995,6 +1026,18 @@
   },
   {
    "clase": "objeto",
+   "id": "heno",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Heno",
+    "pl": "Siano"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_heno.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
    "id": "hidrolato",
    "categoria": "cocina",
    "nombre": {
@@ -1027,6 +1070,18 @@
    },
    "precio": 0,
    "icono": "iconos/obj_hijuelo_topocho.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "hilo_enea",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Cordón de enea",
+    "pl": "Sznurek z sitowia"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_hilo_enea.png",
    "prueba": false
   },
   {
@@ -1091,6 +1146,18 @@
   },
   {
    "clase": "objeto",
+   "id": "incensario",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Incensario",
+    "pl": "Kadzielnica"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_incensario.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
    "id": "jarron_ceramica",
    "categoria": "azulejos",
    "nombre": {
@@ -1123,6 +1190,18 @@
    },
    "precio": 1,
    "icono": "iconos/obj_kaki.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "kit_restaurar",
+   "categoria": "herramientas",
+   "nombre": {
+    "es": "Kit de restaurar",
+    "pl": "Zestaw do renowacji"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_kit_restaurar.png",
    "prueba": false
   },
   {
@@ -1247,6 +1326,18 @@
   },
   {
    "clase": "objeto",
+   "id": "manzana",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Manzana",
+    "pl": "Jabłko"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_manzana.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
    "id": "manzanilla",
    "categoria": "plantas",
    "nombre": {
@@ -1319,6 +1410,198 @@
   },
   {
    "clase": "objeto",
+   "id": "mueble_baul_mimbre_restaurado",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Baúl de mimbre restaurado",
+    "pl": "Odnowiony wiklinowy kufer"
+   },
+   "precio": 28,
+   "icono": "iconos/obj_mueble_baul_mimbre_restaurado.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_baul_mimbre_viejo",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Baúl de mimbre viejo",
+    "pl": "Stary wiklinowy kufer"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_mueble_baul_mimbre_viejo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_cesto_mimbre_restaurado",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Cesto de mimbre restaurado",
+    "pl": "Odnowiony wiklinowy kosz"
+   },
+   "precio": 10,
+   "icono": "iconos/obj_mueble_cesto_mimbre_restaurado.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_cesto_mimbre_viejo",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Cesto de mimbre viejo",
+    "pl": "Stary wiklinowy kosz"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_mueble_cesto_mimbre_viejo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_estanteria_restaurado",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Estantería restaurada",
+    "pl": "Odnowiony regał"
+   },
+   "precio": 34,
+   "icono": "iconos/obj_mueble_estanteria_restaurado.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_estanteria_viejo",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Estantería vieja",
+    "pl": "Stary regał"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_mueble_estanteria_viejo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_mesa_restaurado",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Mesa restaurada",
+    "pl": "Odnowiony stół"
+   },
+   "precio": 40,
+   "icono": "iconos/obj_mueble_mesa_restaurado.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_mesa_viejo",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Mesa vieja",
+    "pl": "Stary stół"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_mueble_mesa_viejo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_mesita_restaurado",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Mesita de noche restaurada",
+    "pl": "Odnowiona szafka nocna"
+   },
+   "precio": 22,
+   "icono": "iconos/obj_mueble_mesita_restaurado.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_mesita_viejo",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Mesita de noche vieja",
+    "pl": "Stara szafka nocna"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_mueble_mesita_viejo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_silla_enea_restaurado",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Silla de enea restaurada",
+    "pl": "Odnowione krzesło z sitowia"
+   },
+   "precio": 18,
+   "icono": "iconos/obj_mueble_silla_enea_restaurado.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_silla_enea_viejo",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Silla de enea vieja",
+    "pl": "Stare krzesło z sitowia"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_mueble_silla_enea_viejo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_sillon_mimbre_restaurado",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Sillón de mimbre restaurado",
+    "pl": "Odnowiony wiklinowy fotel"
+   },
+   "precio": 36,
+   "icono": "iconos/obj_mueble_sillon_mimbre_restaurado.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_sillon_mimbre_viejo",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Sillón de mimbre viejo",
+    "pl": "Stary wiklinowy fotel"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_mueble_sillon_mimbre_viejo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_taburete_restaurado",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Taburete restaurado",
+    "pl": "Odnowiony taboret"
+   },
+   "precio": 12,
+   "icono": "iconos/obj_mueble_taburete_restaurado.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "mueble_taburete_viejo",
+   "categoria": "muebles",
+   "nombre": {
+    "es": "Taburete viejo",
+    "pl": "Stary taboret"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_mueble_taburete_viejo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
    "id": "naranja",
    "categoria": "fruta",
    "nombre": {
@@ -1363,6 +1646,54 @@
    },
    "precio": 4,
    "icono": "iconos/obj_olivas_alinadas.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "palito_incienso_espliego",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Palito de incienso de espliego",
+    "pl": "Kadzidełko z lawendy"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_palito_incienso_espliego.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "palito_incienso_romero",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Palito de incienso de romero",
+    "pl": "Kadzidełko z rozmarynu"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_palito_incienso_romero.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "palito_incienso_salvia",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Palito de incienso de salvia",
+    "pl": "Kadzidełko z szałwii"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_palito_incienso_salvia.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "palito_incienso_tomillo",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Palito de incienso de tomillo",
+    "pl": "Kadzidełko z tymianku"
+   },
+   "precio": 2,
+   "icono": "iconos/obj_palito_incienso_tomillo.png",
    "prueba": false
   },
   {
@@ -1691,6 +2022,66 @@
   },
   {
    "clase": "objeto",
+   "id": "sahumerio_espliego",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Sahumerio de espliego",
+    "pl": "Wiązka do okadzania z lawendy"
+   },
+   "precio": 7,
+   "icono": "iconos/obj_sahumerio_espliego.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "sahumerio_mixto",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Sahumerio de hierbas",
+    "pl": "Wiązka do okadzania z ziół"
+   },
+   "precio": 9,
+   "icono": "iconos/obj_sahumerio_mixto.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "sahumerio_romero",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Sahumerio de romero",
+    "pl": "Wiązka do okadzania z rozmarynu"
+   },
+   "precio": 7,
+   "icono": "iconos/obj_sahumerio_romero.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "sahumerio_salvia",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Sahumerio de salvia",
+    "pl": "Wiązka do okadzania z szałwii"
+   },
+   "precio": 8,
+   "icono": "iconos/obj_sahumerio_salvia.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "sahumerio_tomillo",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Sahumerio de tomillo",
+    "pl": "Wiązka do okadzania z tymianku"
+   },
+   "precio": 6,
+   "icono": "iconos/obj_sahumerio_tomillo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
    "id": "salvia",
    "categoria": "plantas",
    "nombre": {
@@ -1709,7 +2100,7 @@
     "es": "fredolic",
     "pl": "gąska"
    },
-   "precio": 0,
+   "precio": 2,
    "icono": "iconos/obj_seta_fredolic.png",
    "prueba": false
   },
@@ -1721,7 +2112,7 @@
     "es": "llenega",
     "pl": "wodnicha"
    },
-   "precio": 0,
+   "precio": 3,
    "icono": "iconos/obj_seta_llenega.png",
    "prueba": false
   },
@@ -1733,7 +2124,7 @@
     "es": "parasol",
     "pl": "kania"
    },
-   "precio": 0,
+   "precio": 4,
    "icono": "iconos/obj_seta_parasol.png",
    "prueba": false
   },
@@ -1745,7 +2136,7 @@
     "es": "pie azul",
     "pl": "gąsówka"
    },
-   "precio": 0,
+   "precio": 3,
    "icono": "iconos/obj_seta_pie_azul.png",
    "prueba": false
   },
@@ -1757,7 +2148,7 @@
     "es": "platera",
     "pl": "lejkówka"
    },
-   "precio": 0,
+   "precio": 4,
    "icono": "iconos/obj_seta_platera.png",
    "prueba": false
   },
@@ -1769,7 +2160,7 @@
     "es": "rovellón",
     "pl": "rydz"
    },
-   "precio": 0,
+   "precio": 3,
    "icono": "iconos/obj_seta_rovellon.png",
    "prueba": false
   },
@@ -1855,6 +2246,18 @@
    },
    "precio": 0,
    "icono": "iconos/obj_verduras.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "zanahoria",
+   "categoria": "granja",
+   "nombre": {
+    "es": "Zanahoria",
+    "pl": "Marchewka"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_zanahoria.png",
    "prueba": false
   },
   {
