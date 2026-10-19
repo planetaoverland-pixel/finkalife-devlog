@@ -1,6 +1,6 @@
 {
  "_nota": "Catálogo para el selector de códigos (generado por herramientas/exportar_catalogo.py). «prueba»: se puede regalar como prueba temporal.",
- "version": "0.109.0",
+ "version": "0.110.0",
  "categorias": [
   {
    "id": "koins",
@@ -1854,6 +1854,66 @@
   },
   {
    "clase": "objeto",
+   "id": "planton_aceituna",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de olivo",
+    "pl": "Sadzonka oliwki"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_albaricoque",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de albaricoquero",
+    "pl": "Sadzonka moreli"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_almendra",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de almendro",
+    "pl": "Sadzonka migdałowca"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_cereza",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de cerezo",
+    "pl": "Sadzonka czereśni"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_ciruela",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de ciruelo",
+    "pl": "Sadzonka śliwy"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
    "id": "planton_datil",
    "categoria": "plantas",
    "nombre": {
@@ -1866,6 +1926,66 @@
   },
   {
    "clase": "objeto",
+   "id": "planton_granada",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de granado",
+    "pl": "Sadzonka granatowca"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_higo",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de higuera",
+    "pl": "Sadzonka figowca"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_kaki",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de kaki",
+    "pl": "Sadzonka kaki"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_limon",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de limonero",
+    "pl": "Sadzonka cytryny"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_mandarina",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de mandarino",
+    "pl": "Sadzonka mandarynki"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
    "id": "planton_mango",
    "categoria": "plantas",
    "nombre": {
@@ -1874,6 +1994,54 @@
    },
    "precio": 0,
    "icono": "iconos/obj_planton_mango.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_melocoton",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de melocotonero",
+    "pl": "Sadzonka brzoskwini"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_membrillo",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de membrillero",
+    "pl": "Sadzonka pigwy"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_naranja",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de naranjo",
+    "pl": "Sadzonka pomarańczy"
+   },
+   "precio": 0,
+   "icono": "",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "planton_nispero",
+   "categoria": "plantas",
+   "nombre": {
+    "es": "Plantón de níspero",
+    "pl": "Sadzonka nieszpułki"
+   },
+   "precio": 0,
+   "icono": "",
    "prueba": false
   },
   {
