@@ -2156,6 +2156,30 @@
    "texto_es": "¡Todo hecho a mano! 🌿🪑\n\nCon el romero, el espliego, el tomillo y la salvia de la finca, Marta hace atadillos para sahumar y palitos de incienso. Los enciende en el incensario de casa, y Chris dice nada más entrar: «¡Mmm, qué bien huele en casa!» 🏡\n\nLos muebles viejos del rastro los restaura en el almacén: quita la pintura vieja, lija a favor de la veta, teje un asiento nuevo y pinta. Después puede anunciarlos en la nueva app Mercadet de la tablet, donde los compradores preguntan, regatean o proponen un cambio 💬\n\nY fuera de la temporada de setas el bosque está verde, y Jan y Monika invitan a merendar en la manta de cuadros 🧺\n\n¿Qué es lo que más os gusta hacer con vuestras propias manos? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: Herb smudge sticks and incense, restoring old furniture, the Mercadet app for selling and haggling, and a picnic with Jan and Monika. (Pre-alpha 0.108.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
    "estado": "APROBADA",
    "aprobada": "Chris, 19 oct 2026 06:57 («Todas aprobadas, que salgan automáticas»; aprobadas en bloque)"
+  },
+  {
+   "numero": 85,
+   "carpeta": "085",
+   "fecha_hora": "2026-10-20T16:37:00+02:00",
+   "version_juego": "Pre-alfa 0.110.0",
+   "idioma": "pl",
+   "tipo": "resumen (carrusel)",
+   "titulo": "El Diario de la tablet y las visitas de Ximo y Óscar",
+   "titulo_pl": "Dziennik w tablecie i goście na fince",
+   "tema": "0.109–0.110: app Diario en la tablet (Historia, De los dos, Encargos, Ideas; «!» y visto sobre Chris) y visitas de Ximo (coche con lote de fruta de temporada) y Óscar (plantones y poda)",
+   "imagenes": [
+    "01_nowe_w_dzienniku.jpg",
+    "02_dziennik.jpg",
+    "03_we_dwoje.jpg",
+    "04_kawa_razem.jpg",
+    "05_ximo.jpg",
+    "06_owoce_od_ximo.jpg",
+    "07_sadzonki.jpg",
+    "08_przycinanie.jpg"
+   ],
+   "texto": "Nowa wersja prototypu: Pre-alfa 0.110.0! 📖🍊\n\nMarta ma w tablecie nową aplikację „Dziennik”: papierowy zeszyt z zakładkami na historię, rzeczy do zrobienia we dwoje z Chrisem, zlecenia od sąsiadów i małe pomysły na dziś. Nie ma terminów ani kar, a to, co zrobicie razem, zostaje w Dzienniku jako wspomnienie, na przykład kawa we dwoje na tarasie ☕ Kiedy Chris chce coś zaproponować, nad jego głową pojawia się „!”.\n\nFinkę odwiedzają też nowi sąsiedzi. Ximo przyjeżdża po południu samochodem, otwiera bagażnik i proponuje partię sezonowych owoców, a czasem daje kilka na spróbowanie 🍒 Óscar, ogrodnik ze szkółki, rano przechodzi drogą: ma sadzonki trochę taniej, a zimą może przyciąć drzewa ✂️🌳\n\nCo wpisalibyście jako pierwsze do swojego Dziennika? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A new Journal app on Marta's tablet, plus visits from Ximo with a car full of seasonal fruit and Óscar the gardener with saplings and pruning. (Pre-alpha 0.110.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "texto_es": "¡Nueva versión del prototipo: Pre-alfa 0.110.0! 📖🍊\n\nMarta tiene en la tablet una app nueva, «Diario»: un cuaderno de papel con marcapáginas para la historia, las cosas que hacer los dos con Chris, los encargos de los vecinos y pequeñas ideas para hoy. No hay plazos ni castigos, y lo que hacéis juntos se queda en el Diario como recuerdo, por ejemplo un café los dos en la terraza ☕ Cuando Chris quiere proponer algo, aparece un «!» encima de su cabeza.\n\nA la finca también vienen vecinos nuevos. Ximo llega por la tarde en coche, abre el maletero y ofrece un lote de fruta de temporada, y a veces regala unas piezas para probar 🍒 Óscar, el jardinero del vivero, pasa por el camino por la mañana: tiene plantones un poco más baratos y en invierno puede podar los árboles ✂️🌳\n\n¿Qué apuntaríais lo primero en vuestro Diario? 👇\n\n👉 ramsys.es/games/finkalife\n\nEN: A new Journal app on Marta's tablet, plus visits from Ximo with a car full of seasonal fruit and Óscar the gardener with saplings and pruning. (Pre-alpha 0.110.0)\n\n— RAMSYS Game Studio\n\n#indiedev #gamedev #pixelart #cozygames #polskigamedev",
+   "estado": "PENDIENTE"
   }
  ]
 }
