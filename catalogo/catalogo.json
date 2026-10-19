@@ -1,6 +1,6 @@
 {
  "_nota": "Catálogo para el selector de códigos (generado por herramientas/exportar_catalogo.py). «prueba»: se puede regalar como prueba temporal.",
- "version": "0.112.0",
+ "version": "0.113.0",
  "categorias": [
   {
    "id": "koins",
@@ -2166,6 +2166,18 @@
   },
   {
    "clase": "objeto",
+   "id": "rastrillo",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Rastrillo",
+    "pl": "Grabie"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_rastrillo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
    "id": "romero",
    "categoria": "plantas",
    "nombre": {
@@ -2186,6 +2198,18 @@
    },
    "precio": 0,
    "icono": "iconos/obj_rotllo.png",
+   "prueba": false
+  },
+  {
+   "clase": "objeto",
+   "id": "saco_hojas",
+   "categoria": "otros",
+   "nombre": {
+    "es": "Saco de hojas",
+    "pl": "Worek liści"
+   },
+   "precio": 0,
+   "icono": "iconos/obj_saco_hojas.png",
    "prueba": false
   },
   {
