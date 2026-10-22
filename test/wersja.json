@@ -1,7 +1,7 @@
 {
-  "wersja": "Pre-alfa 0.125.15",
+  "wersja": "Pre-alfa 0.125.26",
   "kanal": "TEST",
-  "jezyk": "pl",
-  "zrodlo": "b6f7ad1",
-  "uwagi": "Nowe funkcje przez TEST / Nowości. Wersja robocza; regresja historyczna niezatwierdzona."
+  "jezyk": "es/pl (lang)",
+  "zrodlo": "f9e80a6d298f95d91d1078f3b25b805ded27c075",
+  "uwagi": "Nowe funkcje przez TEST / Nowo\u015bci. Nie zast\u0119puje wersji publicznej."
 }
