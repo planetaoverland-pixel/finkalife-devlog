@@ -1,17 +1,17 @@
 {
-  "version": "0.125.53",
-  "bytes": 54196272,
-  "sha256": "cee8e3e31932510ce2103a56709103a9c34dfbb7ffc060336964bfb80c23804a",
+  "version": "0.125.59",
+  "bytes": 54282452,
+  "sha256": "028ad2352c60c1b44d320d70b2c07db37f18b09f1929734d6a007cf72ddde349",
   "partes": [
     {
-      "archivo": "juego-00-6d06e497308c.bin",
+      "archivo": "juego-00-1ca4b2b68c1f.bin",
       "bytes": 50331648,
-      "sha256": "6d06e497308c4233b9df3e423b13f51a22123af1b0fe470bc17ffcd9d1c212c0"
+      "sha256": "1ca4b2b68c1fa94245a4610834853844a793e8e0932f4a5ceac079ffcd85dc00"
     },
     {
-      "archivo": "juego-01-dc0f50d57543.bin",
-      "bytes": 3864624,
-      "sha256": "dc0f50d57543e845f50971428f3665937acd2dff291cb0d0e949163a065d31d8"
+      "archivo": "juego-01-4b271018966d.bin",
+      "bytes": 3950804,
+      "sha256": "4b271018966d77b5e83533628dbab6c3291c5b331470073eb78a2c223a7c59bd"
     }
   ]
 }
