@@ -1,387 +1,387 @@
 [
-  {
-    "archivo": "classic_games/ajedrez/CHESS-JS-LICENSE.txt",
-    "bytes": 1315,
-    "sha256": "0b3a3c2b4432a26bb18f9d06f5bba4de015bcc980306b7db28b06025495e2186"
-  },
-  {
-    "archivo": "classic_games/ajedrez/app.js",
-    "bytes": 17856,
-    "sha256": "0d92bd540309c1551acd44f32c580da613d27fb8a5407388c80f589e3e713ba6"
-  },
-  {
-    "archivo": "classic_games/ajedrez/bridge.js",
-    "bytes": 127144,
-    "sha256": "04f1da966368f85b8ace7d01d23e4e3859337959e404c2f81a039cabf9aef59c"
-  },
-  {
-    "archivo": "classic_games/ajedrez/estilo.css",
-    "bytes": 7749,
-    "sha256": "6efc3c3e2b1f0fa2999169d7358da3fce19d34b864fbb244829e07784ccbff82"
-  },
-  {
-    "archivo": "classic_games/ajedrez/fondo.png",
-    "bytes": 1938987,
-    "sha256": "0922a8e100a48d76f9936a7db9fadd62f9b1abdbfb0bd004a0afa631778fa054"
-  },
-  {
-    "archivo": "classic_games/ajedrez/idiomas.json",
-    "bytes": 8235,
-    "sha256": "cefa523dba87dbe7cd105a2bf37ea267d939201129d8113df5fe03c6780399d1"
-  },
-  {
-    "archivo": "classic_games/ajedrez/index.html",
-    "bytes": 1788,
-    "sha256": "ab14ffa6c561b87b9888c18520bd45ca416d93f146c4918bd57ee129c0617235"
-  },
-  {
-    "archivo": "classic_games/ajedrez/piezas.png",
-    "bytes": 730929,
-    "sha256": "331c547367472286abd7a5abb98efe15f2875b6f983e0d25d9e8ba8f0b8788d6"
-  },
-  {
-    "archivo": "classic_games/ajedrez/politica_ia.js",
-    "bytes": 569,
-    "sha256": "f54e8c971e781e4433549505bca89db2becc174b5f47814c094ab0e996c7e339"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/Copying.txt",
-    "bytes": 35821,
-    "sha256": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/fuentes-0d5dd794.tar.gz",
-    "bytes": 426352,
-    "sha256": "e5289a920554bf0069a6601c228e81d957c00522bb31c4343588dc5d7d251879"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/fuentes.tar.gz",
-    "bytes": 426352,
-    "sha256": "e5289a920554bf0069a6601c228e81d957c00522bb31c4343588dc5d7d251879"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/licencia.txt",
-    "bytes": 35821,
-    "sha256": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/nn-61e7af4bb97d.nnue",
-    "bytes": 1166381,
-    "sha256": "61e7af4bb97d51eeeb25d322916f86513b5cd3a827ce189c98c6e31946f99e5b"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/procedencia.json",
-    "bytes": 1052,
-    "sha256": "356014743b836a1ab416381cd7af69dbba1d49e864839e92672e1277df919b21"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/red.nnue",
-    "bytes": 1166381,
-    "sha256": "61e7af4bb97d51eeeb25d322916f86513b5cd3a827ce189c98c6e31946f99e5b"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/stockfish-19-lite-single.js",
-    "bytes": 28230,
-    "sha256": "ccb130d7ff29408531c47d859a49f91d59d4f482d05a53eb1a3231a4f624c91a"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/stockfish-19-lite-single.wasm",
-    "bytes": 1845971,
-    "sha256": "ee4f115bdb2d32cadf96cada104a05b5ec257d7ad6f57582190b49bc71f096de"
-  },
-  {
-    "archivo": "classic_games/ajedrez/stockfish/worker.js",
-    "bytes": 358,
-    "sha256": "ba4116207cc2fa1eedbcd3ed5908498a44ce994d912af4934a23561085a4ac37"
-  },
-  {
-    "archivo": "classic_games/ajedrez/uci_client.js",
-    "bytes": 3251,
-    "sha256": "20c648293c3a196d26f21281ce6ce42ad3beb30c30db1e4fb25ef13593c30933"
-  },
-  {
-    "archivo": "classic_games/host.js",
-    "bytes": 1924,
-    "sha256": "5ae9f8798636fdbc4bf917ce90c4e8e117a1d340d79d729ccd42f5efc934eebc"
-  },
-  {
-    "archivo": "classic_games/poker/ARTE_Y_PROCEDENCIA.json",
-    "bytes": 404,
-    "sha256": "0138b42327c26c4e41831b0b2c4470348222af7d0854fd8eb6e905f43a6ded04"
-  },
-  {
-    "archivo": "classic_games/poker/POKERKIT-LICENSE.txt",
-    "bytes": 1130,
-    "sha256": "d9cec800feb20933ba04f8b980f4f578ce24d72e1c5a42793969726f682c846b"
-  },
-  {
-    "archivo": "classic_games/poker/app.js",
-    "bytes": 14833,
-    "sha256": "b0f6f628cf79e596d498ca9bf54fcb1724e2b57c2781ed480c7dd927936440c4"
-  },
-  {
-    "archivo": "classic_games/poker/componentes.png",
-    "bytes": 809741,
-    "sha256": "c264cb21469a6cec4979a88e1201d1b494d15d38cd0357745c4878a2de82c123"
-  },
-  {
-    "archivo": "classic_games/poker/estilo.css",
-    "bytes": 8307,
-    "sha256": "a00681a9734da29b24175bdef1a91cad9d3ec297eb4acf4ec64cbf36b65d7042"
-  },
-  {
-    "archivo": "classic_games/poker/figura-J.png",
-    "bytes": 10231,
-    "sha256": "d75efda0ed6a04b0d13cace0ced786275b5124c71eda184e01473569c8725d3a"
-  },
-  {
-    "archivo": "classic_games/poker/figura-K.png",
-    "bytes": 13406,
-    "sha256": "9765c41fedf7d33cfe795ab910386bc6c4f5f7bcf096485f75d4c958963b2ef3"
-  },
-  {
-    "archivo": "classic_games/poker/figura-Q.png",
-    "bytes": 12061,
-    "sha256": "01f41cd360bb0936c323d41e13b75ef8b71db3c30737158bf75c372f61d72f64"
-  },
-  {
-    "archivo": "classic_games/poker/fondo.png",
-    "bytes": 1822201,
-    "sha256": "6d70bb24d0259538f96933570bf36130d2a48c09f9043435964785a5fb5ff668"
-  },
-  {
-    "archivo": "classic_games/poker/ia.json",
-    "bytes": 426,
-    "sha256": "972a00c6549a3b7a1c6a6044a4c15bbf581b1219b0ec782d82e58e5d273fe501"
-  },
-  {
-    "archivo": "classic_games/poker/idiomas.json",
-    "bytes": 6630,
-    "sha256": "af2725d0d24516f8757b06a0c8558174d574c4c6d6f22d7a2abf79afc50908bb"
-  },
-  {
-    "archivo": "classic_games/poker/index.html",
-    "bytes": 1929,
-    "sha256": "e426a4778a81587eee63452f6eb389615a8d1f8f2d115cf8fffec41efb6e7921"
-  },
-  {
-    "archivo": "classic_games/poker/interfaz.json",
-    "bytes": 839,
-    "sha256": "d85d1e237887390c5b119dc4db92884cf523665ec692ff24c6361d5b5153fce2"
-  },
-  {
-    "archivo": "classic_games/poker/python_bundle.json",
-    "bytes": 1212496,
-    "sha256": "f4d4f1e46bb6f70b9ea0c30c4f88b0268427fb09d9f55409e6af4b2920967592"
-  },
-  {
-    "archivo": "classic_games/poker/reglas.json",
-    "bytes": 479,
-    "sha256": "755674ddc5433f41e23ffe619b1fdace44e4ab32a4c54ec52b9f26d44bf147bd"
-  },
-  {
-    "archivo": "classic_games/python_bridge.js",
-    "bytes": 1442,
-    "sha256": "9ef5f93ec3007cbc1e248330351655c35bc08171d2d83e3ede25240961c92106"
-  },
-  {
-    "archivo": "classic_games/python_dispatch.py",
-    "bytes": 1500,
-    "sha256": "9c3ae48784e1b5481ecee377a3a686d9ef02d2347b26acf4ea6e8227f41465c9"
-  },
-  {
-    "archivo": "classic_games/python_worker.js",
-    "bytes": 1033,
-    "sha256": "7313e20c6f461b673077a22165b60501be7198805c9267783d373a28ef40f110"
-  },
-  {
-    "archivo": "classic_games/runtime/LICENSE",
-    "bytes": 16725,
-    "sha256": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
-  },
-  {
-    "archivo": "classic_games/runtime/PROCEDENCIA.json",
-    "bytes": 1157,
-    "sha256": "290d4f6178715aa416153fce14dfe9db63e6c07743197b42d765292c2a491044"
-  },
-  {
-    "archivo": "classic_games/runtime/pyodide-lock.json",
-    "bytes": 129150,
-    "sha256": "cb18729b18db7ce2482d196209c8051d8122441b817fc2f644d643b44e5e1b0f"
-  },
-  {
-    "archivo": "classic_games/runtime/pyodide.asm.js",
-    "bytes": 1255688,
-    "sha256": "8bd8175d6b97ee4ffff85c5aaf44130fad3e9322939826f2a52d27d786ef8908"
-  },
-  {
-    "archivo": "classic_games/runtime/pyodide.asm.wasm",
-    "bytes": 10105545,
-    "sha256": "92160102d09feeb8c738a07c870bde47fd4c141fd70b5376188bdd951df9ea23"
-  },
-  {
-    "archivo": "classic_games/runtime/pyodide.js",
-    "bytes": 14913,
-    "sha256": "11394774b02fa67bb4513db9433b6a8303a3926da906e4255ec85ac97b719b4b"
-  },
-  {
-    "archivo": "classic_games/runtime/python_stdlib.zip",
-    "bytes": 2360738,
-    "sha256": "cb5f8d7eae384fcf27c574d8b13901de1753a50f93038130c326f85b88c9012b"
-  },
-  {
-    "archivo": "classic_games/tysiac/figura-J.png",
-    "bytes": 10231,
-    "sha256": "d75efda0ed6a04b0d13cace0ced786275b5124c71eda184e01473569c8725d3a"
-  },
-  {
-    "archivo": "classic_games/tysiac/figura-K.png",
-    "bytes": 13406,
-    "sha256": "9765c41fedf7d33cfe795ab910386bc6c4f5f7bcf096485f75d4c958963b2ef3"
-  },
-  {
-    "archivo": "classic_games/tysiac/figura-Q.png",
-    "bytes": 12061,
-    "sha256": "01f41cd360bb0936c323d41e13b75ef8b71db3c30737158bf75c372f61d72f64"
-  },
-  {
-    "archivo": "classic_games/tysiac/ia.json",
-    "bytes": 444,
-    "sha256": "a8286a8d663e3f149d8bfc155d01a6c942ae8a930caffcc8fb14f0f998206a0a"
-  },
-  {
-    "archivo": "classic_games/tysiac/index.html",
-    "bytes": 29083,
-    "sha256": "29849b818cb9629818fd82ad1051ef364a27bb42658b85d0361ada51afffa8f1"
-  },
-  {
-    "archivo": "classic_games/tysiac/integridad.json",
-    "bytes": 524,
-    "sha256": "da3cb9c3bb7a48c5b21bbd1d542e12bf13e75de7e15da3f2a473860d155a6eb1"
-  },
-  {
-    "archivo": "classic_games/tysiac/libreta.png",
-    "bytes": 494850,
-    "sha256": "b341ead2ad818a885a756824bba69f056e38b9b82ea8882580408d88a4f106be"
-  },
-  {
-    "archivo": "classic_games/tysiac/mesa-render.png",
-    "bytes": 1240785,
-    "sha256": "95a9776c59eaafcd548f56279e18eb4c90de347204821bc003f6befa18cd4ec7"
-  },
-  {
-    "archivo": "classic_games/tysiac/mesa.png",
-    "bytes": 4334,
-    "sha256": "7d39821946e290a1b7a2320f1e820072a6d75f21f080bbd47d7453d1a9b89157"
-  },
-  {
-    "archivo": "classic_games/tysiac/panel-render.png",
-    "bytes": 368939,
-    "sha256": "1978051f3d6146728928728b3da6b7b2b6d50eae3f9c387138441de54b044d68"
-  },
-  {
-    "archivo": "classic_games/tysiac/python_bundle.json",
-    "bytes": 37221,
-    "sha256": "f0569c9a808ec44b3bae2276b103c8b1c5dfe63d2489a9d4200c29e1ee6ccf1c"
-  },
-  {
-    "archivo": "classic_games/tysiac/reglas.json",
-    "bytes": 647,
-    "sha256": "152cb9f8f39645f05958e69cb5ce950f30f9b968439659311b34818d1b5a398d"
-  },
-  {
-    "archivo": "icono-16.png",
-    "bytes": 6779,
-    "sha256": "b893e68168c90380571659a01fc41102ec4db6753805472647e6b81c0e121175"
-  },
-  {
-    "archivo": "icono-192.png",
-    "bytes": 60391,
-    "sha256": "83847b7e7586aff2c35175ba295ace785d21c836966ea3ad5e69774d958af20f"
-  },
-  {
-    "archivo": "icono-32.png",
-    "bytes": 8987,
-    "sha256": "5e78dc73206566f01866d52df73df0ce8a519de719825b5b4a6d876daf5adae1"
-  },
-  {
-    "archivo": "icono-48.png",
-    "bytes": 12237,
-    "sha256": "fc2e2acf2f58e85c6d5fca95ca17e2793523f2cec2805b088c43bf5924e319ca"
-  },
-  {
-    "archivo": "icono-512-maskable.png",
-    "bytes": 204689,
-    "sha256": "0a105e31a294c362cbd93d3be6b3488e23f5e998e9b96ebf40b114179d18e9db"
-  },
-  {
-    "archivo": "icono-512.png",
-    "bytes": 276491,
-    "sha256": "d9bd59334bd76c4b13f22315ef41bdd0a88f1e391ae2088cf9a057eb58f88188"
-  },
-  {
-    "archivo": "index.apple-touch-icon.png",
-    "bytes": 54745,
-    "sha256": "996cb622038ed6981d121aaf0c269c391e37a52317fbc2ad70113baf61a02a40"
-  },
-  {
-    "archivo": "index.audio.position.worklet.js",
-    "bytes": 2973,
-    "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
-  },
-  {
-    "archivo": "index.audio.worklet.js",
-    "bytes": 7298,
-    "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
-  },
-  {
-    "archivo": "index.html",
-    "bytes": 7351,
-    "sha256": "677e3fa17d3e28d45251130468cd26c9fe86f232035362f13633dfbbc9015305"
-  },
-  {
-    "archivo": "index.icon.png",
-    "bytes": 114788,
-    "sha256": "8db4d513df8c8336e11eaa346a75f5e5127d526165ef1ba37717751d2e0d7048"
-  },
-  {
-    "archivo": "index.js",
-    "bytes": 279815,
-    "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
-  },
-  {
-    "archivo": "index.png",
-    "bytes": 21443,
-    "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
-  },
-  {
-    "archivo": "index.wasm",
-    "bytes": 39514754,
-    "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
-  },
-  {
-    "archivo": "juego-00-dc38c5e05772.bin",
-    "bytes": 50331648,
-    "sha256": "dc38c5e05772ec208eb6b77a1150944ec3d04cdb71483e5bb1c3b9ac09d5569f"
-  },
-  {
-    "archivo": "juego-01-a1678f51b684.bin",
-    "bytes": 7033456,
-    "sha256": "a1678f51b684a8634420651db5028be81454b6ee88143e20275cfbe2b1a98020"
-  },
-  {
-    "archivo": "manifest.webmanifest",
-    "bytes": 500,
-    "sha256": "204293f13f0895fbf100927932777498d114a4ee68c84922d5a4554c30452f77"
-  },
-  {
-    "archivo": "paquete.json",
-    "bytes": 495,
-    "sha256": "41875cc4257f6edd3a2df158ba5fc51ac3810b21cf2cd484d46d8515400ce9bc"
-  },
-  {
-    "archivo": "wersja.json",
-    "bytes": 235,
-    "sha256": "61c7c69b869aa95286c3a7ebe47d4f450ca3256d9c0e8608fe47624c3e0c6d62"
-  }
+ {
+  "archivo": "classic_games/ajedrez/CHESS-JS-LICENSE.txt",
+  "bytes": 1315,
+  "sha256": "0b3a3c2b4432a26bb18f9d06f5bba4de015bcc980306b7db28b06025495e2186"
+ },
+ {
+  "archivo": "classic_games/ajedrez/app.js",
+  "bytes": 17856,
+  "sha256": "0d92bd540309c1551acd44f32c580da613d27fb8a5407388c80f589e3e713ba6"
+ },
+ {
+  "archivo": "classic_games/ajedrez/bridge.js",
+  "bytes": 127144,
+  "sha256": "04f1da966368f85b8ace7d01d23e4e3859337959e404c2f81a039cabf9aef59c"
+ },
+ {
+  "archivo": "classic_games/ajedrez/estilo.css",
+  "bytes": 7749,
+  "sha256": "6efc3c3e2b1f0fa2999169d7358da3fce19d34b864fbb244829e07784ccbff82"
+ },
+ {
+  "archivo": "classic_games/ajedrez/fondo.png",
+  "bytes": 1938987,
+  "sha256": "0922a8e100a48d76f9936a7db9fadd62f9b1abdbfb0bd004a0afa631778fa054"
+ },
+ {
+  "archivo": "classic_games/ajedrez/idiomas.json",
+  "bytes": 8235,
+  "sha256": "cefa523dba87dbe7cd105a2bf37ea267d939201129d8113df5fe03c6780399d1"
+ },
+ {
+  "archivo": "classic_games/ajedrez/index.html",
+  "bytes": 1788,
+  "sha256": "ab14ffa6c561b87b9888c18520bd45ca416d93f146c4918bd57ee129c0617235"
+ },
+ {
+  "archivo": "classic_games/ajedrez/piezas.png",
+  "bytes": 730929,
+  "sha256": "331c547367472286abd7a5abb98efe15f2875b6f983e0d25d9e8ba8f0b8788d6"
+ },
+ {
+  "archivo": "classic_games/ajedrez/politica_ia.js",
+  "bytes": 569,
+  "sha256": "f54e8c971e781e4433549505bca89db2becc174b5f47814c094ab0e996c7e339"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/Copying.txt",
+  "bytes": 35821,
+  "sha256": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/fuentes-0d5dd794.tar.gz",
+  "bytes": 426352,
+  "sha256": "e5289a920554bf0069a6601c228e81d957c00522bb31c4343588dc5d7d251879"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/fuentes.tar.gz",
+  "bytes": 426352,
+  "sha256": "e5289a920554bf0069a6601c228e81d957c00522bb31c4343588dc5d7d251879"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/licencia.txt",
+  "bytes": 35821,
+  "sha256": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/nn-61e7af4bb97d.nnue",
+  "bytes": 1166381,
+  "sha256": "61e7af4bb97d51eeeb25d322916f86513b5cd3a827ce189c98c6e31946f99e5b"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/procedencia.json",
+  "bytes": 1052,
+  "sha256": "356014743b836a1ab416381cd7af69dbba1d49e864839e92672e1277df919b21"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/red.nnue",
+  "bytes": 1166381,
+  "sha256": "61e7af4bb97d51eeeb25d322916f86513b5cd3a827ce189c98c6e31946f99e5b"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/stockfish-19-lite-single.js",
+  "bytes": 28230,
+  "sha256": "ccb130d7ff29408531c47d859a49f91d59d4f482d05a53eb1a3231a4f624c91a"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/stockfish-19-lite-single.wasm",
+  "bytes": 1845971,
+  "sha256": "ee4f115bdb2d32cadf96cada104a05b5ec257d7ad6f57582190b49bc71f096de"
+ },
+ {
+  "archivo": "classic_games/ajedrez/stockfish/worker.js",
+  "bytes": 358,
+  "sha256": "ba4116207cc2fa1eedbcd3ed5908498a44ce994d912af4934a23561085a4ac37"
+ },
+ {
+  "archivo": "classic_games/ajedrez/uci_client.js",
+  "bytes": 3251,
+  "sha256": "20c648293c3a196d26f21281ce6ce42ad3beb30c30db1e4fb25ef13593c30933"
+ },
+ {
+  "archivo": "classic_games/host.js",
+  "bytes": 1924,
+  "sha256": "5ae9f8798636fdbc4bf917ce90c4e8e117a1d340d79d729ccd42f5efc934eebc"
+ },
+ {
+  "archivo": "classic_games/poker/ARTE_Y_PROCEDENCIA.json",
+  "bytes": 404,
+  "sha256": "0138b42327c26c4e41831b0b2c4470348222af7d0854fd8eb6e905f43a6ded04"
+ },
+ {
+  "archivo": "classic_games/poker/POKERKIT-LICENSE.txt",
+  "bytes": 1130,
+  "sha256": "d9cec800feb20933ba04f8b980f4f578ce24d72e1c5a42793969726f682c846b"
+ },
+ {
+  "archivo": "classic_games/poker/app.js",
+  "bytes": 14833,
+  "sha256": "b0f6f628cf79e596d498ca9bf54fcb1724e2b57c2781ed480c7dd927936440c4"
+ },
+ {
+  "archivo": "classic_games/poker/componentes.png",
+  "bytes": 809741,
+  "sha256": "c264cb21469a6cec4979a88e1201d1b494d15d38cd0357745c4878a2de82c123"
+ },
+ {
+  "archivo": "classic_games/poker/estilo.css",
+  "bytes": 8307,
+  "sha256": "a00681a9734da29b24175bdef1a91cad9d3ec297eb4acf4ec64cbf36b65d7042"
+ },
+ {
+  "archivo": "classic_games/poker/figura-J.png",
+  "bytes": 10231,
+  "sha256": "d75efda0ed6a04b0d13cace0ced786275b5124c71eda184e01473569c8725d3a"
+ },
+ {
+  "archivo": "classic_games/poker/figura-K.png",
+  "bytes": 13406,
+  "sha256": "9765c41fedf7d33cfe795ab910386bc6c4f5f7bcf096485f75d4c958963b2ef3"
+ },
+ {
+  "archivo": "classic_games/poker/figura-Q.png",
+  "bytes": 12061,
+  "sha256": "01f41cd360bb0936c323d41e13b75ef8b71db3c30737158bf75c372f61d72f64"
+ },
+ {
+  "archivo": "classic_games/poker/fondo.png",
+  "bytes": 1822201,
+  "sha256": "6d70bb24d0259538f96933570bf36130d2a48c09f9043435964785a5fb5ff668"
+ },
+ {
+  "archivo": "classic_games/poker/ia.json",
+  "bytes": 426,
+  "sha256": "972a00c6549a3b7a1c6a6044a4c15bbf581b1219b0ec782d82e58e5d273fe501"
+ },
+ {
+  "archivo": "classic_games/poker/idiomas.json",
+  "bytes": 6630,
+  "sha256": "af2725d0d24516f8757b06a0c8558174d574c4c6d6f22d7a2abf79afc50908bb"
+ },
+ {
+  "archivo": "classic_games/poker/index.html",
+  "bytes": 1929,
+  "sha256": "e426a4778a81587eee63452f6eb389615a8d1f8f2d115cf8fffec41efb6e7921"
+ },
+ {
+  "archivo": "classic_games/poker/interfaz.json",
+  "bytes": 839,
+  "sha256": "d85d1e237887390c5b119dc4db92884cf523665ec692ff24c6361d5b5153fce2"
+ },
+ {
+  "archivo": "classic_games/poker/python_bundle.json",
+  "bytes": 1212496,
+  "sha256": "f4d4f1e46bb6f70b9ea0c30c4f88b0268427fb09d9f55409e6af4b2920967592"
+ },
+ {
+  "archivo": "classic_games/poker/reglas.json",
+  "bytes": 479,
+  "sha256": "755674ddc5433f41e23ffe619b1fdace44e4ab32a4c54ec52b9f26d44bf147bd"
+ },
+ {
+  "archivo": "classic_games/python_bridge.js",
+  "bytes": 1442,
+  "sha256": "9ef5f93ec3007cbc1e248330351655c35bc08171d2d83e3ede25240961c92106"
+ },
+ {
+  "archivo": "classic_games/python_dispatch.py",
+  "bytes": 1500,
+  "sha256": "9c3ae48784e1b5481ecee377a3a686d9ef02d2347b26acf4ea6e8227f41465c9"
+ },
+ {
+  "archivo": "classic_games/python_worker.js",
+  "bytes": 1033,
+  "sha256": "7313e20c6f461b673077a22165b60501be7198805c9267783d373a28ef40f110"
+ },
+ {
+  "archivo": "classic_games/runtime/LICENSE",
+  "bytes": 16725,
+  "sha256": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
+ },
+ {
+  "archivo": "classic_games/runtime/PROCEDENCIA.json",
+  "bytes": 1157,
+  "sha256": "290d4f6178715aa416153fce14dfe9db63e6c07743197b42d765292c2a491044"
+ },
+ {
+  "archivo": "classic_games/runtime/pyodide-lock.json",
+  "bytes": 129150,
+  "sha256": "cb18729b18db7ce2482d196209c8051d8122441b817fc2f644d643b44e5e1b0f"
+ },
+ {
+  "archivo": "classic_games/runtime/pyodide.asm.js",
+  "bytes": 1255688,
+  "sha256": "8bd8175d6b97ee4ffff85c5aaf44130fad3e9322939826f2a52d27d786ef8908"
+ },
+ {
+  "archivo": "classic_games/runtime/pyodide.asm.wasm",
+  "bytes": 10105545,
+  "sha256": "92160102d09feeb8c738a07c870bde47fd4c141fd70b5376188bdd951df9ea23"
+ },
+ {
+  "archivo": "classic_games/runtime/pyodide.js",
+  "bytes": 14913,
+  "sha256": "11394774b02fa67bb4513db9433b6a8303a3926da906e4255ec85ac97b719b4b"
+ },
+ {
+  "archivo": "classic_games/runtime/python_stdlib.zip",
+  "bytes": 2360738,
+  "sha256": "cb5f8d7eae384fcf27c574d8b13901de1753a50f93038130c326f85b88c9012b"
+ },
+ {
+  "archivo": "classic_games/tysiac/figura-J.png",
+  "bytes": 10231,
+  "sha256": "d75efda0ed6a04b0d13cace0ced786275b5124c71eda184e01473569c8725d3a"
+ },
+ {
+  "archivo": "classic_games/tysiac/figura-K.png",
+  "bytes": 13406,
+  "sha256": "9765c41fedf7d33cfe795ab910386bc6c4f5f7bcf096485f75d4c958963b2ef3"
+ },
+ {
+  "archivo": "classic_games/tysiac/figura-Q.png",
+  "bytes": 12061,
+  "sha256": "01f41cd360bb0936c323d41e13b75ef8b71db3c30737158bf75c372f61d72f64"
+ },
+ {
+  "archivo": "classic_games/tysiac/ia.json",
+  "bytes": 444,
+  "sha256": "a8286a8d663e3f149d8bfc155d01a6c942ae8a930caffcc8fb14f0f998206a0a"
+ },
+ {
+  "archivo": "classic_games/tysiac/index.html",
+  "bytes": 29083,
+  "sha256": "29849b818cb9629818fd82ad1051ef364a27bb42658b85d0361ada51afffa8f1"
+ },
+ {
+  "archivo": "classic_games/tysiac/integridad.json",
+  "bytes": 524,
+  "sha256": "da3cb9c3bb7a48c5b21bbd1d542e12bf13e75de7e15da3f2a473860d155a6eb1"
+ },
+ {
+  "archivo": "classic_games/tysiac/libreta.png",
+  "bytes": 494850,
+  "sha256": "b341ead2ad818a885a756824bba69f056e38b9b82ea8882580408d88a4f106be"
+ },
+ {
+  "archivo": "classic_games/tysiac/mesa-render.png",
+  "bytes": 1240785,
+  "sha256": "95a9776c59eaafcd548f56279e18eb4c90de347204821bc003f6befa18cd4ec7"
+ },
+ {
+  "archivo": "classic_games/tysiac/mesa.png",
+  "bytes": 4334,
+  "sha256": "7d39821946e290a1b7a2320f1e820072a6d75f21f080bbd47d7453d1a9b89157"
+ },
+ {
+  "archivo": "classic_games/tysiac/panel-render.png",
+  "bytes": 368939,
+  "sha256": "1978051f3d6146728928728b3da6b7b2b6d50eae3f9c387138441de54b044d68"
+ },
+ {
+  "archivo": "classic_games/tysiac/python_bundle.json",
+  "bytes": 37221,
+  "sha256": "f0569c9a808ec44b3bae2276b103c8b1c5dfe63d2489a9d4200c29e1ee6ccf1c"
+ },
+ {
+  "archivo": "classic_games/tysiac/reglas.json",
+  "bytes": 647,
+  "sha256": "152cb9f8f39645f05958e69cb5ce950f30f9b968439659311b34818d1b5a398d"
+ },
+ {
+  "archivo": "icono-16.png",
+  "bytes": 6779,
+  "sha256": "b893e68168c90380571659a01fc41102ec4db6753805472647e6b81c0e121175"
+ },
+ {
+  "archivo": "icono-192.png",
+  "bytes": 60391,
+  "sha256": "83847b7e7586aff2c35175ba295ace785d21c836966ea3ad5e69774d958af20f"
+ },
+ {
+  "archivo": "icono-32.png",
+  "bytes": 8987,
+  "sha256": "5e78dc73206566f01866d52df73df0ce8a519de719825b5b4a6d876daf5adae1"
+ },
+ {
+  "archivo": "icono-48.png",
+  "bytes": 12237,
+  "sha256": "fc2e2acf2f58e85c6d5fca95ca17e2793523f2cec2805b088c43bf5924e319ca"
+ },
+ {
+  "archivo": "icono-512-maskable.png",
+  "bytes": 204689,
+  "sha256": "0a105e31a294c362cbd93d3be6b3488e23f5e998e9b96ebf40b114179d18e9db"
+ },
+ {
+  "archivo": "icono-512.png",
+  "bytes": 276491,
+  "sha256": "d9bd59334bd76c4b13f22315ef41bdd0a88f1e391ae2088cf9a057eb58f88188"
+ },
+ {
+  "archivo": "index.apple-touch-icon.png",
+  "bytes": 54745,
+  "sha256": "996cb622038ed6981d121aaf0c269c391e37a52317fbc2ad70113baf61a02a40"
+ },
+ {
+  "archivo": "index.audio.position.worklet.js",
+  "bytes": 2973,
+  "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+ },
+ {
+  "archivo": "index.audio.worklet.js",
+  "bytes": 7298,
+  "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+ },
+ {
+  "archivo": "index.html",
+  "bytes": 7351,
+  "sha256": "8fac9c2e968ce4da6f5de072f7e1e26114cea15e04ed523761ebd45dc9f79353"
+ },
+ {
+  "archivo": "index.icon.png",
+  "bytes": 114788,
+  "sha256": "8db4d513df8c8336e11eaa346a75f5e5127d526165ef1ba37717751d2e0d7048"
+ },
+ {
+  "archivo": "index.js",
+  "bytes": 279815,
+  "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+ },
+ {
+  "archivo": "index.png",
+  "bytes": 21443,
+  "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+ },
+ {
+  "archivo": "index.wasm",
+  "bytes": 39514754,
+  "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+ },
+ {
+  "archivo": "juego-00-2cb865af1dc5.bin",
+  "bytes": 50331648,
+  "sha256": "2cb865af1dc5a02d841d05ec9d62288ed15d2de5d327a578038220a4e2b7e98a"
+ },
+ {
+  "archivo": "juego-01-36fcb56b23ed.bin",
+  "bytes": 7133376,
+  "sha256": "36fcb56b23edac499112d4e35a88b97445c6e8bcb92d50f132cbeadf9ad8373e"
+ },
+ {
+  "archivo": "manifest.webmanifest",
+  "bytes": 500,
+  "sha256": "204293f13f0895fbf100927932777498d114a4ee68c84922d5a4554c30452f77"
+ },
+ {
+  "archivo": "paquete.json",
+  "bytes": 495,
+  "sha256": "128605a3856ff097b7c6341bfa54f90d10464fe7b9cf7479b182fb519220ec6b"
+ },
+ {
+  "archivo": "wersja.json",
+  "bytes": 235,
+  "sha256": "e312eaca3a5a90063b8542be79f4b3112cfedf543371ba31161adfd83be8fcc1"
+ }
 ]
