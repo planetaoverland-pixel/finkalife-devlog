@@ -47,7 +47,7 @@
  {
   "archivo": "index.html",
   "bytes": 7780,
-  "sha256": "c70a0ed79efead046cca204806abfb91e276bd0dd90ebd3ba3e4ac99f097bccc"
+  "sha256": "6c6795a6c3336b34e57fef92e936770ed322ecb2fd2edd3d92f394fe823c4d98"
  },
  {
   "archivo": "index.icon.png",
@@ -70,9 +70,9 @@
   "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
  },
  {
-  "archivo": "juego-00-25407162fa35.bin",
-  "bytes": 32221440,
-  "sha256": "25407162fa35361caf4a72692ae4674c6b5bbea13e90c6ad6e422d0afd0a7d3f"
+  "archivo": "juego-00-675d32958c06.bin",
+  "bytes": 32222848,
+  "sha256": "675d32958c062dd76d705f04f9b7c1907bb5ca3b7bdd6583e3b3b075392d876d"
  },
  {
   "archivo": "manifest.webmanifest",
@@ -82,11 +82,11 @@
  {
   "archivo": "paquete.json",
   "bytes": 324,
-  "sha256": "ca4b8f719f8fac67a38b123f631971566f5abc6effee123b1d2bc15023b2ef0f"
+  "sha256": "e8ed42433787029e160a3331089750459761d368f0ab2be20f16c93341cc2fd0"
  },
  {
   "archivo": "wersja.json",
   "bytes": 235,
-  "sha256": "24fa7f67083f6749748b51d64e386c5ba4232dd7e21ccc5cb5126bed516e85e6"
+  "sha256": "c5381f64fcc2ecd7b7c8927c3b9856452d205124e8e025b477842512c651b644"
  }
 ]
