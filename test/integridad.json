@@ -1,38 +1,38 @@
 [
  {
   "archivo": "icono-16.png",
-  "bytes": 770,
-  "sha256": "0b22603d7323e146070d3a82bb76f087670aba30cc59fb97b234c8a8b064cd97"
+  "bytes": 1003,
+  "sha256": "e3c0c516a2b2486f0cd4cfbd6a486825174ec61f4b8e2f4793cb8be45428668f"
  },
  {
   "archivo": "icono-192.png",
-  "bytes": 56859,
-  "sha256": "102232eabef2528a6d562d7440287442a30fadcc24ec19ab01d91b2b7246d544"
+  "bytes": 62326,
+  "sha256": "c22cc3ea700c162691f517114eeb41bf1e89d2b7725c59b48823d77e3452d5b7"
  },
  {
   "archivo": "icono-32.png",
-  "bytes": 2510,
-  "sha256": "62ee23c1b63164dddcd0ef908407cd63369024a05fde56a53e9319d217e40986"
+  "bytes": 3295,
+  "sha256": "d4b3221fa5f43718a4fa9546abe9bb7c987111e6a98403aee7c7d0d6c8ff9a10"
  },
  {
   "archivo": "icono-48.png",
-  "bytes": 5066,
-  "sha256": "ddf5fc79588f9ed0a1fa700c99493740def67d48c24e3c7eb69f9c6499d56509"
+  "bytes": 6603,
+  "sha256": "be6995acc209d2337ed7c25c1843e56fbc185f9f3426a2ab1ed90d35c32bf15a"
  },
  {
   "archivo": "icono-512-maskable.png",
-  "bytes": 203562,
-  "sha256": "95b3eb167d049d3e1d34d722268cc5a655c7d78f0e2ba42fda74e2239c6ab1fd"
+  "bytes": 190210,
+  "sha256": "298692a046922b1ce9c7eed0a34aed885b7d62ff07cac1a70f8ee5e0811aa975"
  },
  {
   "archivo": "icono-512.png",
-  "bytes": 284059,
-  "sha256": "9a29ccb96f56621d7c701f8e46fd7ca998ee856a30cd2005d6d71ca8b6e5c7cc"
+  "bytes": 291518,
+  "sha256": "2f40bb56521c5bded2dcb34a8fd276abf61d93d18f904a81d3c482cdd9d0b7ed"
  },
  {
   "archivo": "index.apple-touch-icon.png",
-  "bytes": 51008,
-  "sha256": "e875a153b6c69b949e73c96dc8f4d1d7fade6a02702160487c7a52cbb09cbb47"
+  "bytes": 48235,
+  "sha256": "190ef656a73d95ebc077b9d2a1a8cc4791fc326a38dfc161a33f9490ed236804"
  },
  {
   "archivo": "index.audio.position.worklet.js",
@@ -47,12 +47,12 @@
  {
   "archivo": "index.html",
   "bytes": 7780,
-  "sha256": "802494b5ff71589e1e0f434cba90c4be2a8aae13346bc3cfeee4fba9248ee3d5"
+  "sha256": "435317f94081a03777cd348e34feb84f40ac6881dc1e8ef1a1e33184045254fa"
  },
  {
   "archivo": "index.icon.png",
-  "bytes": 90382,
-  "sha256": "83cba05cde42888f672d2da41ae410681edcd57e2703e6c4f6a95e26c381ce95"
+  "bytes": 100346,
+  "sha256": "da5dd3de54122a00800a81d9a30693eb634f8d11ce3095bfdd0168e5642dfc5d"
  },
  {
   "archivo": "index.js",
@@ -70,9 +70,9 @@
   "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
  },
  {
-  "archivo": "juego-00-d3677c43ddab.bin",
-  "bytes": 40767040,
-  "sha256": "d3677c43ddab0fe022e4c99904a4e35f4001110438115084a43278d9c725c969"
+  "archivo": "juego-00-0eb4b7bfdd7a.bin",
+  "bytes": 40800800,
+  "sha256": "0eb4b7bfdd7a3fa3571f9b84da8f3f55308c25f74ac80ba2cd98e873dd33a0b6"
  },
  {
   "archivo": "manifest.webmanifest",
@@ -82,11 +82,11 @@
  {
   "archivo": "paquete.json",
   "bytes": 324,
-  "sha256": "1fc8b12b60763cf104a7281efca09f077dc0c165fca55387e6df8cb4270e74e8"
+  "sha256": "d8a95d91b69d4fe18961bca8be347ee2f94a7e6c8c2529d4fac54742c24028b6"
  },
  {
   "archivo": "wersja.json",
   "bytes": 235,
-  "sha256": "3ba7bf313609353f9dd313ec99265065fa3111be4d4c2608c7ad880182c626a5"
+  "sha256": "b9697b3307572f3e921207be419a9e2c7f91e72507017b303f95408b81d1cea7"
  }
 ]
