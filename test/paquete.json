@@ -1,12 +1,12 @@
 {
-  "version": "0.200.20",
-  "bytes": 42907648,
-  "sha256": "13a1d2f347f794c42eddbfb2c3e85074b2a5026275192153b9670b79a80b1436",
+  "version": "0.200.21",
+  "bytes": 42909264,
+  "sha256": "d24628b082f842c945b39575db156b5eed3e8cee5e33a9a2612a914b3da3df00",
   "partes": [
     {
-      "archivo": "juego-00-13a1d2f347f7.bin",
-      "bytes": 42907648,
-      "sha256": "13a1d2f347f794c42eddbfb2c3e85074b2a5026275192153b9670b79a80b1436"
+      "archivo": "juego-00-d24628b082f8.bin",
+      "bytes": 42909264,
+      "sha256": "d24628b082f842c945b39575db156b5eed3e8cee5e33a9a2612a914b3da3df00"
     }
   ]
 }
