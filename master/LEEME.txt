@@ -1,0 +1,1 @@
+Finka Master (juego grande) para probar en el iPad. Se exporta desde C:\Proyectos\FinkaLife_grande (preset Web).
