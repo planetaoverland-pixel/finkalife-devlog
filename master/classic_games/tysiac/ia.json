@@ -1,0 +1,24 @@
+{
+  "nivel": "normal",
+  "espera_ms": 800,
+  "valor_as": 22,
+  "valor_diez_con_as": 14,
+  "valor_diez_sin_as": 8,
+  "valor_rey": 4,
+  "valor_dama": 2,
+  "peso_meld": 0.8,
+  "suit_largo": 4,
+  "retener_meld": 0.15,
+  "niveles": {
+    "facil": {
+      "margen_puja": 35
+    },
+    "normal": {
+      "estrategia": "original_sin_cambios"
+    },
+    "dificil": {
+      "muestras": 12,
+      "intentos_muestra": 160
+    }
+  }
+}

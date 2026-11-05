@@ -1,57 +1,62 @@
 {
-  "version": "0.125.78",
-  "bytes": 164245124,
-  "sha256": "1d6f73cfd7d1bc3a6fccfd46672d22ff338b7c53f5a4f2ee63ba0e9736c9a9bf",
+  "version": "0.125.79",
+  "bytes": 167922088,
+  "sha256": "445d278fffbc51e9336841f73a79354985e6b77b5b1013c244d417899e5c7c60",
   "partes": [
     {
       "archivo": "juego-00.bin",
       "bytes": 16777216,
-      "sha256": "b5d51fec77b576cfb300a6a19808d372ce15fb24ae6adcbbf5901219cabae849"
+      "sha256": "194b0c0ae799fcf95e9cf2c63d5893a1832f05caa6ce28cee8041ae495860411"
     },
     {
       "archivo": "juego-01.bin",
       "bytes": 16777216,
-      "sha256": "68546d9236946d17678b5093c551cdc9b78ccc77c47b3dfd0c848a46a321cd55"
+      "sha256": "27519d7186d238d020f483687b467b17d013f305edfa19d7444e406e78efea00"
     },
     {
       "archivo": "juego-02.bin",
       "bytes": 16777216,
-      "sha256": "d49ae60385dd94a4eedeb3b201ce4e25d550394c8d5dd7a2a1a5796bb3554898"
+      "sha256": "02ee32dbeb50cf74369ce04ca375d650c066a79c3b0c0d222b046dae76e3c30a"
     },
     {
       "archivo": "juego-03.bin",
       "bytes": 16777216,
-      "sha256": "c214aa044df014f6fc6a970a58066e4ca3461bc0986b814b2be085e2aabd420f"
+      "sha256": "63ca1f5be1b817c05c5a0b825adf1fd42c0b2e210257273265673c70d6da0e8f"
     },
     {
       "archivo": "juego-04.bin",
       "bytes": 16777216,
-      "sha256": "b395710fcb406963b987ad93d55fd0516668061d22621349d244d52e8b531e96"
+      "sha256": "ee7c02377f1c3377512a227a0f697abaaf943ca7e05e42ec9119d78497579984"
     },
     {
       "archivo": "juego-05.bin",
       "bytes": 16777216,
-      "sha256": "605d7e018ec5bf70b5cb6880b49da074bf3adbf20fa2ea1f493347978c775bb5"
+      "sha256": "f417ee467633b503f461da178db666a2d8e69222124c45269bf064eb61472a85"
     },
     {
       "archivo": "juego-06.bin",
       "bytes": 16777216,
-      "sha256": "cc2df72ab0b8471496e500121403d498c69a639afffa77c8a9724ed993523538"
+      "sha256": "30f5fc0ff1d79165deb5e2c71c160d0664b1f3328ceb0887eb7543dfa1f4c563"
     },
     {
       "archivo": "juego-07.bin",
       "bytes": 16777216,
-      "sha256": "ec5b35d9a072d85a489f439d6f028164b05f55a18d39248276989841755f55d9"
+      "sha256": "f51ab76ebd0efe282b2802a8d00b777be18dccb0b2abfcdee568b03aa1e8d3a0"
     },
     {
       "archivo": "juego-08.bin",
       "bytes": 16777216,
-      "sha256": "8b9b6cb2d237bcd6afed53c7be6037874b1097929d0a48878b6750e42115d0d2"
+      "sha256": "e7bfd9e453d45350bf4eed115f71a852dde2e69e43e652554ad4716be51449c4"
     },
     {
       "archivo": "juego-09.bin",
-      "bytes": 13250180,
-      "sha256": "1d7f37d13b97417a2da11ab7e6880f097aaea9a9d06b888b0139b8b50e86dfc4"
+      "bytes": 16777216,
+      "sha256": "c7a75853a3b59e9fa09d823961789079b561019d4ed60c96821723e85d6b3174"
+    },
+    {
+      "archivo": "juego-10.bin",
+      "bytes": 149928,
+      "sha256": "30a674a2328676d95c0b6ce28b5b37ec82ad987d7f9868f71dc667b2ec6a3bd5"
     }
   ]
 }

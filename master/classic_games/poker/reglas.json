@@ -1,0 +1,16 @@
+{
+  "variante": "Texas Holdem no-limit",
+  "jugadores_min": 2,
+  "jugadores_max": 6,
+  "fichas_iniciales": 1000,
+  "ciega_pequena": 5,
+  "ciega_grande": 10,
+  "ante": 0,
+  "comision": 0,
+  "dinero_real": false,
+  "reposiciones": false,
+  "tableros": 1,
+  "ficha_impar": "primer ganador a la izquierda del boton",
+  "rotacion": "boton vivo, saltando eliminados; no dead-button de torneo",
+  "mostrar_cartas": "solo propias y las mostradas legalmente al desenlace"
+}
